@@ -9,11 +9,11 @@
     .menu{
   display:flex;
   justify-content:center;
-  gap:12px;
   flex-wrap:wrap;
-        max-width:420px;
-  margin:15px auto;
-}
+  gap:12px;
+  max-width:500px;
+  margin:0 auto 20px auto;
+    }
 
 .menu button{
   background:#000;
@@ -103,7 +103,10 @@ width:80%;
 
 <body>
 <div style="text-align:center;padding:20px;">
-<img src="logo.png" class="logo">
+<img src="logo.png" style="width:180px;max-width:80%;">
+</div>
+    <div class="menu">
+
 <button onclick="mostrar('diarios')">
 📅 Diarios
 </button>
@@ -120,7 +123,7 @@ width:80%;
 🎓 Aprende
 </button>
 
-</div>
+    </div>
     <div id="diarios">
         <div id="contenedor-cupones"></div>
 <h1>🔥 CUPONES DEL DÍA</h1>
