@@ -276,10 +276,10 @@ seccion
     lineas[0]
     .trim();
 
-    const descuento =
+    const beneficio =
 (lineas[1] || "")
-.replace("$","")
-.replace(" de descuento","");
+.replace("Beneficio: ","")
+.trim();
     const minimo =
     lineas[2] || "";
       const enlace =
@@ -293,7 +293,7 @@ linea => linea.startsWith("Enlace ")
 <div class="card">
 
 <div class="descuento">
-🔥 -$${descuento} 🔥
+🔥 ${beneficio} 🔥
 </div>
 
 <p class="compra-minima">
