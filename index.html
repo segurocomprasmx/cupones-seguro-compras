@@ -154,12 +154,7 @@ border-radius:20px;
 
 <h1>🏦 CUPONES BANCARIOS</h1>
 
-<div class="card">
-    <h2>BBVA</h2>
-    <button>
-    Próximamente
-    </button>
-</div>
+<div id="contenedor-bancarios"></div>
 
 </div>
 
@@ -303,8 +298,61 @@ onclick="revelarCupon('${codigo}')">
   });
 
     }
+async function cargarBancarios(){
 
+const respuesta =
+await fetch("bancarios.txt");
+
+const texto =
+await respuesta.text();
+
+const contenedor =
+document.getElementById("contenedor-bancarios");
+
+contenedor.innerHTML = "";
+
+const lineas =
+texto.trim().split("\n");
+
+lineas.forEach(linea=>{
+
+const datos =
+linea.split("|");
+
+const banco =
+datos[0];
+
+const codigo =
+datos[1];
+
+const promo =
+datos[2];
+
+contenedor.innerHTML += `
+
+<div class="card">
+
+<h2>🏦 ${banco}</h2>
+
+<p>${promo}</p>
+
+<p><b>${codigo}</b></p>
+
+<button onclick="copiar('${codigo}')">
+
+📋 Copiar Cupón
+
+</button>
+
+</div>
+
+`;
+
+});
+
+}
 cargarCupones();
+cargarBancarios();
 </script>
 <div id="mensajeCopiado" class="toast">
 ✅ ¡Cupón copiado!<br>
