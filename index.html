@@ -32,9 +32,9 @@ body{
 }
 
 .logo{
-    width:50px;
+    width:90px;
     border-radius:50%;
-    margin-top:10px;
+    margin-bottom:15px;
 }
 img{
     pointer-events:none;
@@ -180,6 +180,15 @@ width:80%;
 </div>
 
 <script>
+    function revelarCupon(codigo){
+
+document.getElementById(
+"codigo-" + codigo
+).innerHTML = codigo;
+
+copiar(codigo);
+
+    }
 function copiar(cupon){
   navigator.clipboard.writeText(cupon);
 
@@ -242,24 +251,39 @@ document.getElementById(seccion).style.display="block";
     lineas[2] || "";
 
     contenedor.innerHTML += `
-      <div class="card">
+<div class="card">
 
-        <h2 class="descuento">
-🔥 -$${descuento}🔥
+<div class="descuento">
+🔥 -$${descuento} 🔥
+</div>
 
-</h2>
+<p class="compra-minima">
+🛒 ${minimo}
+</p>
 
-        <p>${minimo}</p>
+<p style="font-weight:bold;">
+🔒 Toca para revelar
+</p>
 
-        <button onclick="copiar('${codigo}')">
+<div id="codigo-${codigo}"
+style="
+font-size:24px;
+letter-spacing:4px;
+margin:15px 0;
+font-weight:bold;
+">
+██████████
+</div>
 
-        📋 Copiar y Canjear
+<button
+onclick="revelarCupon('${codigo}')">
 
-        </button>
+🎁 Revelar y Copiar
 
-      </div>
-    `;
+</button>
 
+</div>
+`;
   });
 
     }
