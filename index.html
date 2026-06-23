@@ -283,9 +283,11 @@ seccion
     const minimo =
     lineas[2] || "";
       const enlace =
-(lineas[3] || "")
-.replace("Enlace ","")
-.trim();
+lineas.find(
+linea => linea.startsWith("Enlace ")
+)
+?.replace("Enlace ","")
+.trim() || "";
 
     contenedor.innerHTML += `
 <div class="card">
@@ -315,7 +317,7 @@ font-weight:bold;
 </div>
 
 <button
-onclick="revelarCupon('${codigo}','${enlace}')"
+onclick="revelarCupon('${codigo}','${enlace}')">
 
 🎁 Revelar y Copiar
 
