@@ -198,7 +198,7 @@ border-radius:20px;
 </div>
 
 <script>
-    function revelarCupon(codigo){
+    function revelarCupon(codigo,enlace){
 
 document.getElementById(
 "codigo-" + codigo
@@ -208,15 +208,15 @@ document.getElementById(
 ).innerHTML =
 "🎉 ¡Felicidades!<br>Código revelado";
 
-copiar(codigo);
+copiar(codigo,enlace);
 
     }
-function copiar(cupon){
+function copiar(cupon,enlace){
   navigator.clipboard.writeText(cupon);
     setTimeout(() => {
 
 window.open(
-'https://meli.la/2AyhQpq',
+enlace,
 '_blank'
 );
 
@@ -282,6 +282,10 @@ seccion
 .replace(" de descuento","");
     const minimo =
     lineas[2] || "";
+      const enlace =
+(lineas[3] || "")
+.replace("Enlace ","")
+.trim();
 
     contenedor.innerHTML += `
 <div class="card">
@@ -311,7 +315,7 @@ font-weight:bold;
 </div>
 
 <button
-onclick="revelarCupon('${codigo}')">
+onclick="revelarCupon('${codigo}','${enlace}')"
 
 🎁 Revelar y Copiar
 
