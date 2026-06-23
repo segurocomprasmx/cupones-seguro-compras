@@ -9,9 +9,10 @@
     .menu{
   display:flex;
   justify-content:center;
-  gap:15px;
+  gap:12px;
   flex-wrap:wrap;
-  margin:20px 0;
+        max-width:420px;
+  margin:15px auto;
 }
 
 .menu button{
@@ -32,7 +33,7 @@ body{
 }
 
 .logo{
-    width:90px;
+    width:120px;
     border-radius:50%;
     margin-bottom:15px;
 }
@@ -185,6 +186,10 @@ width:80%;
 document.getElementById(
 "codigo-" + codigo
 ).innerHTML = codigo;
+        document.getElementById(
+"estado-" + codigo
+).innerHTML =
+"🎉 ¡Felicidades!<br>Código revelado";
 
 copiar(codigo);
 
@@ -261,7 +266,9 @@ document.getElementById(seccion).style.display="block";
 🛒 ${minimo}
 </p>
 
-<p style="font-weight:bold;">
+<p
+id="estado-${codigo}"
+style="font-weight:bold;">
 🔒 Toca para revelar
 </p>
 
