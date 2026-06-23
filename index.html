@@ -86,6 +86,11 @@ width:80%;
 .toast.mostrar{
   opacity:1;
 }    
+    .descuento{
+  font-size:60px;
+  font-weight:bold;
+  margin-bottom:25px;
+    }
 </style>
 
 </head>
@@ -93,10 +98,6 @@ width:80%;
 <body>
 <div style="text-align:center;padding:20px;">
 <img src="logo.png" style="width:180px;max-width:80%;">
-
-<h1 style="margin-top:10px;">Seguro Compras</h1>
-<p>Cupones, ofertas y promociones actualizadas</p>
-<div class="menu">
 
 <button onclick="mostrar('diarios')">
 📅 Diarios
@@ -231,15 +232,18 @@ document.getElementById(seccion).style.display="block";
     .trim();
 
     const descuento =
-    lineas[1] || "";
-
+(lineas[1] || "")
+.replace("$","")
+.replace(" de descuento","");
     const minimo =
     lineas[2] || "";
 
     contenedor.innerHTML += `
       <div class="card">
 
-        <h2>${descuento}</h2>
+        <h2 class="descuento">
+🔥 -$${descuento}🔥
+</h2>
 
         <p>${minimo}</p>
 
