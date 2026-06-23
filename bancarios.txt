@@ -1,9 +1,9 @@
-Meses Sin Tarjeta ML|MSTGOL|Hasta $500 OFF|Compra mínima $2,500
-Mercado Pago|TCMPGOL|Hasta $500 OFF|Compra mínima $4,000
-BBVA|BBVAGOL|Hasta $500 OFF|Compra mínima $4,500
-Santander|SANTGOL|Hasta $500 OFF|Compra mínima $2,500
-HSBC|HSBCGOL|Hasta $500 OFF|Compra mínima $3,000
-American Express|AMEXGOL|Hasta $500 OFF|Compra mínima $4,500
-BANORTE|BNRTGOL|Hasta $500 OFF|Compra mínima $3,000
-Afirme|AFRMGOL|15% Hasta $1000 OFF|Compra mínima $$2,500
-Mifel|MIFEGOL|15% Hasta $750 OFF|Compra mínima $2,500
+Meses Sin Tarjeta ML|MSTGOL|Hasta $500 OFF|Compra mínima $2,500|https://mercadolibre.com/sec/2MvAiFh
+Mercado Pago|TCMPGOL|Hasta $500 OFF|Compra mínima $4,000|https://mercadolibre.com/sec/2MvAiFh
+BBVA|BBVAGOL|Hasta $500 OFF|Compra mínima $4,500|https://mercadolibre.com/sec/2MvAiFh
+Santander|SANTGOL|Hasta $500 OFF|Compra mínima $2,500|https://mercadolibre.com/sec/2MvAiFh
+HSBC|HSBCGOL|Hasta $500 OFF|Compra mínima $3,000|https://mercadolibre.com/sec/2MvAiFh
+American Express|AMEXGOL|Hasta $500 OFF|Compra mínima $4,500|https://mercadolibre.com/sec/2MvAiFh
+BANORTE|BNRTGOL|Hasta $500 OFF|Compra mínima $3,000|https://mercadolibre.com/sec/2MvAiFh
+Afirme|AFRMGOL|15% Hasta $1000 OFF|Compra mínima $$2,500|https://mercadolibre.com/sec/2MvAiFh
+Mifel|MIFEGOL|15% Hasta $750 OFF|Compra mínima $2,500|https://mercadolibre.com/sec/2MvAiFh
