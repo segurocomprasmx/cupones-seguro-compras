@@ -51,8 +51,15 @@ h1{
     border:3px solid #000;
     border-radius:12px;
     padding:10px;
-    margin:15px auto;
+    margin:10px auto;
     max-width:400px;
+}
+    .card h2{
+    margin:5px 0;
+}
+
+.card p{
+    margin:8px 0;
 }
 
 button{
@@ -200,7 +207,10 @@ copiar(codigo);
     }
 function copiar(cupon){
   navigator.clipboard.writeText(cupon);
-
+window.open(
+'https://www.mercadolibre.com.mx/',
+'_blank'
+);
   const toast = document.getElementById("mensajeCopiado");
 
   toast.classList.add("mostrar");
@@ -217,7 +227,10 @@ document.getElementById("secretos").style.display="none";
 document.getElementById("aprende").style.display="none";
 
 document.getElementById(seccion).style.display="block";
-
+localStorage.setItem(
+"ultimaSeccion",
+seccion
+);
     }
     async function cargarCupones(){
 
@@ -328,6 +341,9 @@ datos[1];
 const promo =
 datos[2];
 
+const minimo =
+datos[3];
+    
 contenedor.innerHTML += `
 
 <div class="card">
@@ -336,8 +352,9 @@ contenedor.innerHTML += `
 
 <p>${promo}</p>
 
-<p><b>${codigo}</b></p>
+<p>🛒 ${minimo}</p>
 
+<p><b>${codigo}</b></p>
 <button onclick="copiar('${codigo}')">
 
 📋 Copiar Cupón
@@ -353,6 +370,14 @@ contenedor.innerHTML += `
 }
 cargarCupones();
 cargarBancarios();
+    const ultima =
+localStorage.getItem(
+"ultimaSeccion"
+);
+
+if(ultima){
+    mostrar(ultima);
+}
 </script>
 <div id="mensajeCopiado" class="toast">
 ✅ ¡Cupón copiado!<br>
