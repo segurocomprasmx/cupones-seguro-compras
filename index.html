@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cupones Seguro Compras</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    background:#78d0d0;
+    margin:0;
+    padding:20px;
+    text-align:center;
+}
+
+.logo{
+    width:120px;
+    border-radius:50%;
+    margin-top:10px;
+}
+
+h1{
+    color:#000;
+}
+
+.card{
+    background:#e6d21b;
+    border:3px solid #000;
+    border-radius:12px;
+    padding:20px;
+    margin:15px auto;
+    max-width:400px;
+}
+
+button{
+    background:#000;
+    color:white;
+    border:none;
+    padding:10px 20px;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+button:hover{
+    opacity:.8;
+}
+</style>
+
+</head>
+
+<body>
+
+<h1>🔥 CUPONES DEL DÍA</h1>
+
+<div class="card">
+    <h2>$200 OFF desde $1500</h2>
+    <button onclick="copiar('CUPON200')">📋 Copiar y Canjear</button>
+</div>
+
+<div class="card">
+    <h2>$265 OFF desde $2500</h2>
+    <button onclick="copiar('CUPON265')">📋 Copiar y Canjear</button>
+</div>
+
+<div class="card">
+    <h2>$800 OFF desde $8000</h2>
+    <button onclick="copiar('CUPON800')">📋 Copiar y Canjear</button>
+</div>
+
+<script>
+function copiar(cupon){
+    navigator.clipboard.writeText(cupon);
+    alert("Cupón copiado: " + cupon);
+}
+</script>
+
+</body>
+</html>
