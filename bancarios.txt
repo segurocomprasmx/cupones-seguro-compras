@@ -1,9 +1,9 @@
-BBVA|BBVAGOL|Hasta $500 OFF
-Santander|SANTGOL|Hasta $500 OFF
-HSBC|HSBCGOL|Hasta $500 OFF
-Mercado Pago|TCMPGOL|Hasta $500 OFF
-American Express|AMEXGOL|Hasta $500 OFF
-Meses Sin Tarjeta|MSTGOL|Hasta $500 OFF
-Afirme|AFRMGOL|Hasta $750 OFF
-Mifel|MIFEGOL|Hasta $750 OFF
-Mercado Libre Plus|MELIMASGOL|Beneficio especial
+BBVA|BBVAGOL|Hasta $500 OFF|Compra mínima $3,999
+Santander|SANTGOL|Hasta $500 OFF|Compra mínima $3,999
+HSBC|HSBCGOL|Hasta $500 OFF|Compra mínima $3,999
+Mercado Pago|TCMPGOL|Hasta $500 OFF|Compra mínima $3,999
+American Express|AMEXGOL|Hasta $500 OFF|Compra mínima $3,999
+Meses Sin Tarjeta|MSTGOL|Hasta $500 OFF|Compra mínima $3,999
+Afirme|AFRMGOL|Hasta $750 OFF|Compra mínima $5,999
+Mifel|MIFEGOL|Hasta $750 OFF|Compra mínima $5,999
+Mercado Libre Plus|MELIMASGOL|Beneficio especial|Consulta condiciones
