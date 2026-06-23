@@ -105,6 +105,12 @@ width:80%;
 .compra-minima{
     margin-top:0;
 }
+    .no-select{
+  user-select:none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+    }
 </style>
 
 </head>
@@ -359,7 +365,9 @@ contenedor.innerHTML += `
 
 <p>🛒 ${minimo}</p>
 
-<p><b>${codigo}</b></p>
+<p class="no-select">
+<b>${codigo}</b>
+</p>
 <button onclick="copiar('${codigo}')">
 
 📋 Copiar Cupón
