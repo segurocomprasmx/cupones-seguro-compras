@@ -51,6 +51,26 @@ button{
 button:hover{
     opacity:.8;
 }
+.toast{
+  position:fixed;
+  bottom:30px;
+  left:50%;
+  transform:translateX(-50%);
+  background:#1e1e1e;
+  color:white;
+  padding:15px 20px;
+  border-radius:12px;
+  font-size:14px;
+  text-align:center;
+  opacity:0;
+  transition:opacity .4s;
+  z-index:9999;
+  max-width:300px;
+}
+
+.toast.mostrar{
+  opacity:1;
+}    
 </style>
 
 </head>
@@ -76,10 +96,22 @@ button:hover{
 
 <script>
 function copiar(cupon){
-    navigator.clipboard.writeText(cupon);
+  navigator.clipboard.writeText(cupon);
+
+  const toast = document.getElementById("mensajeCopiado");
+
+  toast.classList.add("mostrar");
+
+  setTimeout(() => {
+    toast.classList.remove("mostrar");
+  }, 2500);
+}
     alert("Cupón copiado: " + cupon);
 }
 </script>
-
+<div id="mensajeCopiado" class="toast">
+✅ ¡Cupón copiado!<br>
+Ahora abre Mercado Libre y actívalo antes de pagar.
+</div>
 </body>
 </html>
