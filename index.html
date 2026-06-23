@@ -6,6 +6,22 @@
 <title>Cupones Seguro Compras</title>
 
 <style>
+    .menu{
+  display:flex;
+  justify-content:center;
+  gap:8px;
+  flex-wrap:wrap;
+  margin:20px 0;
+}
+
+.menu button{
+  background:#000;
+  color:white;
+  border:none;
+  padding:10px 14px;
+  border-radius:10px;
+  font-weight:bold;
+}
 body{
     font-family: Arial, sans-serif;
     background:#78d0d0;
@@ -80,7 +96,27 @@ width:80%;
 
 <h1 style="margin-top:10px;">Seguro Compras</h1>
 <p>Cupones, ofertas y promociones actualizadas</p>
+<div class="menu">
+
+<button onclick="mostrar('diarios')">
+📅 Diarios
+</button>
+
+<button onclick="mostrar('bancarios')">
+🏦 Bancarios
+</button>
+
+<button onclick="mostrar('secretos')">
+🔒 Secretos
+</button>
+
+<button onclick="mostrar('aprende')">
+🎓 Aprende
+</button>
+
 </div>
+</div>
+    <div id="diarios">
 <h1>🔥 CUPONES DEL DÍA</h1>
 
 <div class="card">
@@ -92,7 +128,45 @@ width:80%;
     <h2>$265 OFF desde $2500</h2>
     <button onclick="copiar('CUPON265')">📋 Copiar y Canjear</button>
 </div>
+    </div>
+    <div id="bancarios" style="display:none;">
 
+<h1>🏦 CUPONES BANCARIOS</h1>
+
+<div class="card">
+    <h2>BBVA</h2>
+    <button>
+    Próximamente
+    </button>
+</div>
+
+</div>
+
+
+<div id="secretos" style="display:none;">
+
+<h1>🔒 CUPONES SECRETOS</h1>
+
+<div class="card">
+    <h2>Próximamente</h2>
+</div>
+
+</div>
+
+
+<div id="aprende" style="display:none;">
+
+<h1>🎓 ¿Cómo usar cupones?</h1>
+
+<div class="card">
+    <p>
+    1️⃣ Copia el cupón<br><br>
+    2️⃣ Abre Mercado Libre<br><br>
+    3️⃣ Actívalo antes de pagar
+    </p>
+</div>
+
+</div>
 <div class="card">
     <h2>$800 OFF desde $8000</h2>
     <button onclick="copiar('CUPON800')">📋 Copiar y Canjear</button>
@@ -110,6 +184,16 @@ function copiar(cupon){
     toast.classList.remove("mostrar");
   }, 2500);
 }
+    function mostrar(seccion){
+
+document.getElementById("diarios").style.display="none";
+document.getElementById("bancarios").style.display="none";
+document.getElementById("secretos").style.display="none";
+document.getElementById("aprende").style.display="none";
+
+document.getElementById(seccion).style.display="block";
+
+    }
 </script>
 <div id="mensajeCopiado" class="toast">
 ✅ ¡Cupón copiado!<br>
