@@ -360,6 +360,8 @@ datos[2];
 
 const minimo =
 datos[3];
+    const enlace =
+datos[4];
     
 contenedor.innerHTML += `
 
@@ -374,7 +376,7 @@ contenedor.innerHTML += `
 <p class="no-select">
 <b>${codigo}</b>
 </p>
-<button onclick="copiar('${codigo}')">
+<button onclick="copiar('${codigo}','${enlace}')">
 
 📋 Copiar Cupón
 
