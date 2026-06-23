@@ -207,10 +207,15 @@ copiar(codigo);
     }
 function copiar(cupon){
   navigator.clipboard.writeText(cupon);
+    setTimeout(() => {
+
 window.open(
 'https://www.mercadolibre.com.mx/',
 '_blank'
 );
+
+},500);
+}
   const toast = document.getElementById("mensajeCopiado");
 
   toast.classList.add("mostrar");
