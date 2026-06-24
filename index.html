@@ -226,7 +226,9 @@ document.getElementById(
 "estado-" + codigo
 ).innerHTML =
 "🎉 ¡Felicidades!<br>Código revelado";
-
+setTimeout(()=>{
+  copiar(codigo,enlace);
+},300);
 copiar(codigo,enlace);
 
     }
@@ -258,7 +260,9 @@ banco
 gtag('event','copiar_bancario',{
   banco:banco
 });
-
+setTimeout(()=>{
+  copiar(codigo,enlace);
+},300);
 copiar(codigo,enlace);
 
     }
