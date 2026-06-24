@@ -214,7 +214,11 @@ border-radius:20px;
 
 <script>
     function revelarCupon(codigo,enlace){
-
+        
+gtag('event','revelar_cupon',{
+  cupon:codigo
+});
+        
 document.getElementById(
 "codigo-" + codigo
 ).innerHTML = codigo;
