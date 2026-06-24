@@ -253,6 +253,10 @@ document.getElementById("secretos").style.display="none";
 document.getElementById("aprende").style.display="none";
 
 document.getElementById(seccion).style.display="block";
+gtag('event','abrir_seccion',{
+  seccion:seccion
+});
+        
 localStorage.setItem(
 "ultimaSeccion",
 seccion
