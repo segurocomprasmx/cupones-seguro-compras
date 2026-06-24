@@ -1,4 +1,4 @@
-ACTIVO=0
+Estado=1
 
 🎟️ Cupón: LACOPASIGUE
 Beneficio: -$150 | 10% OFF
