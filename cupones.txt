@@ -1,14 +1,14 @@
-ESTADO=0
+ESTADO=1
 
-🎟️ Cupón: LACOPASIGUE
-Beneficio: -$150 | 10% OFF
-Compra minima: $1500
+🎟️ Cupón: VERANOREBAJAS
+Beneficio: -$200
+Compra minima: $2000
 Enlace https://meli.la/2AyhQpq
 
-🎟️ Cupón: 
-Beneficio: 
-Compra minima: 
-Enlace 
+🎟️ Cupón: QUEGANEMEX
+Beneficio: -$700
+Compra minima: $7000
+Enlace https://meli.la/2AyhQpq
 
 🎟️ Cupón: 
 Beneficio: 
