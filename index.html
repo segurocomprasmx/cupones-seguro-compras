@@ -256,9 +256,36 @@ seccion
   document.getElementById(
     "contenedor-cupones"
   );
-
+const activo =
+texto.includes("ACTIVO=1");
+        
   const bloques =
   texto.split("🎟️ Cupón:");
+        if(!activo){
+
+contenedor.innerHTML = `
+
+<div class="card">
+
+<h2>
+😴 Sin cupones por ahora
+</h2>
+
+<p>
+Mercado Libre aún no ha liberado cupones diarios.
+</p>
+
+<p>
+🔄 Vuelve más tarde.
+</p>
+
+</div>
+
+`;
+
+return;
+
+        }
 
   contenedor.innerHTML = "";
 
