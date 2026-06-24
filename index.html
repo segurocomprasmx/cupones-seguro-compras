@@ -257,7 +257,7 @@ seccion
     "contenedor-cupones"
   );
 const activo =
-texto.includes("ACTIVO=1");
+texto.includes("ESTADO=1");
         
   const bloques =
   texto.split("🎟️ Cupón:");
@@ -303,11 +303,17 @@ return;
     const codigo =
     lineas[0]
     .trim();
-
-    const beneficio =
+const beneficio =
 (lineas[1] || "")
-.replace("Beneficio: ","")
+.replace("Beneficio:","")
 .trim();
+
+if(
+codigo === "" ||
+beneficio === ""
+){
+return;
+}
     const minimo =
     lineas[2] || "";
       const enlace =
