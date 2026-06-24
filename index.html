@@ -301,27 +301,35 @@ return;
     .split("\n");
 
     const codigo =
-    lineas[0]
-    .trim();
+lineas[0]
+.trim();
+
 const beneficio =
 (lineas[1] || "")
 .replace("Beneficio:","")
 .trim();
 
-if(
-codigo === "" ||
-beneficio === ""
-){
-return;
-}
-    const minimo =
-    lineas[2] || "";
-      const enlace =
+const minimo =
+(lineas[2] || "")
+.replace("Compra minima:","")
+.replace("Compra mínima:","")
+.trim();
+
+const enlace =
 lineas.find(
 linea => linea.startsWith("Enlace ")
 )
 ?.replace("Enlace ","")
 .trim() || "";
+
+if(
+codigo === "" ||
+beneficio === "" ||
+minimo === "" ||
+enlace === ""
+){
+return;
+}
 
     contenedor.innerHTML += `
 <div class="card">
