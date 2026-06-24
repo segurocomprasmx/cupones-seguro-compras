@@ -1,5 +1,15 @@
 ESTADO=1
 
+🎟️ Cupón: YAPIDE
+Beneficio: -$100
+Compra mínima: $500
+Enlace https://meli.la/2AyhQpq
+
+🎟️ Cupón: 12FLASH
+Beneficio: -$390
+Compra mínima: $3250
+Enlace https://meli.la/2AyhQpq
+
 🎟️ Cupón: VERANOREBAJAS
 Beneficio: -$200
 Compra minima: $2000
@@ -9,13 +19,3 @@ Enlace https://meli.la/2AyhQpq
 Beneficio: -$700
 Compra minima: $7000
 Enlace https://meli.la/2AyhQpq
-
-🎟️ Cupón: 
-Beneficio: 
-Compra mínima: 
-Enlace 
-
-🎟️ Cupón: 
-Beneficio: 
-Compra mínima: 
-Enlace
