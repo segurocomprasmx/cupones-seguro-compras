@@ -1,5 +1,20 @@
 ESTADO=1
 
+🎟️ Cupón: MELI10HOY
+Beneficio: -$200 | 10%
+Compra mínima: $1500
+Enlace https://meli.la/2XtGzm3
+
+🎟️ Cupón: OCHOMIL
+Beneficio: -$800
+Compra minima: $8000
+Enlace https://meli.la/2XtGzm3
+
+🎟️ Cupón: JUEVESMIL
+Beneficio: -$1000
+Compra minima: $10000
+Enlace https://meli.la/2XtGzm3
+
 🎟️ Cupón: JUEVES10
 Beneficio: -$100 | 10%
 Compra mínima: $500
@@ -14,18 +29,3 @@ Enlace https://meli.la/2XtGzm3
 Beneficio: -$600
 Compra mínima: $6000
 Enlace https://meli.la/2XtGzm3
-
-🎟️ Cupón: 
-Beneficio: 
-Compra mínima: 
-Enlace 
-
-🎟️ Cupón: 
-Beneficio: 
-Compra minima: 
-Enlace 
-
-🎟️ Cupón: 
-Beneficio: 
-Compra minima: 
-Enlace 
