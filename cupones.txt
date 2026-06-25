@@ -1,31 +1,31 @@
-ESTADO=0
+ESTADO=1
 
-🎟️ Cupón: MELI12YA
-Beneficio: -$200
-Compra mínima: $2000
-Enlace https://meli.la/2AyhQpq
-
-🎟️ Cupón: JUEGA073
-Beneficio: -$100
-Compra mínima: $1000
-Enlace https://meli.la/2AyhQpq
-
-🎟️ Cupón: YAPIDE
-Beneficio: -$100
+🎟️ Cupón: JUEVES10
+Beneficio: -$100 | 10%
 Compra mínima: $500
 Enlace https://meli.la/2AyhQpq
 
-🎟️ Cupón: 12FLASH
-Beneficio: -$390
-Compra mínima: $3250
+🎟️ Cupón: SIEMPREFUT
+Beneficio: -$215
+Compra mínima: $2000
 Enlace https://meli.la/2AyhQpq
 
-🎟️ Cupón: VERANOREBAJAS
-Beneficio: -$200
-Compra minima: $2000
+🎟️ Cupón: DESCUENTO600
+Beneficio: -$600
+Compra mínima: $6000
 Enlace https://meli.la/2AyhQpq
 
-🎟️ Cupón: QUEGANEMEX
-Beneficio: -$700
-Compra minima: $7000
-Enlace https://meli.la/2AyhQpq
+🎟️ Cupón: 
+Beneficio: 
+Compra mínima: 
+Enlace 
+
+🎟️ Cupón: 
+Beneficio: 
+Compra minima: 
+Enlace 
+
+🎟️ Cupón: 
+Beneficio: 
+Compra minima: 
+Enlace 
