@@ -1,4 +1,4 @@
-ESTADO=1
+ESTADO=0
 
 🎟️ Cupón: MELI12YA
 Beneficio: -$200
