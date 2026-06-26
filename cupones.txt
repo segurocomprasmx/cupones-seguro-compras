@@ -1,9 +1,19 @@
 ESTADO=1
 
-🎟️ Cupón: 
-Beneficio: 
-Compra mínima: 
-Enlace 
+🎟️ Cupón: 12APROVECHA
+Beneficio: -$150 | 10%
+Compra mínima: $1000
+Enlace https://meli.la/1t5jtES
+
+🎟️ Cupón: REBAJAS
+Beneficio: -$200
+Compra mínima: $2000
+Enlace https://meli.la/1t5jtES
+
+🎟️ Cupón: VIERNES600
+Beneficio: -$600
+Compra mínima: $6000
+Enlace https://meli.la/1t5jtES
 
 🎟️ Cupón: CUPON800
 Beneficio: -$800
@@ -14,13 +24,3 @@ Enlace https://meli.la/1t5jtES
 Beneficio: -$1000
 Compra minima: $10000
 Enlace https://meli.la/1t5jtES
-
-🎟️ Cupón: 
-Beneficio: 
-Compra mínima: 
-Enlace 
-
-🎟️ Cupón: 
-Beneficio: 
-Compra mínima: 
-Enlace 
