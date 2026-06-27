@@ -151,7 +151,7 @@ margin:auto;
 height:0;
 ">
 <a
-href="AQUI_VA_TU_FACEBOOK"
+href="https://www.facebook.com/share/17jnTC4F4h/"
 target="_blank"
 style="
 position:absolute;
@@ -176,7 +176,7 @@ top:-170px;
 
 </a>
         <a
-href="TU_ENLACE_DE_INSTAGRAM"
+href="https://www.instagram.com/segurocomprascuponesyofertas?igsh=MTIybXZhbWR5Nzk0eQ=="
 target="_blank"
 style="
 width:48px;
@@ -588,10 +588,63 @@ localStorage.getItem(
 if(ultima){
     mostrar(ultima);
 }
+    const mensajesWhats = [
+
+"🔍 ¿Buscas un producto?",
+
+"💬 ¿Tienes dudas?",
+
+"🛒 ¿Qué estás buscando?",
+
+"🎯 ¿No encuentras una oferta?",
+
+"🤝 Te ayudamos"
+
+];
+
+document.getElementById(
+    "textoWhats"
+).innerText =
+
+mensajesWhats[
+    Math.floor(
+        Math.random() *
+        mensajesWhats.length
+    )
+];
 </script>
 <div id="mensajeCopiado" class="toast">
 ✅ ¡Cupón copiado!<br>
 Ahora abre Mercado Libre y actívalo antes de pagar.
 </div>
+    <a
+id="btnWhats"
+href="#"
+target="_blank"
+style="
+position:fixed;
+bottom:20px;
+right:20px;
+background:#25D366;
+color:white;
+text-decoration:none;
+padding:12px 18px;
+border-radius:40px;
+display:flex;
+align-items:center;
+gap:10px;
+font-size:17px;
+font-weight:bold;
+font-family:Arial,sans-serif;
+box-shadow:0 6px 18px rgba(0,0,0,.30);
+z-index:99999;
+transition:.25s;
+">
+
+<span id="textoWhats">
+💬 ¿Buscas algo?
+</span>
+
+    </a>
 </body>
 </html>
