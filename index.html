@@ -588,6 +588,21 @@ localStorage.getItem(
 if(ultima){
     mostrar(ultima);
 }
+    const enlaceComunidad = "#";
+
+const mensajesWhats = [
+
+"🔍 ¿Buscas un producto?",
+
+"💬 ¿Tienes dudas?",
+
+"🛒 ¿Qué estás buscando?",
+
+"🎯 ¿No encuentras una oferta?",
+
+"🤝 Te ayudamos"
+
+];
     function cambiarMensajeWhats(){
 
 document.getElementById(
@@ -604,6 +619,10 @@ mensajesWhats[
 }
 
 cambiarMensajeWhats();
+    setInterval(
+    cambiarMensajeWhats,
+    8000
+);
 </script>
 <div id="mensajeCopiado" class="toast">
 ✅ ¡Cupón copiado!<br>
