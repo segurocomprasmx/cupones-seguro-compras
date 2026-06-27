@@ -292,6 +292,18 @@ en 30 segundos
 <video
 controls
 playsinline
+    onplay="
+gtag(
+'event',
+'tutorial_play'
+);
+"
+    onended="
+gtag(
+'event',
+'tutorial_finish'
+);
+"
 style="
 width:90%;
 display:block;
