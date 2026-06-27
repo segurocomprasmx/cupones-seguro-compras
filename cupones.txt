@@ -1,26 +1,21 @@
-ESTADO=0
+ESTADO=1
+
+🎟️ Cupón: GOOOL26
+Beneficio: -$300
+Compra mínima: $3000
+Enlace https://meli.la/1R2R8BH
 
 🎟️ Cupón: 
 Beneficio: 
 Compra mínima: 
 Enlace 
 
-🎟️ Cupón: REBAJAS
-Beneficio: -$200
-Compra mínima: $2000
-Enlace https://meli.la/1t5jtES
+🎟️ Cupón: 
+Beneficio: 
+Compra mínima: 
+Enlace 
 
-🎟️ Cupón: VIERNES600
-Beneficio: -$600
-Compra mínima: $6000
-Enlace https://meli.la/1t5jtES
-
-🎟️ Cupón: CUPON800
-Beneficio: -$800
-Compra minima: $8000
-Enlace https://meli.la/1t5jtES
-
-🎟️ Cupón: MILVIERNES
-Beneficio: -$1000
-Compra minima: $10000
-Enlace https://meli.la/1t5jtES
+🎟️ Cupón: 
+Beneficio: 
+Compra mínima: 
+Enlace 
