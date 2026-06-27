@@ -1,4 +1,4 @@
-ESTADO=0
+ESTADO=1
 
 🎟️ Cupón: MELIMASGOL
 Beneficio: $500 | 10% OFF
