@@ -618,11 +618,16 @@ mensajesWhats[
 
 }
 
-cambiarMensajeWhats();
+window.onload = function(){
+
+    cambiarMensajeWhats();
+
     setInterval(
-    cambiarMensajeWhats,
-    8000
-);
+        cambiarMensajeWhats,
+        8000
+    );
+
+};
 </script>
 <div id="mensajeCopiado" class="toast">
 ✅ ¡Cupón copiado!<br>
