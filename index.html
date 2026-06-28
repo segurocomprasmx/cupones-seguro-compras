@@ -30,7 +30,28 @@ gtag('config', 'G-GS6ZG256Y0');
         
   margin:-20px auto 20px auto;
     }
-
+.menuSuperior{
+display:flex;
+justify-content:center;
+align-items:center;
+flex-wrap:wrap;
+gap:8px;
+margin-top:18px;
+margin-bottom:20px;
+font-size:16px;
+font-weight:bold;
+}
+    .menuSuperior a{
+text-decoration:none;
+color:#222;
+transition:.2s;
+    }
+    .menuSuperior a:hover{
+color:#ff7a00;
+    }
+    .menuSuperior span{
+color:#777;
+    }
 .menu button{
   background:#000;
   color:white;
@@ -202,24 +223,30 @@ flex-shrink:0;
 </a>
 
 </div>
-    <div class="menu">
+    <div class="menuSuperior">
 
-<button onclick="mostrar('diarios')">
+<a href="#" onclick="mostrar('diarios')">
 📅 Diarios
-</button>
+</a>
 
-<button onclick="mostrar('bancarios')">
+<span>•</span>
+
+<a href="#" onclick="mostrar('bancarios')">
 🏦 Bancarios
-</button>
-<div style="margin-top:-16px;">
-<button onclick="mostrar('secretos')">
-🔒 Secretos
-</button>
+</a>
 
-<button onclick="mostrar('aprende')">
+<span>•</span>
+
+<a href="#" onclick="mostrar('secretos')">
+🔒 Secretos
+</a>
+
+<span>•</span>
+
+<a href="#" onclick="mostrar('tutorial')">
 🎓 Aprende
-</button>
-</div>
+</a>
+
     </div>
     <div id="diarios">
         <div id="contenedor-cupones"></div>
