@@ -225,25 +225,37 @@ flex-shrink:0;
 </div>
     <div class="menuSuperior">
 
-<a href="#" onclick="mostrar('diarios')">
+<a
+id="btnDiarios"
+href="#"
+onclick="mostrar('diarios')">
 📅 Diarios
 </a>
 
 <span>•</span>
 
-<a href="#" onclick="mostrar('bancarios')">
+<a
+id="btnBancarios"
+href="#"
+onclick="mostrar('bancarios')">
 🏦 Bancarios
 </a>
 
 <span>•</span>
 
-<a href="#" onclick="mostrar('secretos')">
+<a
+id="btnSecretos"
+href="#"
+onclick="mostrar('secretos')">
 🔒 Secretos
 </a>
 
 <span>•</span>
 
-<a href="#" onclick="mostrar('tutorial')">
+<a
+id="btnAprende"
+href="#"
+onclick="mostrar('tutorial')">
 🎓 Aprende
 </a>
 
@@ -422,7 +434,24 @@ document.getElementById("bancarios").style.display="none";
 document.getElementById("secretos").style.display="none";
 document.getElementById("aprende").style.display="none";
 
+document.getElementById("btnDiarios").style.color="#222";
+document.getElementById("btnBancarios").style.color="#222";
+document.getElementById("btnSecretos").style.color="#222";
+document.getElementById("btnAprende").style.color="#222";
+        
 document.getElementById(seccion).style.display="block";
+        
+if(seccion=="diarios")
+document.getElementById("btnDiarios").style.color="#ff7a00";
+
+if(seccion=="bancarios")
+document.getElementById("btnBancarios").style.color="#ff7a00";
+
+if(seccion=="secretos")
+document.getElementById("btnSecretos").style.color="#ff7a00";
+
+if(seccion=="aprende")
+document.getElementById("btnAprende").style.color="#ff7a00";
 gtag('event','abrir_seccion',{
   seccion:seccion
 });
@@ -673,6 +702,24 @@ window.onload = function(){
     );
 
 };
+const ultimaSeccion =
+localStorage.getItem(
+"ultimaSeccion"
+);
+
+if(ultimaSeccion){
+
+    mostrar(
+        ultimaSeccion
+    );
+
+}else{
+
+    mostrar(
+        "diarios"
+    );
+
+}    
 </script>
 <div id="mensajeCopiado" class="toast">
 ✅ ¡Cupón copiado!<br>
