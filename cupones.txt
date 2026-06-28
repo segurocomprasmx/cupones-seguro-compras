@@ -1,39 +1,24 @@
-ESTADO=0
+ESTADO=1
 
 🎟️ Cupón: MELIMASGOL
 Beneficio: -$500 | 10% MELI+
 Compra mínima: $4000 
-Enlace https://meli.la/1R2R8BH
+Enlace https://meli.la/1dReNwM
 
-🎟️ Cupón: COPAOFF
-Beneficio: -$160
-Compra mínima: $1500
-Enlace https://meli.la/1R2R8BH
-
-🎟️ Cupón: SABADITO27
-Beneficio: -$100
+🎟️ Cupón: GRANCUPON
+Beneficio: -$150 | 12%
 Compra mínima: $1000
-Enlace https://meli.la/1R2R8BH
+Enlace https://meli.la/1dReNwM
 
-🎟️ Cupón: 12PORCIENTO
-Beneficio: -$255 | 12%
-Compra mínima: $2000
-Enlace https://meli.la/1R2R8BH
-
-🎟️ Cupón: GOOOL26
-Beneficio: -$300
-Compra mínima: $3000
-Enlace https://meli.la/1R2R8BH
-
-🎟️ Cupón: SABADO600
-Beneficio: -$600
+🎟️ Cupón: DOMINGO28
+Beneficio: -$800
 Compra mínima: $6000
-Enlace https://meli.la/1R2R8BH
+Enlace https://meli.la/1dReNwM
 
-🎟️ Cupón: DIEZMIL
-Beneficio: -$100
+🎟️ Cupón: SIGUELACOPA
+Beneficio: -$1000
 Compra mínima: $10000
-Enlace https://meli.la/1R2R8BH
+Enlace https://meli.la/1dReNwM
 
 🎟️ Cupón: 
 Beneficio: 
