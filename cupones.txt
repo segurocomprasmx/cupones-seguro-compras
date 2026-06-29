@@ -1,39 +1,39 @@
 ESTADO=1
 
-🎟️ Cupón: MELIMASGOL
-Beneficio: -$500 | 10% MELI+
-Compra mínima: $4000 
-Enlace https://meli.la/1dReNwM
+🎟️ Cupón: 
+Beneficio: 
+Compra mínima:  
+Enlace 
 
 🎟️ Cupón: CUPON10
 Beneficio: -$100 | 10%
 Compra mínima: $500
-Enlace https://meli.la/1dReNwM
+Enlace https://meli.la/14zD37F
 
 🎟️ Cupón: 
-Beneficio: -$150 | 12%
-Compra mínima: $1000
-Enlace https://meli.la/1dReNwM
+Beneficio: 
+Compra mínima: 
+Enlace 
 
 🎟️ Cupón: 
-Beneficio: -$215 | 10%
-Compra mínima: $2000
-Enlace https://meli.la/1dReNwM
+Beneficio: 
+Compra mínima: 
+Enlace 
 
 🎟️ Cupón: 
-Beneficio: -$500
-Compra mínima: $5000
-Enlace https://meli.la/1dReNwM
+Beneficio:
+Compra mínima: 
+Enlace 
 
 🎟️ Cupón: 
-Beneficio: -$800
-Compra mínima: $6000
-Enlace https://meli.la/1dReNwM
+Beneficio: 
+Compra mínima: 
+Enlace 
 
 🎟️ Cupón: 
-Beneficio: -$1000
-Compra mínima: $10000
-Enlace https://meli.la/1dReNwM
+Beneficio: 
+Compra mínima: 
+Enlace 
 
 🎟️ Cupón: 
 Beneficio: 
