@@ -971,6 +971,25 @@ document.getElementById("btnWhats").href = enlace;
 
 document.getElementById("btnWhats").style.background = color;
 
+const btn = document.getElementById("btnWhats");
+
+if(tipo < 0.45){
+
+    btn.dataset.analytics = "cta_canal";
+
+}else if(tipo < 0.70){
+
+    btn.dataset.analytics = "cta_beneficio";
+
+}else if(tipo < 0.90){
+
+    btn.dataset.analytics = "cta_urgencia";
+
+}else{
+
+    btn.dataset.analytics = "cta_ayuda";
+
+}
     }
 window.onload = function(){
 
