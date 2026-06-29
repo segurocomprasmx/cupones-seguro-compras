@@ -363,6 +363,41 @@ onclick="mostrar('aprende')">
 </a>
 
     </div>
+    <div
+id="cuponDestacado"
+style="
+display:none;
+max-width:400px;
+margin:0 auto 18px auto;
+background:#fff7d6;
+border:3px solid #ff9800;
+border-radius:12px;
+padding:14px;
+box-shadow:0 6px 14px rgba(0,0,0,.15);
+">
+
+<div
+style="
+font-size:18px;
+font-weight:bold;
+color:#ff6f00;
+margin-bottom:8px;
+">
+⭐ Cupón destacado
+</div>
+
+<pre
+id="textoDestacado"
+style="
+margin:0;
+white-space:pre-wrap;
+font-family:Arial,sans-serif;
+font-size:16px;
+line-height:1.5;
+">
+</pre>
+
+    </div>
     <div id="diarios">
         <div id="contenedor-cupones"></div>
 <h1>🔥 CUPONES DEL DÍA</h1>
@@ -835,6 +870,25 @@ if(ultimaSeccion){
     );
 
 }    
+    fetch("cupon-destacado.txt")
+.then(r=>r.text())
+.then(texto=>{
+
+texto=texto.trim();
+
+if(texto!=""){
+
+document
+.getElementById("textoDestacado")
+.textContent=texto;
+
+document
+.getElementById("cuponDestacado")
+.style.display="block";
+
+}
+
+});
 </script>
 <div id="mensajeCopiado" class="toast">
 ✅ ¡Cupón copiado!<br>
