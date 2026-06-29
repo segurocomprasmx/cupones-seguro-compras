@@ -829,28 +829,49 @@ if(ultima){
     mostrar(ultima);
 }
     const enlaceComunidad = "https://whatsapp.com/channel/0029VbAtIufI7BeCBEbqDz0r";
-
-const mensajesWhats = [
+    const enlacePublicacion = "https://whatsapp.com/channel/0029VbAtIufI7BeCBEbqDz0r/9393";
+const mensajesCanal = [
 
 "🟢 Canal de WhatsApp • 👥 +2,000 seguidores",
 
-"🚀 Recibe ofertas antes que todos",
-
-"🔥 Ya hay cupones nuevos",
-
-"🎁 Cupones exclusivos en el canal",
-
-"⚡ Activa las notificaciones",
-
-"💸 No te pierdas el siguiente cupón",
-
 "📢 Únete al canal de WhatsApp",
+
+"👀 ¿Aún no estás en el canal?",
+
+"🔔 Activa las notificaciones"
+
+];
+const mensajesBeneficio = [
+
+"🚀 Recibe ofertas antes que todos",
 
 "🛍️ Las mejores ofertas llegan primero",
 
 "🎯 Compra con descuento todos los días",
 
-"👀 ¿Aún no estás en el canal?"
+"💰 Aprovecha más descuentos"
+
+];
+const mensajesUrgencia = [
+
+"⚡ No te pierdas el siguiente cupón",
+
+"🔥 Ya hay cupones nuevos",
+
+"⏰ Revisa antes de que se agoten",
+
+"🎁 Hay descuentos esperándote"
+
+];
+const mensajesAyuda = [
+
+"🔍 ¿Buscas un producto?",
+
+"💬 ¿Tienes dudas? Escríbenos",
+
+"🛒 Te ayudamos a encontrar ofertas",
+
+"🤝 Pregúntanos antes de comprar"
 
 ];
     const tiposCTA=[
@@ -905,12 +926,52 @@ const rotacionCTA = [
 ];
     function cambiarMensajeWhats(){
 
-const indice = rotacionCTA[
-    Math.floor(
-        Math.random() *
-        rotacionCTA.length
-    )
+let tipo = Math.random();
+
+let mensajes;
+let color;
+let enlace;
+
+if(tipo < 0.45){
+
+    // 45% Canal
+    mensajes = mensajesCanal;
+    color = "#1877F2";
+    enlace = enlaceComunidad;
+
+}else if(tipo < 0.70){
+
+    // 25% Beneficio
+    mensajes = mensajesBeneficio;
+    color = "#16a34a";
+    enlace = enlaceComunidad;
+
+}else if(tipo < 0.90){
+
+    // 20% Urgencia
+    mensajes = mensajesUrgencia;
+    color = "#ea580c";
+    enlace = enlaceComunidad;
+
+}else{
+
+    // 10% Ayuda
+    mensajes = mensajesAyuda;
+    color = "#7c3aed";
+    enlace = enlacePublicacion;
+
+}
+
+document.getElementById("textoWhats").innerText =
+mensajes[
+Math.floor(Math.random()*mensajes.length)
 ];
+
+document.getElementById("btnWhats").href = enlace;
+
+document.getElementById("btnWhats").style.background = color;
+
+    }
 
 const cta = tiposCTA[indice];
 
