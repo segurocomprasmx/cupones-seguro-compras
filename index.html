@@ -828,7 +828,7 @@ localStorage.getItem(
 if(ultima){
     mostrar(ultima);
 }
-    const enlaceComunidad = "https://whatsapp.com/channel/0029VbAtIufI7BeCBEbqDz0r/9393";
+    const enlaceComunidad = "https://whatsapp.com/channel/0029VbAtIufI7BeCBEbqDz0r";
 
 const mensajesWhats = [
 
@@ -887,19 +887,32 @@ tipo:"ayuda",
 color:"#7c3aed",
 icono:"🔍",
 texto:"¿Buscas un producto?",
-enlace:"AQUI_VA_EL_ENLACE_DE_LA_PUBLICACION",
+enlace:"https://whatsapp.com/channel/0029VbAtIufI7BeCBEbqDz0r/9393",
 analytics:"cta_ayuda"
 }
 
 ];
+const rotacionCTA = [
+
+0,0,0,0,
+
+1,1,1,
+
+2,2,
+
+3
+
+];
     function cambiarMensajeWhats(){
 
-const cta = tiposCTA[
+const indice = rotacionCTA[
     Math.floor(
         Math.random() *
-        tiposCTA.length
+        rotacionCTA.length
     )
 ];
+
+const cta = tiposCTA[indice];
 
 document.getElementById(
     "textoWhats"
@@ -991,7 +1004,7 @@ target="_blank"
         onclick="
 gtag(
 'event',
-'click_whats'
+this.dataset.analytics
 );
 "
 style="
