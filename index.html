@@ -853,20 +853,79 @@ const mensajesWhats = [
 "👀 ¿Aún no estás en el canal?"
 
 ];
+    const tiposCTA=[
+
+{
+tipo:"beneficio",
+color:"#16a34a",
+icono:"🚀",
+texto:"Recibe ofertas antes que todos",
+enlace:enlaceComunidad,
+analytics:"cta_beneficio"
+},
+
+{
+tipo:"urgencia",
+color:"#ea580c",
+icono:"⚡",
+texto:"No te pierdas el siguiente cupón",
+enlace:enlaceComunidad,
+analytics:"cta_urgencia"
+},
+
+{
+tipo:"social",
+color:"#2563eb",
+icono:"👥",
+texto:"+2,000 personas ya reciben alertas",
+enlace:enlaceComunidad,
+analytics:"cta_social"
+},
+
+{
+tipo:"ayuda",
+color:"#7c3aed",
+icono:"🔍",
+texto:"¿Buscas un producto?",
+enlace:"AQUI_VA_EL_ENLACE_DE_LA_PUBLICACION",
+analytics:"cta_ayuda"
+}
+
+];
     function cambiarMensajeWhats(){
+
+const cta = tiposCTA[
+    Math.floor(
+        Math.random() *
+        tiposCTA.length
+    )
+];
 
 document.getElementById(
     "textoWhats"
 ).innerText =
 
-mensajesWhats[
-    Math.floor(
-        Math.random() *
-        mensajesWhats.length
-    )
-];
+cta.icono + " " + cta.texto;
 
-}
+document.getElementById(
+    "btnWhats"
+).href =
+
+cta.enlace;
+
+document.getElementById(
+    "btnWhats"
+).style.background =
+
+cta.color;
+
+document.getElementById(
+    "btnWhats"
+).dataset.analytics =
+
+cta.analytics;
+
+    }
 
 window.onload = function(){
 
