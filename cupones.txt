@@ -1,29 +1,24 @@
 ESTADO=1
 
-🎟️ Cupón: 
-Beneficio: 
-Compra mínima:  
-Enlace 
-
 🎟️ Cupón: CUPON10
 Beneficio: -$100 | 10%
 Compra mínima: $500
 Enlace https://meli.la/14zD37F
 
-🎟️ Cupón: 
-Beneficio: 
-Compra mínima: 
-Enlace 
+🎟️ Cupón: 26FUT
+Beneficio: -$150
+Compra mínima: $1500
+Enlace https://meli.la/14zD37F
 
-🎟️ Cupón: 
-Beneficio: 
-Compra mínima: 
-Enlace 
+🎟️ Cupón: FINDEMES
+Beneficio: -$600
+Compra mínima: $6000
+Enlace https://meli.la/14zD37F
 
-🎟️ Cupón: 
-Beneficio:
-Compra mínima: 
-Enlace 
+🎟️ Cupón: 2DAQUINCENA
+Beneficio: -$1000
+Compra mínima: $10000
+Enlace https://meli.la/14zD37F
 
 🎟️ Cupón: 
 Beneficio: 
