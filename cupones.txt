@@ -1,9 +1,9 @@
 ESTADO=1
 
-🎟️ Cupón: CUPON10
-Beneficio: -$100 | 10%
-Compra mínima: $500
-Enlace https://meli.la/14zD37F
+🎟️ Cupón: 
+Beneficio: 
+Compra mínima: 
+Enlace 
 
 🎟️ Cupón: 26FUTBOL
 Beneficio: -$150
