@@ -1,4 +1,4 @@
-ESTADO=0
+ESTADO=1
 
 🎟️ Cupón: FIESTA150
 Beneficio: -$150
