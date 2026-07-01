@@ -892,8 +892,13 @@ if(ultimaSeccion){
 
 }    
 /* =================================== */
+/*         INICIALIZACIÓN              */
+/* =================================== */
+    cargarCuponDestacado();
+/* =================================== */
 /*        CUPÓN DESTACADO              */
 /* =================================== */
+function cargarCuponDestacado(){
     fetch("cupon-destacado.txt")
 .then(r=>r.text())
 .then(texto=>{
@@ -911,8 +916,8 @@ document
 .style.display="block";
 
 }
-
 });
+}
 </script>
 <!-- ========================================== -->
 <!--  TOAST Y BOTÓN FLOTANTE DE WHATSAPP        -->
