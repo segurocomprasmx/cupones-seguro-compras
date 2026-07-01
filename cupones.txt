@@ -1,9 +1,9 @@
 ESTADO=1
 
-🎟️ Cupón: 
-Beneficio: 
-Compra mínima: 
-Enlace 
+🎟️ Cupón: FIESTA150
+Beneficio: -$150
+Compra mínima: $900
+Enlace https://mercadolibre.com/sec/2AtiybX
 
 🎟️ Cupón: YSISIESHOY
 Beneficio: 16% | -$420
