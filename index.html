@@ -453,6 +453,9 @@ Después podrás usar todos los cupones de Seguro Compras como un experto. 😎
 <!--              JAVASCRIPT               -->
 <!-- ===================================== -->
 <script>
+/* =================================== */
+/*    SISTEMA DE CUPONES DIARIOS       */
+/* =================================== */
     function revelarCupon(codigo,enlace){
         
 gtag('event','revelar_cupon',{
@@ -471,6 +474,9 @@ setTimeout(()=>{
 },300);
 
     }
+/* =================================== */
+/*      SISTEMA DE COPIADO             */
+/* =================================== */
 function copiar(cupon,enlace){
   navigator.clipboard.writeText(cupon);
     setTimeout(() => {
@@ -504,6 +510,9 @@ setTimeout(()=>{
 },300);
 
     }
+/* =================================== */
+/*      NAVEGACIÓN DEL SITIO           */
+/* =================================== */
     function mostrar(seccion){
 
 document.getElementById("diarios").style.display="none";
@@ -538,6 +547,9 @@ localStorage.setItem(
 seccion
 );
     }
+/* =================================== */
+/*      CARGA DE CUPONES DIARIOS       */
+/* =================================== */
     async function cargarCupones(){
 
   const respuesta =
@@ -664,6 +676,9 @@ onclick="revelarCupon('${codigo}','${enlace}')">
   });
 
     }
+/* =================================== */
+/*     CARGA DE CUPONES BANCARIOS      */
+/* =================================== */
 async function cargarBancarios(){
 
 const respuesta =
@@ -726,6 +741,9 @@ contenedor.innerHTML += `
 }
 cargarCupones();
 cargarBancarios();
+/* =================================== */
+/*      BOTÓN FLOTANTE WHATSAPP        */
+/* =================================== */
     const enlaceComunidad = "https://whatsapp.com/channel/0029VbAtIufI7BeCBEbqDz0r";
     const enlacePublicacion = "https://whatsapp.com/channel/0029VbAtIufI7BeCBEbqDz0r/9393";
 const mensajesCanal = [
@@ -873,6 +891,9 @@ if(ultimaSeccion){
     );
 
 }    
+/* =================================== */
+/*        CUPÓN DESTACADO              */
+/* =================================== */
     fetch("cupon-destacado.txt")
 .then(r=>r.text())
 .then(texto=>{
