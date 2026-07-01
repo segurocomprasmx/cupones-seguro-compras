@@ -3,6 +3,23 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 <head>
     <!-- Google tag (gtag.js) -->
+    <!-- =================================== -->
+<!--      GOOGLE ANALYTICS               -->
+<!-- =================================== -->
+
+<!--
+Objetivo:
+Registrar eventos como:
+
+✔ Copiar cupón
+✔ Revelar cupón
+✔ Abrir sección
+✔ Tutorial
+✔ Facebook
+✔ Instagram
+✔ Telegram
+✔ Botón flotante
+-->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GS6ZG256Y0"></script>
 
 <script>
@@ -148,9 +165,20 @@ width:80%;
 </head>
 
 <body>
-<!-- =================================== -->
-<!--           CABECERA / LOGO             -->
-<!-- =================================== -->
+<!-- =============================== -->
+<!--           CABECERA / LOGO       -->
+<!-- =============================== -->
+    <!--
+Elementos:
+✔ Logo principal
+✔ Facebook
+✔ Instagram
+✔ Telegram
+
+Objetivo:
+Mostrar la identidad de Centro de Cupones
+y las redes sociales.
+-->
 <div
 style="
 text-align:center;
@@ -259,9 +287,20 @@ font-size:14px;
 </div>
 
 </div>
-<!-- ==================================== -->
-<!--            MENÚ SUPERIOR                         -->
-<!-- ==================================== -->
+<!-- ================================= -->
+<!--         MENÚ SUPERIOR             -->
+<!-- ================================= -->
+    <!--
+Secciones:
+✔ Diarios
+✔ Bancarios
+✔ Secretos
+✔ Aprende
+
+Objetivo:
+Permitir navegar entre las diferentes
+secciones de la página.
+-->
     <div class="menuSuperior">
 <a
 id="btnDiarios"
@@ -346,9 +385,17 @@ line-height:1.5;
 <div id="contenedor-bancarios"></div>
 
 </div>
-<!-- ====================================== -->
-<!--           CUPONES SECRETOS                        -->
-<!-- ====================================== -->
+<!-- ============================== -->
+<!--       CUPONES SECRETOS         -->
+<!-- ============================== -->
+    <!--
+Estado:
+🚧 En desarrollo.
+
+Objetivo:
+Mostrar cupones exclusivos o temporales
+que no aparecen en la lista principal.
+-->
 <div id="secretos" style="display:none;">
 
 <h1>🔒 CUPONES SECRETOS</h1>
@@ -357,9 +404,18 @@ line-height:1.5;
     <h2>Próximamente</h2>
 </div>
 </div>
-<!-- ==================================== -->
-<!--            SECCIÓN APRENDE                          -->
-<!-- ==================================== --> 
+<!-- =============================== -->
+<!--        SECCIÓN APRENDE          -->
+<!-- =============================== --> 
+    <!--
+Archivos utilizados:
+✔ tutorial.mp4
+✔ tutorial.webp
+
+Objetivo:
+Enseñar a los nuevos usuarios cómo
+utilizar los cupones de Mercado Libre.
+-->
 <div id="aprende" style="display:none;">
 
 <h1>🎓 ¿Primera vez usando cupones?</h1>
@@ -456,6 +512,11 @@ Después podrás usar todos los cupones de Seguro Compras como un experto. 😎
 /* =================================== */
 /*    SISTEMA DE CUPONES DIARIOS       */
 /* =================================== */
+    /**
+ * Revela el código oculto del cupón.
+ * Registra el evento en Google Analytics.
+ * Después copia el cupón y abre Mercado Libre.
+ */
     function revelarCupon(codigo,enlace){
         
 gtag('event','revelar_cupon',{
@@ -477,6 +538,11 @@ setTimeout(()=>{
 /* =================================== */
 /*      SISTEMA DE COPIADO             */
 /* =================================== */
+    /**
+ * Copia el cupón al portapapeles.
+ * Abre Mercado Libre.
+ * Muestra el mensaje flotante de "Cupón copiado".
+ */
 function copiar(cupon,enlace){
   navigator.clipboard.writeText(cupon);
     setTimeout(() => {
@@ -496,6 +562,11 @@ enlace,
     toast.classList.remove("mostrar");
   },2500);
 }
+    /**
+ * Copia un cupón bancario.
+ * Registra el banco utilizado en Analytics.
+ * Después utiliza la función copiar().
+ */
     function copiarBanco(
 codigo,
 enlace,
@@ -513,6 +584,11 @@ setTimeout(()=>{
 /* =================================== */
 /*      NAVEGACIÓN DEL SITIO           */
 /* =================================== */
+    /**
+ * Cambia entre las diferentes pestañas.
+ * Oculta todas las secciones y muestra solamente la elegida.
+ * También guarda la última pestaña visitada.
+ */
     function mostrar(seccion){
 
 document.getElementById("diarios").style.display="none";
@@ -550,6 +626,23 @@ seccion
 /* =================================== */
 /*      CARGA DE CUPONES DIARIOS       */
 /* =================================== */
+    /*
+Archivo utilizado:
+✔ cupones.txt
+
+Funciones:
+✔ cargarCupones()
+✔ revelarCupon()
+✔ copiar()
+
+Objetivo:
+Mostrar automáticamente los cupones diarios.
+*/
+    /**
+ * Lee el archivo cupones.txt.
+ * Crea automáticamente las tarjetas de cupones.
+ * Si no hay cupones activos, muestra un aviso.
+ */
     async function cargarCupones(){
 
   const respuesta =
@@ -679,6 +772,22 @@ onclick="revelarCupon('${codigo}','${enlace}')">
 /* =================================== */
 /*     CARGA DE CUPONES BANCARIOS      */
 /* =================================== */
+    /**
+ * Lee el archivo bancarios.txt.
+ * Genera automáticamente todas las tarjetas
+ * de cupones bancarios disponibles.
+ */
+    /*
+Archivo utilizado:
+✔ bancarios.txt
+
+Funciones:
+✔ cargarBancarios()
+✔ copiarBanco()
+
+Objetivo:
+Mostrar automáticamente los cupones bancarios.
+*/
 async function cargarBancarios(){
 
 const respuesta =
@@ -744,6 +853,11 @@ cargarBancarios();
 /* =================================== */
 /*      BOTÓN FLOTANTE WHATSAPP        */
 /* =================================== */
+    /**
+ * Cambia aleatoriamente el mensaje,
+ * color y enlace del botón flotante
+ * para llamar la atención del usuario.
+ */
     const enlaceComunidad = "https://whatsapp.com/channel/0029VbAtIufI7BeCBEbqDz0r";
     const enlacePublicacion = "https://whatsapp.com/channel/0029VbAtIufI7BeCBEbqDz0r/9393";
 const mensajesCanal = [
@@ -898,6 +1012,21 @@ if(ultimaSeccion){
 /* =================================== */
 /*        CUPÓN DESTACADO              */
 /* =================================== */
+    /**
+ * Lee el archivo cupon-destacado.txt.
+ * Si existe contenido, muestra la tarjeta
+ * del cupón destacado en la parte superior.
+ */
+    /*
+Archivo utilizado:
+✔ cupon-destacado.txt
+
+Funciones:
+✔ cargarCuponDestacado()
+
+Objetivo:
+Mostrar un cupón importante en la parte superior.
+*/
 function cargarCuponDestacado(){
     fetch("cupon-destacado.txt")
 .then(r=>r.text())
@@ -919,9 +1048,18 @@ document
 });
 }
 </script>
-<!-- ========================================== -->
+<!-- ============================ -->
 <!--  TOAST Y BOTÓN FLOTANTE DE WHATSAPP        -->
-<!-- ========================================== -->
+<!-- ============================ -->
+    <!-- =================================== -->
+<!--      MENSAJE FLOTANTE (TOAST)       -->
+<!-- =================================== -->
+
+<!--
+Objetivo:
+Informar que el cupón fue copiado
+correctamente.
+-->
 <div id="mensajeCopiado" class="toast">
 ✅ ¡Cupón copiado!<br>
 Ahora abre Mercado Libre y actívalo antes de pagar.
