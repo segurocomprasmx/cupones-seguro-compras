@@ -853,6 +853,50 @@ onclick="revelarCupon('${codigo}','${enlace}')">
     async function cargarCuponesV2(){
 
 console.log("Motor V2 iniciado");
+const respuesta =
+await fetch("cupones.txt");
+
+const texto =
+await respuesta.text();
+
+const contenedor =
+document.getElementById(
+"contenedor-cupones"
+);
+
+const activo =
+texto.includes("ESTADO=1");
+
+if(!activo){
+
+contenedor.innerHTML=`
+
+<div class="card">
+
+<h2>
+😴 Sin cupones por ahora
+</h2>
+
+<p>
+Mercado Libre aún no ha liberado cupones diarios.
+</p>
+
+<p>
+🔄 Vuelve más tarde.
+</p>
+
+</div>
+
+`;
+
+return;
+
+}
+
+const lineas=
+texto.split("\n");
+
+console.log(lineas);
 
     }
 /* =================================== */
