@@ -895,7 +895,80 @@ return;
 
 const lineas=
 texto.split("\n");
+const cupones = [];
 
+let cuponActual = {
+destacado:false,
+codigo:"",
+beneficio:"",
+minimo:"",
+enlace:""
+};
+for(const linea of lineas){
+
+const textoLinea =
+linea.trim();
+
+console.log(textoLinea);
+if(
+textoLinea==="DESTACADO=SI"
+){
+
+cuponActual.destacado=true;
+
+continue;
+
+}
+if(
+textoLinea.startsWith("🎟️ Cupón:")
+){
+
+cuponActual.codigo=
+textoLinea
+.replace("🎟️ Cupón:","")
+.trim();
+
+continue;
+}
+if(
+textoLinea.startsWith("Beneficio:")
+){
+
+cuponActual.beneficio=
+textoLinea
+.replace("Beneficio:","")
+.trim();
+
+continue;
+
+}
+if(
+textoLinea.startsWith("Compra mínima:")
+||
+textoLinea.startsWith("Compra minima:")
+){
+
+cuponActual.minimo=
+textoLinea
+.replace("Compra mínima:","")
+.replace("Compra minima:","")
+.trim();
+
+continue;
+
+}
+if(
+textoLinea.startsWith("Enlace ")
+){
+
+cuponActual.enlace=
+textoLinea
+.replace("Enlace ","")
+.trim();
+
+continue;
+
+}
 console.log(lineas);
 
     }
