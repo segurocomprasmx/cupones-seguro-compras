@@ -991,7 +991,31 @@ continue;
 console.log(lineas);
 
     }
-console.log(cupones);
+if(
+
+cuponActual.codigo!=="" &&
+
+cuponActual.beneficio!=="" &&
+
+cuponActual.minimo!=="" &&
+
+cuponActual.enlace!==""
+
+){
+
+cupones.push(
+{...cuponActual}
+);
+
+}
+        contenedor.innerHTML = `
+<div class="card">
+<h2>Motor V2</h2>
+<p>Cupones encontrados: ${cupones.length}</p>
+</div>
+`;
+
+return;
 /* =================================== */
 /*     CARGA DE CUPONES BANCARIOS      */
 /* =================================== */
