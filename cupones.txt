@@ -1,16 +1,26 @@
 ESTADO=1
 
-🎟️ Cupón: YAVIENEDOBLE7
-Beneficio: -$75
-Compra mínima: $600
+🎟️ Cupón: HOLA77
+Beneficio: -$100 | 10%
+Compra mínima: $800
 Enlace https://meli.la/1aym5ai
 
-🎟️ Cupón: 77SEACERCA
-Beneficio: -$500
-Compra mínima: $5000
+🎟️ Cupón: LAPREVIA77
+Beneficio: -$250 | 10%
+Compra mínima: $2000
+Enlace https://meli.la/1nxvASZ
+
+🎟️ Cupón: PRONTO77
+Beneficio: -$400
+Compra mínima: $4000
 Enlace https://meli.la/1sYBexs
 
-🎟️ Cupón: INICIOJULIO
+🎟️ Cupón: YALLEGA77
+Beneficio: -$700
+Compra mínima: $7000
+Enlace https://meli.la/2Tq8nED
+
+🎟️ Cupón: VIENE77
 Beneficio: -$1000
 Compra mínima: $10000
 Enlace https://meli.la/2AyhQpq
