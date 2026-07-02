@@ -763,27 +763,43 @@ return;
     .trim()
     .split("\n");
 
-    const codigo =
-lineas[0]
-.trim();
+const destacado =
+bloque.includes("DESTACADO=SI");
+
+const codigo =
+lineas.find(
+linea =>
+linea.startsWith("🎟️ Cupón:")
+)
+?.replace("🎟️ Cupón:","")
+.trim() || "";
 
 const beneficio =
-(lineas[1] || "")
-.replace("Beneficio:","")
-.trim();
+lineas.find(
+linea =>
+linea.startsWith("Beneficio:")
+)
+?.replace("Beneficio:","")
+.trim() || "";
 
 const minimo =
-(lineas[2] || "")
+lineas.find(
+linea =>
+linea.startsWith("Compra mínima:")
+||
+linea.startsWith("Compra minima:")
+)
+?.replace("Compra mínima:","")
 .replace("Compra minima:","")
-.replace("Compra mínima:","")
-.trim();
+.trim() || "";
 
 const enlace =
 lineas.find(
-linea => linea.startsWith("Enlace ")
+linea =>
+linea.startsWith("Enlace ")
 )
 ?.replace("Enlace ","")
-.trim() || "";
+.trim() || "";    
 
 if(
 codigo === "" ||
