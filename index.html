@@ -1008,12 +1008,53 @@ cupones.push(
 );
 
 }
-        contenedor.innerHTML = `
+        contenedor.innerHTML = "";
+
+cupones.forEach(cupon=>{
+
+contenedor.innerHTML += `
+
 <div class="card">
-<h2>Motor V2</h2>
-<p>Cupones encontrados: ${cupones.length}</p>
+
+<div class="descuento">
+🔥${cupon.beneficio}🔥
 </div>
+
+<p class="compra-minima">
+🛒 Compra mínima: ${cupon.minimo}
+</p>
+
+<p
+id="estado-${cupon.codigo}"
+style="font-weight:bold;">
+🔒 Toca para revelar
+</p>
+
+<div
+id="codigo-${cupon.codigo}"
+style="
+font-size:24px;
+letter-spacing:4px;
+margin:15px 0;
+font-weight:bold;
+">
+
+██████████
+
+</div>
+
+<button
+onclick="revelarCupon('${cupon.codigo}','${cupon.enlace}')">
+
+🎁 Revelar y Copiar
+
+</button>
+
+</div>
+
 `;
+
+});
 
 return;
     }
