@@ -923,12 +923,31 @@ if(
 textoLinea.startsWith("🎟️ Cupón:")
 ){
 
-cuponActual.codigo=
-textoLinea
+if(
+cuponActual.codigo!=="" &&
+cuponActual.beneficio!=="" &&
+cuponActual.minimo!=="" &&
+cuponActual.enlace!==""
+){
+
+cupones.push(
+{...cuponActual}
+);
+
+}
+
+cuponActual={
+destacado:cuponActual.destacado,
+codigo:textoLinea
 .replace("🎟️ Cupón:","")
-.trim();
+.trim(),
+beneficio:"",
+minimo:"",
+enlace:""
+};
 
 continue;
+
 }
 if(
 textoLinea.startsWith("Beneficio:")
@@ -972,6 +991,7 @@ continue;
 console.log(lineas);
 
     }
+console.log(cupones);
 /* =================================== */
 /*     CARGA DE CUPONES BANCARIOS      */
 /* =================================== */
