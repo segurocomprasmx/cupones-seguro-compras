@@ -1,26 +1,36 @@
-ESTADO=0
+ESTADO=1
 
-🎟️ Cupón: HOLA77
-Beneficio: -$100 | 10%
-Compra mínima: $800
+🎟️ Cupón: SEACERCA77
+Beneficio: -$75 | 10%
+Compra mínima: $600
 Enlace https://meli.la/1aym5ai
 
-🎟️ Cupón: LAPREVIA77
-Beneficio: -$250 | 10%
-Compra mínima: $2000
+🎟️ Cupón: 
+Beneficio: -$100 | 10%
+Compra mínima: $800
+Enlace 
+
+🎟️ Cupón: FULL77
+Beneficio: -$321 | 10%
+Compra mínima: $2500
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: PRONTO77
+🎟️ Cupón: 
 Beneficio: -$400
 Compra mínima: $4000
-Enlace https://meli.la/1sYBexs
+Enlace 
 
-🎟️ Cupón: YALLEGA77
+🎟️ Cupón: FALTAPOCO77
+Beneficio: -$600
+Compra mínima: $6000
+Enlace https://mercadolibre.com/sec/2AtiybX
+
+🎟️ Cupón: 
 Beneficio: -$700
 Compra mínima: $7000
-Enlace https://meli.la/2Tq8nED
+Enlace 
 
-🎟️ Cupón: VIENE77
+🎟️ Cupón: VIVE77
 Beneficio: -$1000
 Compra mínima: $10000
 Enlace https://meli.la/2AyhQpq
