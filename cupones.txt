@@ -1,4 +1,4 @@
-ESTADO=1
+ESTADO=0
 
 🎟️ Cupón: HOLA77
 Beneficio: -$100 | 10%
