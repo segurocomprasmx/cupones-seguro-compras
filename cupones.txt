@@ -1,5 +1,6 @@
 ESTADO=1
 
+DESTACADO
 🎟️ Cupón: VIENEYA77
 Beneficio: -$100 | 10%
 Compra mínima: $800
