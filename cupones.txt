@@ -5,6 +5,7 @@ Beneficio: -$100 | 10%
 Compra mínima: $800
 Enlace https://meli.la/1aym5ai
 
+DESTACADO=SI
 🎟️ Cupón: OCTAVOS10
 Beneficio: -$160 | 10%
 Compra mínima: $1500
@@ -15,7 +16,6 @@ Beneficio: -$321 | 10%
 Compra mínima: $2500
 Enlace
 
-DESTACADO=SI
 🎟️ Cupón: NOSFUIMOS77
 Beneficio:  -$375 | 10%
 Compra mínima: $3000
