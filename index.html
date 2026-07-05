@@ -172,6 +172,39 @@ width:80%;
     margin:10px 0;
         white-space:nowrap;
 }
+.descuentoCard{
+
+font-size:18px;
+font-weight:bold;
+margin:2px 0;
+white-space:nowrap;
+
+}
+
+.compraMinimaCard{
+
+font-size:15px;
+margin:6px 0;
+
+}
+
+.codigoCard{
+
+font-size:16px;
+letter-spacing:1px;
+margin:8px 0;
+font-weight:bold;
+white-space:nowrap;
+overflow:hidden;
+
+}
+
+.botonCard{
+
+padding:8px 12px;
+font-size:16px;
+
+}
 .compra-minima{
     margin-top:0;
 }
@@ -1082,11 +1115,11 @@ contenedor.innerHTML += `
 
 <div class="card">
 
-<div class="descuento">
+<div class="descuentoCard">
 🔥${cupon.beneficio}🔥
 </div>
 
-<p class="compra-minima">
+<p class="compraMinimaCard">
 🛒 Compra mínima: ${cupon.minimo}
 </p>
 
@@ -1098,18 +1131,14 @@ style="font-weight:bold;">
 
 <div
 id="codigo-${cupon.codigo}"
-style="
-font-size:24px;
-letter-spacing:4px;
-margin:15px 0;
-font-weight:bold;
-">
+class="codigoCard">
 
 ██████████
 
 </div>
 
 <button
+class="botonCard"
 onclick="revelarCupon('${cupon.codigo}','${cupon.enlace}')">
 
 🎁 Revelar y Copiar
