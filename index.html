@@ -589,24 +589,45 @@ Después podrás usar todos los cupones de Seguro Compras como un experto. 😎
  * Registra el evento en Google Analytics.
  * Después copia el cupón y abre Mercado Libre.
  */
-    function revelarCupon(codigo,enlace){
-        
+function revelarCupon(
+codigo,
+enlace,
+destacado=false
+){
+
 gtag('event','revelar_cupon',{
-  cupon:codigo
+cupon:codigo
 });
-        
-document.getElementById(
-"codigo-" + codigo
-).innerHTML = codigo;
-        document.getElementById(
-"estado-" + codigo
-).innerHTML =
+
+const idCodigo =
+destacado
+? "codigoDestacado"
+: "codigo-" + codigo;
+
+const idEstado =
+destacado
+? "estadoDestacado"
+: "estado-" + codigo;
+
+document
+.getElementById(idCodigo)
+.innerHTML = codigo;
+
+document
+.getElementById(idEstado)
+.innerHTML =
 "🎉 ¡Felicidades!<br>Código revelado";
+
 setTimeout(()=>{
-  copiar(codigo,enlace);
+
+copiar(
+codigo,
+enlace
+);
+
 },300);
 
-    }
+}
 /* =================================== */
 /*      SISTEMA DE COPIADO             */
 /* =================================== */
@@ -935,7 +956,8 @@ document
 
 revelarCupon(
 cuponDestacado.codigo,
-cuponDestacado.enlace
+cuponDestacado.enlace,
+true
 );
 
 };
