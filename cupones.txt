@@ -40,6 +40,7 @@ Beneficio: -$700
 Compra mínima: $7000
 Enlace 
 
+DESTACADO=SI
 🎟️ Cupón: YACASIES77
 Beneficio: -$1000 | 10%
 Compra mínima: $8000
@@ -50,7 +51,6 @@ Beneficio: -$750 | 10%
 Compra mínima: $7500
 Enlace https://meli.la/2AyhQpq
 
-DESTACADO=SI
 🎟️ Cupón: 
 Beneficio: -$1000
 Compra mínima: $10000
