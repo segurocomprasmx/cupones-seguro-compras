@@ -869,6 +869,29 @@ cupones.push(
 cupones.find(
 cupon => cupon.destacado
 );
+        if(cuponDestacado){
+
+document
+.getElementById("textoDestacado")
+.textContent=
+
+`🔥 ${cuponDestacado.beneficio}
+
+🛒 Compra mínima: ${cuponDestacado.minimo}
+
+🎟️ ${cuponDestacado.codigo}`;
+
+document
+.getElementById("cuponDestacado")
+.style.display="block";
+
+}else{
+
+document
+.getElementById("cuponDestacado")
+.style.display="none";
+
+        }
         contenedor.innerHTML = "";
 
 cupones.forEach(cupon=>{
