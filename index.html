@@ -162,21 +162,6 @@ width:80%;
     margin:10px 0;
         white-space:nowrap;
 }
-.descuentoDestacado{
-
-font-size:20px;
-font-weight:bold;
-margin:6px 0;
-white-space:nowrap;
-
-}
-    .compraMinimaDestacado{
-
-font-size:18px;
-margin:8px 0;
-font-weight:500;
-
-    }
 .compra-minima{
     margin-top:0;
 }
@@ -186,6 +171,35 @@ font-weight:500;
   -moz-user-select:none;
   -ms-user-select:none;
     }
+<!-- ==================================== -->
+<!--   TARJETA CUPÓN DESTACADO            -->
+<!-- ==================================== -->
+.descuentoDestacado{
+
+font-size:20px;
+font-weight:bold;
+margin:6px 0;
+white-space:nowrap;
+
+}
+    .compraMinimaDestacado{
+font-size:18px;
+margin:8px 0;
+font-weight:500;
+    }
+    
+.tarjetaDestacado{
+display:none;
+width:95%;
+max-width:700px;
+margin:0 auto 18px auto;
+background:#fff7d6;
+border:3px solid #ff9800;
+border-radius:12px;
+padding:10px;
+box-shadow:0 6px 14px rgba(0,0,0,.15);
+    }
+
 /* =================================== */
 /*             UTILIDADES              */
 /* =================================== */ 
@@ -374,19 +388,9 @@ onclick="mostrar('aprende')">
 <!-- ==================================== -->
 <!--   TARJETA CUPÓN DESTACADO            -->
 <!-- ==================================== -->
-    <div
+<div
 id="cuponDestacado"
-style="
-display:none;
-width:95%;
-max-width:700px;
-margin:0 auto 18px auto;
-background:#fff7d6;
-border:3px solid #ff9800;
-border-radius:12px;
-padding:10px;
-box-shadow:0 6px 14px rgba(0,0,0,.15);
-">
+class="tarjetaDestacado">
 
 <div
 style="   
