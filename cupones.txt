@@ -1,10 +1,15 @@
 ESTADO=1
 
-DESTACADO
 🎟️ Cupón: PRONTO7
 Beneficio: -$75 | 10%
 Compra mínima: $600
 Enlace https://meli.la/1aym5ai
+
+DESTACADO
+🎟️ Cupón: OCTAVOS10
+Beneficio: -$160 | 10%
+Compra mínima: $1500
+Enlace https://meli.la/1nxvASZ
 
 🎟️ Cupón: LLEGANDO77
 Beneficio: -$200
