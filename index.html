@@ -865,6 +865,20 @@ cupones.push(
 );
 
 }
+/* =================================== */
+/*        CUPÓN DESTACADO              */
+/* =================================== */
+    /**
+ * Lee el archivo cupones.txt.
+ * Si existe DESTACADO=SI antes de un cupon,
+ muestra la tarjeta del cupón destacado en la
+ parte superior.
+ */
+    /*
+Objetivo:
+Mostrar un cupón importante en la parte superior.
+*/
+        
     const cuponDestacado =
 cupones.find(
 cupon => cupon.destacado
@@ -1024,7 +1038,6 @@ contenedor.innerHTML += `
 /* =================================== */
 /*         INICIALIZACIÓN              */
 /* =================================== */
-    cargarCuponDestacado();
 cargarCupones();
 cargarBancarios();
 /* =================================== */
@@ -1183,44 +1196,6 @@ if(ultimaSeccion){
 
 }    
 
-/* =================================== */
-/*        CUPÓN DESTACADO              */
-/* =================================== */
-    /**
- * Lee el archivo cupon-destacado.txt.
- * Si existe contenido, muestra la tarjeta
- * del cupón destacado en la parte superior.
- */
-    /*
-Archivo utilizado:
-✔ cupon-destacado.txt
-
-Funciones:
-✔ cargarCuponDestacado()
-
-Objetivo:
-Mostrar un cupón importante en la parte superior.
-*/
-function cargarCuponDestacado(){
-    fetch("cupon-destacado.txt")
-.then(r=>r.text())
-.then(texto=>{
-
-texto=texto.trim();
-
-if(texto!=""){
-
-document
-.getElementById("textoDestacado")
-.textContent=texto;
-
-document
-.getElementById("cuponDestacado")
-.style.display="block";
-
-}
-});
-}
 </script>
 <!-- ============================ -->
 <!--  TOAST Y BOTÓN FLOTANTE DE WHATSAPP        -->
