@@ -907,17 +907,38 @@ Mostrar un cupón importante en la parte superior.
 cupones.find(
 cupon => cupon.destacado
 );
-        if(cuponDestacado){
+if(cuponDestacado){
 
 document
-.getElementById("textoDestacado")
+.getElementById("beneficioDestacado")
 .textContent=
+`🔥 ${cuponDestacado.beneficio} 🔥`;
 
-`🔥 ${cuponDestacado.beneficio}
+document
+.getElementById("minimoDestacado")
+.textContent=
+`🛒 Compra mínima: ${cuponDestacado.minimo}`;
 
-🛒 Compra mínima: ${cuponDestacado.minimo}
+document
+.getElementById("estadoDestacado")
+.textContent=
+"🔒 Toca para revelar";
 
-🎟️ ${cuponDestacado.codigo}`;
+document
+.getElementById("codigoDestacado")
+.textContent=
+"██████████";
+
+document
+.getElementById("botonDestacado")
+.onclick=()=>{
+
+revelarCupon(
+cuponDestacado.codigo,
+cuponDestacado.enlace
+);
+
+};
 
 document
 .getElementById("cuponDestacado")
@@ -929,7 +950,7 @@ document
 .getElementById("cuponDestacado")
 .style.display="none";
 
-        }
+}        
         contenedor.innerHTML = "";
 
 cupones.forEach(cupon=>{
