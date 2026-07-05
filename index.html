@@ -99,7 +99,7 @@ img{
 h1{
     color:#000;
 }
-    /* =================================== */
+/* =================================== */
 /*             TARJETAS                */
 /* =================================== */
 
@@ -171,24 +171,23 @@ width:80%;
   -moz-user-select:none;
   -ms-user-select:none;
     }
-<!-- ==================================== -->
-<!--   TARJETA CUPÓN DESTACADO            -->
-<!-- ==================================== -->
+    
+/* =================================== */
+/*      TARJETAS DESTACADAS            */
+/* =================================== */
+    
 .descuentoDestacado{
-
 font-size:20px;
 font-weight:bold;
 margin:6px 0;
 white-space:nowrap;
-
 }
     .compraMinimaDestacado{
 font-size:18px;
 margin:8px 0;
 font-weight:500;
-    }
-    
-.tarjetaDestacado{
+    }   
+    .tarjetaDestacado{
 display:none;
 width:95%;
 max-width:700px;
@@ -198,6 +197,12 @@ border:3px solid #ff9800;
 border-radius:12px;
 padding:10px;
 box-shadow:0 6px 14px rgba(0,0,0,.15);
+    }
+    .contenidoDestacado{
+display:flex;
+justify-content:space-between;
+align-items:center;
+gap:18px;
     }
 
 /* =================================== */
@@ -404,12 +409,8 @@ margin-bottom:8px;
 
 <div
 id="contenidoDestacado"
-style="
-display:flex;
-justify-content:space-between;
-align-items:center;
-gap:18px;
-">
+class="contenidoDestacado">
+    
 <div
 id="ladoIzquierdo"
 style="
