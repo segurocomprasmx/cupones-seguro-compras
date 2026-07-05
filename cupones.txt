@@ -25,7 +25,6 @@ Beneficio: -$400
 Compra mínima: $4000
 Enlace 
 
-DESTACADO=SI
 🎟️ Cupón: COMPRALO77
 Beneficio: -$500 | 10%
 Compra mínima: $5000
@@ -45,6 +44,12 @@ Enlace
 Beneficio: -$750 | 10%
 Compra mínima: $7500
 Enlace https://meli.la/2AyhQpq
+
+DESTACADO=SI
+🎟️ Cupón: YACASIES77
+Beneficio: -$1000 | 10%
+Compra mínima: $8000
+Enlace https://meli.la/1sYBexs
 
 🎟️ Cupón: 
 Beneficio: -$1000
