@@ -840,14 +840,20 @@ cupones.push(
 }
 
 cuponActual={
-destacado:cuponActual.destacado,
+
+destacado:siguienteDestacado,
+
 codigo:textoLinea
 .replace("🎟️ Cupón:","")
 .trim(),
+
 beneficio:"",
 minimo:"",
 enlace:""
+
 };
+
+siguienteDestacado=false;
 
 continue;
 
