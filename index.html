@@ -99,6 +99,7 @@ img{
 h1{
     color:#000;
 }
+
 /* =================================== */
 /*             TARJETAS                */
 /* =================================== */
@@ -235,7 +236,18 @@ padding:8px 14px;
 color:#1b8f3a;
 font-weight:bold;
     }
+/* =================================== */
+/*      CONTENEDOR CUPONES             */
+/* =================================== */
 
+.contenedorCupones{
+
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+gap:14px;
+
+}
 /* =================================== */
 /*             UTILIDADES              */
 /* =================================== */ 
@@ -492,7 +504,10 @@ Revelar
 <!-- ===================================== -->
     <div id="diarios">
         <h2 id="tituloCupones">🔥 MÁS CUPONES DISPONIBLES</h2>
-        <div id="contenedor-cupones"></div>
+        <div
+id="contenedor-cupones"
+class="contenedorCupones">
+        </div>
 
     </div>
 <!-- =================================== -->
