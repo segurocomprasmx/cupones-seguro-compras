@@ -40,6 +40,7 @@ Beneficio: -$700
 Compra mínima: $7000
 Enlace 
 
+DESTACADO=SI
 🎟️ Cupón: 77LLEGAYA
 Beneficio: -$750 | 10%
 Compra mínima: $7500
