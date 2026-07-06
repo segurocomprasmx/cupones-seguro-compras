@@ -1110,8 +1110,16 @@ document
 .getElementById("cuponDestacado")
 .style.display="none";
 
-}        
-        contenedor.innerHTML = "";
+} 
+/* =================================== */
+/*      TARJETAS DE CUPONES            */
+/* =================================== */
+/**
+ * Recorre todos los cupones válidos.
+ * Genera automáticamente las tarjetas
+ * que se muestran en la sección principal.
+ */
+ contenedor.innerHTML = "";
 
 cupones.forEach(cupon=>{
 
