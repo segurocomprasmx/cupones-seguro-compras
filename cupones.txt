@@ -1,50 +1,55 @@
-ESTADO=0
-
-🎟️ Cupón: PRONTO7
-Beneficio: -$75 | 10%
-Compra mínima: $600
-Enlace https://meli.la/1aym5ai
+ESTADO=1
 
 DESTACADO
-🎟️ Cupón: OCTAVOS10
-Beneficio: -$160 | 10%
-Compra mínima: $1500
-Enlace https://meli.la/1nxvASZ
+🎟️ Cupón: CASILLEGO77
+Beneficio: -$63 | 10%
+Compra mínima: $500
+Enlace https://meli.la/1aym5ai
 
-🎟️ Cupón: LLEGANDO77
+🎟️ Cupón: 
+Beneficio: -$75 | 10%
+Compra mínima: $600
+Enlace 
+
+🎟️ Cupón: FECHADOBLE77
+Beneficio: -$150
+Compra mínima: $1500
+Enlace https://meli.la/12Zb4nV
+
+🎟️ Cupón: 
 Beneficio: -$200
 Compra mínima: $2000
-Enlace https://meli.la/12Zb4nV
+Enlace 
 
 🎟️ Cupón: 
 Beneficio: -$321 | 10%
 Compra mínima: $2500
 Enlace
 
-🎟️ Cupón: 
+🎟️ Cupón: YALLEGO77
 Beneficio:  -$375 | 10%
 Compra mínima: $3000
-Enlace  
+Enlace  https://meli.la/2TVZWG8
 
-🎟️ Cupón: CASI77
+🎟️ Cupón: 
 Beneficio: -$400
 Compra mínima: $4000
-Enlace https://meli.la/2TVZWG8
+Enlace 
 
 🎟️ Cupón: 
 Beneficio: -$500 | 10%
 Compra mínima: $5000
 Enlace 
 
-🎟️ Cupón: 
+🎟️ Cupón: MANANA77
 Beneficio: -$600
 Compra mínima: $6000
-Enlace 
+Enlace https://meli.la/2AyhQpq
 
-🎟️ Cupón: 77ESAHORA
+🎟️ Cupón: 
 Beneficio: -$750 | 10%
 Compra mínima: $6000
-Enlace https://meli.la/2AyhQpq
+Enlace 
 
 🎟️ Cupón: 
 Beneficio: -$700
@@ -56,7 +61,7 @@ Beneficio: -$1000 | 10%
 Compra mínima: $8000
 Enlace 
 
-🎟️ Cupón: FALTANADA77
+🎟️ Cupón: NOFALTANADA77
 Beneficio: -$1000
 Compra mínima: $10000
 Enlace https://meli.la/1sYBexs
