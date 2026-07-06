@@ -1,6 +1,5 @@
 ESTADO=1
 
-DESTACADO
 🎟️ Cupón: CASILLEGO77
 Beneficio: -$63 | 10%
 Compra mínima: $500
@@ -15,6 +14,12 @@ Enlace
 Beneficio: -$150
 Compra mínima: $1500
 Enlace https://meli.la/12Zb4nV
+
+DESTACADO
+🎟️ Cupón: OCTAVOSYA
+Beneficio: -$160
+Compra mínima: $1500
+Enlace https://meli.la/1nxvASZ
 
 🎟️ Cupón: 
 Beneficio: -$200
