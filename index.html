@@ -744,11 +744,18 @@ document
 .getElementById(idCodigo)
 .innerHTML = codigo;
 
-document
-.getElementById(idEstado)
-.innerHTML =
-"🎉 ¡Felicidades!<br>Código revelado";
+const boton =
+destacado
+? document.getElementById("botonDestacado")
+: document.querySelector(
+`button[onclick="revelarCupon('${codigo}','${enlace}')"]`
+);
 
+if(boton){
+
+boton.innerHTML="✅ Copiado";
+
+}
 setTimeout(()=>{
 
 copiar(
