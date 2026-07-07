@@ -899,10 +899,12 @@ behavior:"smooth"
 },20);
 }
 if(seccion=="bancarios"){
+setTimeout(()=>{
 document.getElementById("bancarios")
 .scrollIntoView({
 behavior:"smooth"
 });
+},20);
 }
 
 gtag('event','abrir_seccion',{
