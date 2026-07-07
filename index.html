@@ -847,11 +847,23 @@ document.getElementById(seccion).style.display="block";
 if(seccion=="diarios"){
 document.getElementById("btnDiarios").style.color="#ff7a00";
 document.getElementById("btnDiarios").style.borderBottom="2px solid #ff7a00";}
+if(seccion=="diarios"){
+
+window.scrollTo({
+top:0,
+behavior:"smooth"
+});
+
+}
         
 if(seccion=="bancarios"){
 document.getElementById("btnBancarios").style.color="#ff7a00";
 document.getElementById("btnBancarios").style.borderBottom="2px solid #ff7a00";}
-
+document.getElementById("bancarios")
+.scrollIntoView({
+behavior:"smooth"
+});
+        
 if(seccion=="mercadoPago"){
 document.getElementById("btnMercadoPago").style.color="#ff7a00";
 document.getElementById("btnMercadoPago").style.borderBottom="2px solid #ff7a00";}
