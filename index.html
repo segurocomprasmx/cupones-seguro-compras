@@ -877,9 +877,18 @@ behavior:"smooth"
 });
         
 if(seccion=="mercadoPago"){
+
+document.getElementById("diarios").style.display="block";
+document.getElementById("mercadoPago").scrollIntoView({
+behavior:"smooth"
+});
+
 document.getElementById("btnMercadoPago").style.color="#ff7a00";
-document.getElementById("btnMercadoPago").style.borderBottom="2px solid #ff7a00";}
-     
+document.getElementById("btnMercadoPago").style.borderBottom="2px solid #ff7a00";
+
+return;
+
+}     
 if(seccion=="secretos"){
 document.getElementById("btnSecretos").style.color="#ff7a00";
 document.getElementById("btnSecretos").style.borderBottom="2px solid #ff7a00";}
