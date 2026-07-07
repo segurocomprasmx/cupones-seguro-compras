@@ -891,20 +891,24 @@ behavior:"smooth"
 }
     
 if(seccion=="mercadoPago"){
-setTimeout(()=>{
+requestAnimationFrame(()=>{
+requestAnimationFrame(()=>{
 document.getElementById("mercadoPago")
 .scrollIntoView({
 behavior:"smooth"
 });
-},20);
+});
+});
 }
 if(seccion=="bancarios"){
-setTimeout(()=>{
+requestAnimationFrame(()=>{
+requestAnimationFrame(()=>{
 document.getElementById("bancarios")
 .scrollIntoView({
 behavior:"smooth"
 });
-},20);
+});
+});
 }
 
 gtag('event','abrir_seccion',{
