@@ -1458,7 +1458,28 @@ if(ultimaSeccion){
     );
 
 }    
+/* =================================== */
+/*      BOTÓN VOLVER ARRIBA            */
+/* =================================== */
 
+window.addEventListener("scroll",()=>{
+
+const boton=
+document.getElementById("btnArriba");
+
+if(window.scrollY>350){
+
+boton.style.opacity="1";
+boton.style.pointerEvents="auto";
+
+}else{
+
+boton.style.opacity="0";
+boton.style.pointerEvents="none";
+
+}
+
+});
 </script>
 <!-- ============================ -->
 <!--  TOAST Y BOTÓN FLOTANTE DE WHATSAPP        -->
