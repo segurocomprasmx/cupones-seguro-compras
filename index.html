@@ -823,8 +823,10 @@ setTimeout(()=>{
  */
     function mostrar(seccion){
 
-document.getElementById("diarios").style.display="none";
-document.getElementById("bancarios").style.display="none";
+// Diarios y Bancarios siempre visibles
+document.getElementById("diarios").style.display="block";
+document.getElementById("bancarios").style.display="block";
+        
 document.getElementById("secretos").style.display="none";
 document.getElementById("aprende").style.display="none";
 document.getElementById("mercadoPago").style.display="none";
