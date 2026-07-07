@@ -1478,6 +1478,35 @@ boton.style.opacity="0";
 boton.style.pointerEvents="none";
 
 }
+const btnWhats =
+document.getElementById("btnWhats");
+
+const textoWhats =
+document.getElementById("textoWhats");
+
+if(window.scrollY>350){
+
+textoWhats.style.display="none";
+
+btnWhats.style.width="50px";
+btnWhats.style.height="50px";
+btnWhats.style.padding="0";
+btnWhats.style.borderRadius="50%";
+btnWhats.style.justifyContent="center";
+btnWhats.style.gap="0";
+
+}else{
+
+textoWhats.style.display="inline";
+
+btnWhats.style.width="auto";
+btnWhats.style.height="auto";
+btnWhats.style.padding="12px 18px";
+btnWhats.style.borderRadius="40px";
+btnWhats.style.justifyContent="center";
+btnWhats.style.gap="10px";
+
+}
 
 });
 </script>
