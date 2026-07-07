@@ -821,90 +821,96 @@ setTimeout(()=>{
  * Oculta todas las secciones y muestra solamente la elegida.
  * También guarda la última pestaña visitada.
  */
-    function mostrar(seccion){
+function mostrar(seccion){
 
-// Ocultar todas las secciones
+// Ocultar todas
 document.getElementById("diarios").style.display="none";
 document.getElementById("mercadoPago").style.display="none";
 document.getElementById("bancarios").style.display="none";
 document.getElementById("secretos").style.display="none";
 document.getElementById("aprende").style.display="none";
-        
-document.getElementById("btnDiarios").style.color="#222";
-document.getElementById("btnBancarios").style.color="#222";
-document.getElementById("btnSecretos").style.color="#222";
-document.getElementById("btnAprende").style.color="#222";
-document.getElementById("btnMercadoPago").style.color="#222";
-        
-document.getElementById("btnDiarios").style.borderBottom="2px solid transparent";
-document.getElementById("btnBancarios").style.borderBottom="2px solid transparent";
-document.getElementById("btnSecretos").style.borderBottom="2px solid transparent";
-document.getElementById("btnAprende").style.borderBottom="2px solid transparent";
-document.getElementById("btnMercadoPago").style.borderBottom="2px solid transparent";
-        
-if(seccion=="diarios"){
 
+// Reiniciar menú
+[
+"btnDiarios",
+"btnMercadoPago",
+"btnBancarios",
+"btnSecretos",
+"btnAprende"
+].forEach(id=>{
+
+document.getElementById(id).style.color="#222";
+document.getElementById(id).style.borderBottom="2px solid transparent";
+
+});
+
+// ===== PORTADA =====
+
+if(
+seccion=="diarios" ||
+seccion=="mercadoPago" ||
+seccion=="bancarios"
+){
 document.getElementById("diarios").style.display="block";
 document.getElementById("mercadoPago").style.display="block";
 document.getElementById("bancarios").style.display="block";
-
 }
 
-else{
+// ===== PÁGINAS =====
 
-document.getElementById(seccion).style.display="block";
-
+if(seccion=="secretos"){
+document.getElementById("secretos").style.display="block";
 }
-        
-if(seccion=="diarios"){
-document.getElementById("btnDiarios").style.color="#ff7a00";
-document.getElementById("btnDiarios").style.borderBottom="2px solid #ff7a00";}
-if(seccion=="diarios"){
+if(seccion=="aprende"){
+document.getElementById("aprende").style.display="block";
+}
 
+// ===== COLORES DEL MENÚ =====
+
+const botones={
+diarios:"btnDiarios",
+mercadoPago:"btnMercadoPago",
+bancarios:"btnBancarios",
+secretos:"btnSecretos",
+aprende:"btnAprende"
+};
+
+const boton=document.getElementById(
+botones[seccion]
+);
+boton.style.color="#ff7a00";
+boton.style.borderBottom="2px solid #ff7a00";
+
+// ===== SCROLL =====
+
+if(seccion=="diarios"){
 window.scrollTo({
 top:0,
 behavior:"smooth"
 });
-
 }
-        
+if(seccion=="mercadoPago"){
+document.getElementById("mercadoPago")
+.scrollIntoView({
+behavior:"smooth"
+});
+}
 if(seccion=="bancarios"){
-document.getElementById("btnBancarios").style.color="#ff7a00";
-document.getElementById("btnBancarios").style.borderBottom="2px solid #ff7a00";}
 document.getElementById("bancarios")
 .scrollIntoView({
 behavior:"smooth"
 });
-        
-if(seccion=="mercadoPago"){
+}
 
-document.getElementById("diarios").style.display="block";
-document.getElementById("mercadoPago").scrollIntoView({
-behavior:"smooth"
-});
-
-document.getElementById("btnMercadoPago").style.color="#ff7a00";
-document.getElementById("btnMercadoPago").style.borderBottom="2px solid #ff7a00";
-
-return;
-
-}     
-if(seccion=="secretos"){
-document.getElementById("btnSecretos").style.color="#ff7a00";
-document.getElementById("btnSecretos").style.borderBottom="2px solid #ff7a00";}
-        
-if(seccion=="aprende"){
-document.getElementById("btnAprende").style.color="#ff7a00";
-document.getElementById("btnAprende").style.borderBottom="2px solid #ff7a00";}
 gtag('event','abrir_seccion',{
-  seccion:seccion
+seccion:seccion
 });
-        
 localStorage.setItem(
 "ultimaSeccion",
 seccion
 );
-    }
+}
+
 /* =================================== */
 /*      CARGA DE CUPONES DIARIOS       */
 /* =================================== */
