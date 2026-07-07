@@ -145,6 +145,17 @@ max-width:none;
 box-sizing:border-box;
 box-shadow:0 6px 18px rgba(0,0,0,.15);
 }
+.codigoBanco{
+display:inline-block;
+background:#1f78ff;
+color:#fff;
+font-weight:700;
+padding:6px 14px;
+border-radius:20px;
+margin:8px 0;
+letter-spacing:1px;
+font-size:18px;
+}
     .card h2{
     margin:5px 0;
 }
@@ -1302,18 +1313,18 @@ contenedor.innerHTML += `
 
 <div class="cardBanco">
 
-<h2>🏦 ${banco}</h2>
+<h2>${banco}</h2>
 
 <p>${promo}</p>
 
-<p>🛒 ${minimo}</p>
+<p>🛒 Mín. ${minimo}</p>
 
-<p class="no-select">
-<b>${codigo}</b>
-</p>
+<div class="codigoBanco">
+${codigo}
+</div>
 <button onclick="copiarBanco('${codigo}','${enlace}','${banco}')">
 
-📋 Copiar Cupón
+📋 Copiar
 
 </button>
 </div>
