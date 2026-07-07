@@ -823,13 +823,13 @@ setTimeout(()=>{
  */
     function mostrar(seccion){
 
-// Diarios y Bancarios siempre visibles
-document.getElementById("diarios").style.display="block";
-document.getElementById("bancarios").style.display="block";        
+// Ocultar todas las secciones
+document.getElementById("diarios").style.display="none";
+document.getElementById("mercadoPago").style.display="none";
+document.getElementById("bancarios").style.display="none";
 document.getElementById("secretos").style.display="none";
 document.getElementById("aprende").style.display="none";
-document.getElementById("mercadoPago").style.display="none";
-
+        
 document.getElementById("btnDiarios").style.color="#222";
 document.getElementById("btnBancarios").style.color="#222";
 document.getElementById("btnSecretos").style.color="#222";
@@ -842,7 +842,19 @@ document.getElementById("btnSecretos").style.borderBottom="2px solid transparent
 document.getElementById("btnAprende").style.borderBottom="2px solid transparent";
 document.getElementById("btnMercadoPago").style.borderBottom="2px solid transparent";
         
+if(seccion=="diarios"){
+
+document.getElementById("diarios").style.display="block";
+document.getElementById("mercadoPago").style.display="block";
+document.getElementById("bancarios").style.display="block";
+
+}
+
+else{
+
 document.getElementById(seccion).style.display="block";
+
+}
         
 if(seccion=="diarios"){
 document.getElementById("btnDiarios").style.color="#ff7a00";
