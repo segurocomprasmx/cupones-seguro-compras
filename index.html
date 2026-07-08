@@ -166,6 +166,16 @@ user-select:none;
 -webkit-user-select:none;
 -webkit-touch-callout:none;
 }
+.botonBanco{
+background:#2979ff;
+color:white;
+padding:8px 14px;
+border-radius:12px;
+font-size:15px;
+font-weight:600;
+width:100%;
+margin-top:4px;
+}
     .card h2{
     margin:5px 0;
 }
@@ -1332,7 +1342,8 @@ contenedor.innerHTML += `
 <div class="codigoBanco">
 ${codigo}
 </div>
-<button onclick="copiarBanco('${codigo}','${enlace}','${banco}')">
+<button class="botonBanco"
+onclick="copiarBanco('${codigo}','${enlace}','${banco}')">
 
 📋 Copiar
 
