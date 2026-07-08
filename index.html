@@ -169,6 +169,16 @@ user-select:none;
 -webkit-user-select:none;
 -webkit-touch-callout:none;
 }
+.agotadoBanco{
+background:#d32f2f;
+color:#fff;
+font-weight:700;
+padding:8px 14px;
+border-radius:18px;
+margin:10px 0;
+font-size:17px;
+display:inline-block;
+}
 .botonBanco{
 background:#2979ff;
 color:#fff;
@@ -1334,7 +1344,8 @@ datos[3]
 .trim();
     const enlace =
 datos[4];
-    
+    const estado =
+datos[5] || "1";
 contenedor.innerHTML += `
 
 <div class="cardBanco">
@@ -1345,15 +1356,27 @@ contenedor.innerHTML += `
 
 <p>🛒 Mín. ${minimo}</p>
 
+${estado=="1" ? `
+
 <div class="codigoBanco">
 ${codigo}
 </div>
-<button class="botonBanco"
+
+<button
+class="botonBanco"
 onclick="copiarBanco('${codigo}','${enlace}','${banco}')">
 
 📋 Copiar
 
 </button>
+
+` : `
+
+<div class="agotadoBanco">
+🔴 AGOTADO
+</div>
+
+`}
 </div>
 
 `;
