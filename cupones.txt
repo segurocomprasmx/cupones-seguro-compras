@@ -1,20 +1,19 @@
 ESTADO=1
 
-DESTACADO
-🎟️ Cupón: FINAL77
+🎟️ Cupón: 
 Beneficio: -$50
 Compra mínima: $500
-Enlace https://meli.la/2V8qcNf
+Enlace 
 
 🎟️ Cupón: 
 Beneficio: -$63 | 10%
 Compra mínima: $500
 Enlace 
 
-🎟️ Cupón: 
+🎟️ Cupón: COMPRASUPER
 Beneficio: -$75 | 10%
 Compra mínima: $600
-Enlace 
+Enlace https://meli.la/2V8qcNf
 
 🎟️ Cupón: 
 Beneficio: -$150
@@ -26,8 +25,9 @@ Beneficio: -$160
 Compra mínima: $1500
 Enlace 
 
-🎟️ Cupón: ULTIMO77
-Beneficio: -$200
+DESTACADO
+🎟️ Cupón: SUPERMELI
+Beneficio: -$160
 Compra mínima: $1600
 Enlace https://meli.la/2TVZWG8
 
@@ -51,10 +51,10 @@ Beneficio: -$321 | 10%
 Compra mínima: $2500
 Enlace
 
-🎟️ Cupón: TERMINA77
+🎟️ Cupón: 
 Beneficio: -$300
 Compra mínima: $3000
-Enlace https://meli.la/2Tq8nED
+Enlace 
 
 🎟️ Cupón: 
 Beneficio:  -$375 | 10%
@@ -64,22 +64,22 @@ Enlace
 🎟️ Cupón: 
 Beneficio: -$500
 Compra mínima: $4000
-Enlace https://meli.la/1nxvASZ
+Enlace 
 
-🎟️ Cupón: 
+🎟️ Cupón: SUPERAHORA
 Beneficio: -$400
 Compra mínima: $4000
-Enlace 
+Enlace https://meli.la/2Tq8nED
 
 🎟️ Cupón: 
 Beneficio: -$500 | 10%
 Compra mínima: $5000
 Enlace 
 
-🎟️ Cupón: SEACABO77
+🎟️ Cupón: 
 Beneficio: -$600
 Compra mínima: $6000
-Enlace https://meli.la/1nxvASZ
+Enlace 
 
 🎟️ Cupón: 
 Beneficio: -$750 | 10%
@@ -90,6 +90,11 @@ Enlace
 Beneficio: -$700
 Compra mínima: $7000
 Enlace 
+
+🎟️ Cupón: ELSUPER
+Beneficio: -$800
+Compra mínima: $8000
+Enlace https://meli.la/1nxvASZ
 
 🎟️ Cupón: 
 Beneficio: -$1000 | 10%
