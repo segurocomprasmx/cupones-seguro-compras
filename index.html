@@ -677,7 +677,9 @@ class="contenedorCupones">
 <div id="mercadoPago" style="display:none;">
 <div class="cardMercadoPago">
 <h2>💰 Obtén $100 de descuento</h2>
-    <button class="btnMercadoPago">
+    <button
+class="btnMercadoPago"
+onclick="abrirMercadoPago()">
 
 🚀 ACTIVAR BENEFICIO
 
@@ -968,6 +970,16 @@ setTimeout(()=>{
 },300);
 
     }
+
+function abrirMercadoPago(){
+gtag('event','mercado_pago_click');
+window.open(
+"https://mpago.li/2fKBenb",
+"_blank"
+);
+
+}
+
 /* =================================== */
 /*      NAVEGACIÓN DEL SITIO           */
 /* =================================== */
