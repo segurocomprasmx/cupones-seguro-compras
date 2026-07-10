@@ -332,7 +332,7 @@ font-size:18px;
 font-weight:bold;
 cursor:pointer;
 }
-const MOSTRAR_TUTORIAL = false;
+
     
 /* =================================== */
 /*      TARJETAS DESTACADAS            */
@@ -871,7 +871,7 @@ Después podrás usar todos los cupones de Seguro Compras como un experto. 😎
 <!--              JAVASCRIPT               -->
 <!-- ===================================== -->
 <script>
-
+const MOSTRAR_TUTORIAL = false;
 /* =================================== */
 /*    SISTEMA DE CUPONES DIARIOS       */
 /* =================================== */
@@ -1490,6 +1490,8 @@ onclick="copiarBanco('${codigo}','${enlace}','${banco}')">
 /* =================================== */
 cargarCupones();
 cargarBancarios();
+    document.getElementById("tutorialMP").style.display =
+MOSTRAR_TUTORIAL ? "block" : "none";
 /* =================================== */
 /*      BOTÓN FLOTANTE WHATSAPP        */
 /* =================================== */
