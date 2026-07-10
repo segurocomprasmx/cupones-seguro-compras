@@ -332,6 +332,7 @@ font-size:18px;
 font-weight:bold;
 cursor:pointer;
 }
+const MOSTRAR_TUTORIAL = false;
     
 /* =================================== */
 /*      TARJETAS DESTACADAS            */
@@ -686,15 +687,15 @@ onclick="abrirMercadoPago()">
     </button>
 <div class="checkListMP">
 
-<div>📲 Inicia sesión</div>
+<div>① 📲 Inicia sesión</div>
 
-<div>💳 Agrega saldo</div>
+<div>② 💳 Agrega saldo</div>
 
-<div>🛒 Compra antes de 7 días</div>
+<div>③ 🛒 Compra antes de 7 días</div>
 
-<div>💰 Compra desde $200</div>
+<div>④ 💰 Compra desde $200</div>
 
-<div>✅ Paga con Saldo Mercado Pago</div>
+<div>⑤ ✅ Paga con Saldo Mercado Pago</div>
 
 </div>
 
@@ -707,7 +708,8 @@ onclick="abrirMercadoPago()">
 
 <br>
 
-<div class="cardCompleta">
+    <!-- TUTORIAL=1 -->
+<div id="tutorialMP" class="cardCompleta">
 
 <h2>❓ ¿Tienes dudas?</h2>
 
@@ -869,6 +871,10 @@ Después podrás usar todos los cupones de Seguro Compras como un experto. 😎
 <!--              JAVASCRIPT               -->
 <!-- ===================================== -->
 <script>
+
+document.getElementById("tutorialMP").style.display =
+MOSTRAR_TUTORIAL ? "block" : "none";
+    
 /* =================================== */
 /*    SISTEMA DE CUPONES DIARIOS       */
 /* =================================== */
