@@ -1,15 +1,30 @@
 ESTADO=1
 
-DESTACADO
 🎟️ Cupón: SUPERYA
 Beneficio: -$63 | 10%
 Compra mínima: $500
 Enlace https://meli.la/2V8qcNf
 
+🎟️ Cupón: CUARTOS
+Beneficio: -$160 | 10%
+Compra mínima: $1500
+Enlace https://meli.la/32V4U7e
+
+🎟️ Cupón: FINAL10
+Beneficio: -$200 | 10%
+Compra mínima: $1800
+Enlace https://meli.la/1FCDBnb
+
 🎟️ Cupón: TUSUPER
 Beneficio: -$200
 Compra mínima: $2000
 Enlace https://meli.la/2TVZWG8
+
+DESTACADO
+🎟️ Cupón: MELIMAS7OLA
+Beneficio: -$500 | 10%
+Compra mínima: $4000
+Enlace https://meli.la/1sYBexs
 
 🎟️ Cupón: COMPRAYA
 Beneficio: -$500
