@@ -360,6 +360,28 @@ border-radius:12px;
 padding:6px 10px;
 box-shadow:0 6px 14px rgba(0,0,0,.15);
     }
+    .tarjetaMeli{
+display:none;
+width:95%;
+max-width:700px;
+margin:0 auto 12px auto;
+background:#111;
+border:3px solid #7b3ff2;
+border-radius:16px;
+padding:10px;
+box-sizing:border-box;
+box-shadow:0 8px 20px rgba(0,0,0,.35);
+color:#fff;
+    }
+    .textoMeli{
+color:#a855f7;
+font-weight:bold;
+    }
+    .tarjetaMeli .botonDestacado{
+background:#7b3ff2;
+color:#fff;
+
+    }
     .contenidoDestacado{
 display:flex;
 justify-content:space-between;
@@ -594,6 +616,81 @@ onclick="mostrar('aprende')">
 🎓 Tutorial
 </a>
     </div>
+<!-- ==================================== -->
+<!--      TARJETA EXCLUSIVO MELI+         -->
+<!-- ==================================== -->
+
+<div
+id="cuponMeli"
+class="tarjetaMeli">
+
+<div
+style="
+font-size:18px;
+font-weight:bold;
+margin:0 0 6px 0;
+">
+
+💎 EXCLUSIVO
+<span class="textoMeli">
+MELI+
+</span>
+
+</div>
+
+<div
+id="contenidoMeli"
+class="contenidoDestacado">
+
+<div class="ladoIzquierdo">
+
+<div
+class="descuentoDestacado"
+id="beneficioMeli">
+</div>
+
+<p
+class="compraMinimaDestacado"
+id="minimoMeli">
+</p>
+
+</div>
+
+<div class="ladoDerecho">
+
+<div
+id="codigoMeli"
+class="codigoDestacado">
+
+••••••••••
+
+</div>
+
+<button
+id="botonMeli"
+class="botonDestacado">
+
+🎁 Revelar
+
+</button>
+
+<p
+id="contadorMeli"
+style="
+margin-top:8px;
+font-size:13px;
+color:#ddd;
+">
+
+👥 148 activados
+
+</p>
+
+</div>
+
+</div>
+
+</div>
 <!-- ==================================== -->
 <!--   TARJETA CUPÓN DESTACADO            -->
 <!-- ==================================== -->
@@ -1301,11 +1398,53 @@ cupones.push(
 Objetivo:
 Mostrar un cupón importante en la parte superior.
 */
-        
+  const cuponMeli =
+cupones.find(
+cupon => cupon.meli
+);      
     const cuponDestacado =
 cupones.find(
 cupon => cupon.destacado
 );
+        if(cuponMeli){
+
+document
+.getElementById("beneficioMeli")
+.textContent=
+`🔥 ${cuponMeli.beneficio} 🔥`;
+
+document
+.getElementById("minimoMeli")
+.textContent=
+`🛒 Mínimo ${cuponMeli.minimo}`;
+
+document
+.getElementById("codigoMeli")
+.textContent=
+"●●●●●●";
+
+document
+.getElementById("botonMeli")
+.onclick=()=>{
+
+revelarCupon(
+cuponMeli.codigo,
+cuponMeli.enlace,
+);
+
+};
+
+document
+.getElementById("cuponMeli")
+.style.display="block";
+
+}else{
+
+document
+.getElementById("cuponMeli")
+.style.display="none";
+
+        }
 if(cuponDestacado){
 
 document
