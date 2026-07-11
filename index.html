@@ -111,7 +111,7 @@ background:linear-gradient(
 #FFD92E,
 #FFF36B
 );
-border:3px #252525;
+border:3px solid #252525;
 border-radius:12px;
 
 padding:10px;
@@ -1201,18 +1201,7 @@ enlace
 );
 
 },300);
-setTimeout(()=>{
 
-if(tarjeta){
-
-tarjeta.classList.remove(
-tipo=="normal"
-? "cardActiva"
-: "tarjetaDestacadoActiva"
-);
-}
-
-},3000);
 }
 /* =================================== */
 /*      SISTEMA DE COPIADO             */
@@ -1750,7 +1739,7 @@ class="codigoCard">
 
 <button
 class="botonCard"
-onclick="revelarCupon('${cupon.codigo}','${cupon.enlace}')">
+onclick="revelarCupon('${cupon.codigo}','${cupon.enlace}','normal')">
 🎁 Revelar
 
 </button>
