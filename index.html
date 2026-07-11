@@ -144,6 +144,17 @@ box-shadow:
 
 border-color:#00A650;
     }
+    .cardSeleccionada{
+
+box-shadow:
+0 0 0 5px #00C853,
+0 12px 24px rgba(0,0,0,.18);
+
+transform:translateY(-2px);
+
+transition:.20s;
+
+    }
 .cardCompleta{
 background:#e6d21b;
 border:3px solid #000;
@@ -1623,7 +1634,9 @@ return;
 
 contenedor.innerHTML += `
 
-<div class="card">
+<div
+class="card"
+onclick="seleccionarTarjeta(this)">
 
 <div class="descuentoCard">
 🔥${cupon.beneficio}
