@@ -1750,8 +1750,7 @@ class="codigoCard">
 
 <button
 class="botonCard"
-onclick="revelarCupon('${cupon.codigo}','${cupon.enlace}')">
-
+onclick="revelarCupon('${cupon.codigo}','${cupon.enlace}','normal')"
 🎁 Revelar
 
 </button>
@@ -1773,7 +1772,7 @@ document.getElementById(
 ).innerHTML=cupon.codigo;
 
 const boton=document.querySelector(
-`button[onclick="revelarCupon('${cupon.codigo}','${cupon.enlace}')"]`
+`onclick="revelarCupon('${cupon.codigo}','${cupon.enlace}','normal')"`
 );
 
 if(boton){
