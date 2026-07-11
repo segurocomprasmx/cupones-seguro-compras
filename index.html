@@ -1024,7 +1024,7 @@ const MOSTRAR_TUTORIAL = false;
 function revelarCupon(
 codigo,
 enlace,
-destacado=false
+tipo="normal"
 ){
 
 gtag('event','revelar_cupon',{
@@ -1033,19 +1033,17 @@ cupon:codigo
 
 let idCodigo;
 
-if(destacado){
+if(tipo=="destacado"){
 
-idCodigo = "codigoDestacado";
+idCodigo="codigoDestacado";
 
-}else if(
-document.getElementById("codigoMeli")
-){
+}else if(tipo=="meli"){
 
-idCodigo = "codigoMeli";
+idCodigo="codigoMeli";
 
 }else{
 
-idCodigo = "codigo-" + codigo;
+idCodigo="codigo-"+codigo;
 
 }
 
@@ -1061,12 +1059,26 @@ if(elementoCodigo){
 elementoCodigo.innerHTML = codigo;
 }
 
-const boton =
-destacado
-? document.getElementById("botonDestacado")
-: document.querySelector(
+let boton;
+
+if(tipo=="destacado"){
+
+boton =
+document.getElementById("botonDestacado");
+
+}else if(tipo=="meli"){
+
+boton =
+document.getElementById("botonMeli");
+
+}else{
+
+boton =
+document.querySelector(
 `button[onclick="revelarCupon('${codigo}','${enlace}')"]`
 );
+
+}
     // =========================
 // Animación de la tarjeta
 // =========================
@@ -1520,8 +1532,8 @@ document
 revelarCupon(
 cuponMeli.codigo,
 cuponMeli.enlace,
+"meli"
 );
-
 };
 
 document
@@ -1563,7 +1575,7 @@ document
 revelarCupon(
 cuponDestacado.codigo,
 cuponDestacado.enlace,
-true
+"destacado"
 );
 
 };
