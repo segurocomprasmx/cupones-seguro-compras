@@ -1048,7 +1048,7 @@ idCodigo="codigo-"+codigo;
 }
 
 const idEstado =
-destacado
+tipo=="destacado"
 ? "estadoDestacado"
 : "estado-" + codigo;
 
@@ -1084,18 +1084,19 @@ document.querySelector(
 // =========================
 
 const tarjeta =
-destacado
+tipo=="destacado"
 ? document.getElementById("cuponDestacado")
+: tipo=="meli"
+? document.getElementById("cuponMeli")
 : boton.closest(".card");
 
 if(tarjeta){
 
 tarjeta.classList.add(
-destacado
-? "tarjetaDestacadoActiva"
-: "cardActiva"
+tipo=="normal"
+? "cardActiva"
+: "tarjetaDestacadoActiva"
 );
-
 }
 
 if(boton){
@@ -1117,11 +1118,10 @@ setTimeout(()=>{
 if(tarjeta){
 
 tarjeta.classList.remove(
-destacado
-? "tarjetaDestacadoActiva"
-: "cardActiva"
+tipo=="normal"
+? "cardActiva"
+: "tarjetaDestacadoActiva"
 );
-
 }
 
 },3000);
