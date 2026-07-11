@@ -1157,7 +1157,8 @@ const lineas=
 texto.split("\n");
 const cupones = [];
 let siguienteDestacado = false;
-
+let siguienteMeli = false;
+        
 let cuponActual = {
 destacado:false,
 codigo:"",
@@ -1181,6 +1182,16 @@ continue;
 
 }
 if(
+textoLinea==="MELI"
+){
+
+siguienteMeli = true;
+
+continue;
+
+}
+    
+if(
 textoLinea.startsWith("🎟️ Cupón:")
 ){
 
@@ -1200,6 +1211,8 @@ cupones.push(
 cuponActual={
 
 destacado:siguienteDestacado,
+meli:siguienteMeli,
+    
 
 codigo:textoLinea
 .replace("🎟️ Cupón:","")
@@ -1212,7 +1225,7 @@ enlace:""
 };
 
 siguienteDestacado=false;
-
+siguienteMeli=false;
 continue;
 
 }
