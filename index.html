@@ -997,9 +997,12 @@ destacado
 ? "estadoDestacado"
 : "estado-" + codigo;
 
-document
-.getElementById(idCodigo)
-.innerHTML = codigo;
+const elementoCodigo =
+document.getElementById(idCodigo);
+
+if(elementoCodigo){
+elementoCodigo.innerHTML = codigo;
+}
 
 const boton =
 destacado
