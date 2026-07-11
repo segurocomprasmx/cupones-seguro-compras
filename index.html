@@ -1070,7 +1070,10 @@ document.getElementById(idCodigo);
 if(elementoCodigo){
 elementoCodigo.innerHTML = codigo;
 }
-
+localStorage.setItem(
+"cupon_"+codigo,
+"revelado"
+);
 let boton;
 
 if(tipo=="destacado"){
