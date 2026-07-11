@@ -1660,7 +1660,34 @@ onclick="revelarCupon('${cupon.codigo}','${cupon.enlace}')">
 </div>
 
 `;
+if(
+localStorage.getItem("cupon_"+cupon.codigo)
+==="revelado"
+){
 
+document.getElementById(
+"codigo-"+cupon.codigo
+).innerHTML=cupon.codigo;
+
+const boton=document.querySelector(
+`button[onclick="revelarCupon('${cupon.codigo}','${cupon.enlace}')"]`
+);
+
+if(boton){
+
+boton.innerHTML="✅ Copiado";
+boton.style.background="#00A650";
+boton.style.color="#fff";
+
+const tarjeta=boton.closest(".card");
+
+if(tarjeta){
+tarjeta.classList.add("cardRevelada");
+}
+
+}
+
+}
 });
 
 return;
