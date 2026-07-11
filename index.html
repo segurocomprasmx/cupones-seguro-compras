@@ -1067,6 +1067,24 @@ destacado
 : document.querySelector(
 `button[onclick="revelarCupon('${codigo}','${enlace}')"]`
 );
+    // =========================
+// Animación de la tarjeta
+// =========================
+
+const tarjeta =
+destacado
+? document.getElementById("cuponDestacado")
+: boton.closest(".card");
+
+if(tarjeta){
+
+tarjeta.classList.add(
+destacado
+? "tarjetaDestacadoActiva"
+: "cardActiva"
+);
+
+}
 
 if(boton){
 
@@ -1082,7 +1100,19 @@ enlace
 );
 
 },300);
+setTimeout(()=>{
 
+if(tarjeta){
+
+tarjeta.classList.remove(
+destacado
+? "tarjetaDestacadoActiva"
+: "cardActiva"
+);
+
+}
+
+},3000);
 }
 /* =================================== */
 /*      SISTEMA DE COPIADO             */
