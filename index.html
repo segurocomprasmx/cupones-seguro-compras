@@ -987,10 +987,23 @@ gtag('event','revelar_cupon',{
 cupon:codigo
 });
 
-const idCodigo =
-destacado
-? "codigoDestacado"
-: "codigo-" + codigo;
+let idCodigo;
+
+if(destacado){
+
+idCodigo = "codigoDestacado";
+
+}else if(
+document.getElementById("codigoMeli")
+){
+
+idCodigo = "codigoMeli";
+
+}else{
+
+idCodigo = "codigo-" + codigo;
+
+}
 
 const idEstado =
 destacado
