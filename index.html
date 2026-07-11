@@ -155,6 +155,18 @@ transform:translateY(-2px);
 transition:.20s;
 
     }
+    
+    .cardRevelada{
+
+box-shadow:
+0 0 0 5px #2196F3,
+0 12px 24px rgba(0,0,0,.18);
+
+transform:translateY(-2px);
+
+transition:.20s;
+
+    }
 .cardCompleta{
 background:#e6d21b;
 border:3px solid #000;
@@ -420,6 +432,29 @@ transform:translateY(-4px) scale(1.01);
 box-shadow:
 0 14px 26px rgba(0,0,0,.30);
     }
+    .tarjetaDestacadoRevelada{
+
+box-shadow:
+0 0 0 5px #2196F3,
+0 12px 24px rgba(0,0,0,.18);
+
+transform:translateY(-2px);
+
+transition:.20s;
+
+}
+
+.tarjetaMeliRevelada{
+
+box-shadow:
+0 0 0 5px #2196F3,
+0 12px 24px rgba(0,0,0,.30);
+
+transform:translateY(-2px);
+
+transition:.20s;
+
+}
     .tarjetaMeli{
 display:none;
 width:95%;
@@ -1101,7 +1136,7 @@ document.getElementById("botonMeli");
 
 boton =
 document.querySelector(
-`button[onclick="revelarCupon('${codigo}','${enlace}')"]`
+onclick="revelarCupon('${cupon.codigo}','${cupon.enlace}','normal')"
 );
 
 }
@@ -1118,11 +1153,38 @@ tipo=="destacado"
 
 if(tarjeta){
 
-tarjeta.classList.add(
-tipo=="normal"
-? "cardActiva"
-: "tarjetaDestacadoActiva"
+tarjeta.classList.remove(
+"cardSeleccionada"
 );
+
+tarjeta.classList.remove(
+"cardActiva"
+);
+
+tarjeta.classList.remove(
+"tarjetaDestacadoActiva"
+);
+
+if(tipo=="normal"){
+
+tarjeta.classList.add(
+"cardRevelada"
+);
+
+}else if(tipo=="destacado"){
+
+tarjeta.classList.add(
+"tarjetaDestacadoRevelada"
+);
+
+}else if(tipo=="meli"){
+
+tarjeta.classList.add(
+"tarjetaMeliRevelada"
+);
+
+}
+
 }
 
 if(boton){
