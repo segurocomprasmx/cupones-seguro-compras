@@ -1198,7 +1198,35 @@ setTimeout(()=>{
 },300);
 
     }
+/* =================================== */
+/*      SELECCIONAR TARJETA            */
+/* =================================== */
 
+function seleccionarTarjeta(tarjeta){
+
+document
+.querySelectorAll(".cardSeleccionada")
+.forEach(card=>{
+
+card.classList.remove(
+"cardSeleccionada"
+);
+
+});
+
+if(
+!tarjeta.classList.contains(
+"cardRevelada"
+)
+){
+
+tarjeta.classList.add(
+"cardSeleccionada"
+);
+
+}
+
+}
 function abrirMercadoPago(){
 gtag('event','mercado_pago_click');
 window.open(
