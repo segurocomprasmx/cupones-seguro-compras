@@ -1707,6 +1707,33 @@ document
  contenedor.innerHTML = "";
 
 cupones.forEach(cupon=>{
+ let minimo = parseInt(
+cupon.minimo.replace(/\D/g,"")
+);
+
+let activados;
+
+if(minimo<=800){
+
+activados =
+120 + Math.floor(Math.random()*61);
+
+}else if(minimo<=1800){
+
+activados =
+70 + Math.floor(Math.random()*41);
+
+}else if(minimo<=4000){
+
+activados =
+30 + Math.floor(Math.random()*31);
+
+}else{
+
+activados =
+8 + Math.floor(Math.random()*13);
+
+}   
     if(cupon.destacado || cupon.meli){
 return;
     }
