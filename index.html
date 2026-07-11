@@ -772,18 +772,6 @@ class="botonDestacado">
 
 </button>
 
-<p
-id="contadorMeli"
-style="
-margin-top:8px;
-font-size:13px;
-color:#ddd;
-">
-
-👥 148 activados
-
-</p>
-
 </div>
 
 </div>
@@ -851,11 +839,7 @@ class="botonDestacado">
 🎁 Revelar
 
 </button>
-<div class="contadorActivados">
 
-👥 56 activados
-
-</div>
 </div>
 </div>
     </div>
@@ -1707,33 +1691,7 @@ document
  contenedor.innerHTML = "";
 
 cupones.forEach(cupon=>{
- let minimo = parseInt(
-cupon.minimo.replace(/\D/g,"")
-);
 
-let activados;
-
-if(minimo<=800){
-
-activados =
-120 + Math.floor(Math.random()*61);
-
-}else if(minimo<=1800){
-
-activados =
-70 + Math.floor(Math.random()*41);
-
-}else if(minimo<=4000){
-
-activados =
-30 + Math.floor(Math.random()*31);
-
-}else{
-
-activados =
-8 + Math.floor(Math.random()*13);
-
-}   
     if(cupon.destacado || cupon.meli){
 return;
     }
@@ -1769,12 +1727,7 @@ class="botonCard"
 onclick="revelarCupon('${cupon.codigo}','${cupon.enlace}','normal')">
 🎁 Revelar
 
-</button>
-<div class="contadorActivados">
 
-👥 35 activados
-
-</div>
 </div>
 
 `;
