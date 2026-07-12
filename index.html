@@ -1139,42 +1139,10 @@ tipo=="destacado"
 ? document.getElementById("cuponMeli")
 : boton.closest(".card");
 
-if(tarjeta){
-
-tarjeta.classList.remove(
-"cardSeleccionada"
+marcarRevelada(
+tarjeta,
+tipo
 );
-
-tarjeta.classList.remove(
-"cardActiva"
-);
-
-tarjeta.classList.remove(
-"tarjetaDestacadoActiva"
-);
-
-if(tipo=="normal"){
-
-tarjeta.classList.add(
-"cardRevelada"
-);
-
-}else if(tipo=="destacado"){
-
-tarjeta.classList.add(
-"tarjetaDestacadoRevelada"
-);
-
-}else if(tipo=="meli"){
-
-tarjeta.classList.add(
-"tarjetaMeliRevelada"
-);
-    console.log("MELI REVELADA");
-
-}
-
-}
 
 marcarBoton(boton);
 setTimeout(()=>{
