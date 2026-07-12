@@ -1618,8 +1618,13 @@ cupon => cupon.meli
 cupones.find(
 cupon => cupon.destacado
 );
-        const cuponPopular =
-[...cupones]
+        const cuponesNormales =
+cupones.filter(
+cupon => !cupon.meli
+);
+
+const cuponPopular =
+[...cuponesNormales]
 .sort(
 (a,b)=>
 parseInt(a.minimo.replace(/\D/g,""))-
@@ -1627,7 +1632,7 @@ parseInt(b.minimo.replace(/\D/g,""))
 )[0];
 
 const cuponMejor =
-[...cupones]
+[...cuponesNormales]
 .sort(
 (a,b)=>
 parseInt(b.beneficio.replace(/\D/g,""))-
