@@ -789,7 +789,8 @@ id="cuponDestacado"
 class="tarjetaDestacado">
 
 <div
-style="   
+id="tituloDestacado"
+style="
 font-size:18px;
 font-weight:bold;
 color:#ff6f00;
@@ -797,7 +798,7 @@ margin:0 0 2px 0;
 padding:0;
 ">
 ⭐ RECOMENDADO
-</div>
+</div>>
 
 <div
 id="contenidoDestacado"
@@ -1672,7 +1673,28 @@ document
 
         }
 if(cuponDestacado){
+if(cuponDestacado.codigo===cuponPopular.codigo){
 
+document.getElementById(
+"tituloDestacado"
+).textContent=
+"🔥 POPULAR";
+
+}else if(cuponDestacado.codigo===cuponMejor.codigo){
+
+document.getElementById(
+"tituloDestacado"
+).textContent=
+"💎 MEJOR BENEFICIO";
+
+}else{
+
+document.getElementById(
+"tituloDestacado"
+).textContent=
+"⭐ RECOMENDADO";
+
+}
 document
 .getElementById("beneficioDestacado")
 .textContent=
