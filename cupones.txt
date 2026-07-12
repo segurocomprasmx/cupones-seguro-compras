@@ -1,5 +1,11 @@
 ESTADO=1
 
+MELI
+🎟️ Cupón: pruebamelo
+Beneficio: -$75 | 10%
+Compra mínima: $600
+Enlace https://meli.la/2V8qcNf
+
 🎟️ Cupón: AHORRASUPER
 Beneficio: -$75 | 10%
 Compra mínima: $600
@@ -21,7 +27,6 @@ Beneficio: -$180
 Compra mínima: $1800
 Enlace https://meli.la/2TVZWG8
 
-MELI
 🎟️ Cupón: MELIMAS7OLA
 Beneficio: -$500 | 10%
 Compra mínima: $4000
