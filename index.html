@@ -1766,7 +1766,17 @@ cupones.forEach(cupon=>{
     if(cupon.destacado || cupon.meli){
 return;
     }
+let etiqueta = "⚡ NUEVO";
 
+if(cupon.codigo===cuponPopular.codigo){
+
+    etiqueta="🔥 POPULAR";
+
+}else if(cupon.codigo===cuponMejor.codigo){
+
+    etiqueta="💎 MEJOR BENEFICIO";
+
+}
 contenedor.innerHTML += `
 
 <div
@@ -1779,24 +1789,6 @@ class="etiquetaCard">
 ${etiqueta}
 
 </div>
-
-let etiqueta = "⚡ NUEVO";
-
-if(cupon.codigo===cuponPopular.codigo){
-
-etiqueta = "🔥 POPULAR";
-
-}else if(
-cupon.codigo===cuponMejor.codigo
-){
-
-etiqueta = "💎 MEJOR BENEFICIO";
-
-}else if(cupon.destacado){
-
-etiqueta = "⭐ RECOMENDADO";
-
-}
 
 <div class="descuentoCard">
 🔥${cupon.beneficio}
