@@ -1617,6 +1617,21 @@ cupon => cupon.meli
 cupones.find(
 cupon => cupon.destacado
 );
+        const cuponPopular =
+[...cupones]
+.sort(
+(a,b)=>
+parseInt(a.minimo.replace(/\D/g,""))-
+parseInt(b.minimo.replace(/\D/g,""))
+)[0];
+
+const cuponMejor =
+[...cupones]
+.sort(
+(a,b)=>
+parseInt(b.beneficio.replace(/\D/g,""))-
+parseInt(a.beneficio.replace(/\D/g,""))
+)[0];
         if(cuponMeli){
 
 document
