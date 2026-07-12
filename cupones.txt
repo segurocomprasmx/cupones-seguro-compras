@@ -1,9 +1,19 @@
 ESTADO=1
 
+🎟️ Cupón: SUPERAHORRO
+Beneficio: -$50
+Compra mínima: $500
+Enlace https://meli.la/2V8qcNf
+
 🎟️ Cupón: CUARTOS10
 Beneficio: -$160 | 10%
 Compra mínima: $1500
 Enlace https://meli.la/32V4U7e
+
+🎟️ Cupón: MELIYA
+Beneficio: -$200 | 10%
+Compra mínima: $1600
+Enlace https://meli.la/2TVZWG8
 
 DESTACADO
 🎟️ Cupón: FINAL10
@@ -16,4 +26,14 @@ MELI
 Beneficio: -$500 | 10%
 Compra mínima: $4000
 Enlace https://meli.la/1sYBexs
+
+🎟️ Cupón: COMPRAAHORA
+Beneficio: -$450
+Compra mínima: $4500
+Enlace https://meli.la/1nxvASZ
+
+🎟️ Cupón: ELSUPERENMELI
+Beneficio: -$800
+Compra mínima: $8000
+Enlace https://meli.la/2AyhQpq
 
