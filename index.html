@@ -1176,12 +1176,7 @@ tarjeta.classList.add(
 
 }
 
-if(boton){
-
-boton.innerHTML="✅ Copiado";
-boton.style.background="#00A650";
-boton.style.color="#fff";
-}
+marcarBoton(boton);
 setTimeout(()=>{
 
 copiar(
@@ -1200,6 +1195,17 @@ enlace
  * Abre Mercado Libre.
  * Muestra el mensaje flotante de "Cupón copiado".
  */
+    function marcarBoton(boton){
+
+if(!boton){
+return;
+}
+
+boton.innerHTML="✅ Copiado";
+boton.style.background="#00A650";
+boton.style.color="#fff";
+
+    }
 function copiar(cupon,enlace){
   navigator.clipboard.writeText(cupon);
     setTimeout(() => {
