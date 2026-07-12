@@ -1736,7 +1736,31 @@ onclick="revelarCupon('${cupon.codigo}','${cupon.enlace}','normal')">
 // =========================
 
 cupones.forEach(cupon=>{
+if(
+cupon.destacado &&
+localStorage.getItem("cupon_"+cupon.codigo)==="revelado"
+){
 
+document.getElementById(
+"codigoDestacado"
+).innerHTML=cupon.codigo;
+
+const boton=
+document.getElementById(
+"botonDestacado"
+);
+
+boton.innerHTML="✅ Copiado";
+boton.style.background="#00A650";
+boton.style.color="#fff";
+
+document
+.getElementById("cuponDestacado")
+.classList.add(
+"tarjetaDestacadoRevelada"
+);
+
+}
 if(cupon.destacado || cupon.meli){
 return;
 }
