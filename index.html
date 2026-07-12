@@ -1247,7 +1247,48 @@ setTimeout(()=>{
 /* =================================== */
 /*      SELECCIONAR TARJETA            */
 /* =================================== */
+function marcarRevelada(
+tarjeta,
+tipo
+){
 
+if(!tarjeta){
+return;
+}
+
+tarjeta.classList.remove(
+"cardSeleccionada"
+);
+
+tarjeta.classList.remove(
+"cardActiva"
+);
+
+tarjeta.classList.remove(
+"tarjetaDestacadoActiva"
+);
+
+if(tipo=="normal"){
+
+tarjeta.classList.add(
+"cardRevelada"
+);
+
+}else if(tipo=="destacado"){
+
+tarjeta.classList.add(
+"tarjetaDestacadoRevelada"
+);
+
+}else if(tipo=="meli"){
+
+tarjeta.classList.add(
+"tarjetaMeliRevelada"
+);
+
+}
+
+}
 function seleccionarTarjeta(tarjeta){
 
 document
