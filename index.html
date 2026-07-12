@@ -1726,22 +1726,41 @@ class="codigoCard">
 class="botonCard"
 onclick="revelarCupon('${cupon.codigo}','${cupon.enlace}','normal')">
 🎁 Revelar
-
-
+</button>
 </div>
-
 `;
-if(
-localStorage.getItem("cupon_"+cupon.codigo)
-==="revelado"
-){
 
+});
+
+return;
+// =========================
+// Restaurar cupones revelados
+// =========================
+
+cupones.forEach(cupon=>{
+
+if(cupon.destacado || cupon.meli){
+return;
+}
+
+if(
+localStorage.getItem("cupon_"+cupon.codigo)!=="revelado"
+){
+return;
+}
+
+const codigo =
 document.getElementById(
 "codigo-"+cupon.codigo
-).innerHTML=cupon.codigo;
+);
 
-const boton=document.querySelector(
-`button[onclick="revelarCupon('${cupon.codigo}','${cupon.enlace}')"]`
+if(codigo){
+codigo.innerHTML = cupon.codigo;
+}
+
+const boton =
+document.querySelector(
+`button[onclick="revelarCupon('${cupon.codigo}','${cupon.enlace}','normal')"]`
 );
 
 if(boton){
@@ -1750,18 +1769,19 @@ boton.innerHTML="✅ Copiado";
 boton.style.background="#00A650";
 boton.style.color="#fff";
 
-const tarjeta=boton.closest(".card");
+const tarjeta = boton.closest(".card");
 
 if(tarjeta){
-tarjeta.classList.add("cardRevelada");
-}
+
+tarjeta.classList.add(
+"cardRevelada"
+);
 
 }
 
 }
-});
 
-return;
+});        
     }
 /* =================================== */
 /*     CARGA DE CUPONES BANCARIOS      */
