@@ -1685,19 +1685,28 @@ document.getElementById(
 ).textContent=
 "🔥 POPULAR";
 
-}else if(cuponDestacado.codigo===cuponMejor.codigo){
+}else if(
+cuponDestacado.codigo===cuponMejor.codigo
+){
 
 document.getElementById(
 "tituloDestacado"
 ).textContent=
 "💎 MEJOR BENEFICIO";
 
-}else{
+}else if(cuponDestacado.destacado){
 
 document.getElementById(
 "tituloDestacado"
 ).textContent=
 "⭐ RECOMENDADO";
+
+}else{
+
+document.getElementById(
+"tituloDestacado"
+).textContent=
+"⚡ NUEVO";
 
 }
 document
