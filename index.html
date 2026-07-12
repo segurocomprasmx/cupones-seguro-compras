@@ -1772,10 +1772,9 @@ document.getElementById(
 
 marcarBoton(boton);
 
-document
-.getElementById("cuponDestacado")
-.classList.add(
-"tarjetaDestacadoRevelada"
+marcarRevelada(
+document.getElementById("cuponDestacado"),
+"destacado"
 );
 
 }
@@ -1795,12 +1794,10 @@ document.getElementById(
 
 marcarBoton(boton);
 
-document
-.getElementById("cuponMeli")
-.classList.add(
-"tarjetaMeliRevelada"
+marcarRevelada(
+document.getElementById("cuponMeli"),
+"meli"
 );
-
     }
 if(cupon.destacado || cupon.meli){
 return;
@@ -1829,15 +1826,10 @@ document.querySelector(
 if(boton){
 
 marcarBoton(boton);
-const tarjeta = boton.closest(".card");
-
-if(tarjeta){
-
-tarjeta.classList.add(
-"cardRevelada"
+marcarRevelada(
+boton.closest(".card"),
+"normal"
 );
-
-}
 
 }
 
