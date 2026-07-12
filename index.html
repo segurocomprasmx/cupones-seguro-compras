@@ -1761,6 +1761,31 @@ document
 );
 
 }
+    if(
+cupon.meli &&
+localStorage.getItem("cupon_"+cupon.codigo)==="revelado"
+){
+
+document.getElementById(
+"codigoMeli"
+).innerHTML=cupon.codigo;
+
+const boton=
+document.getElementById(
+"botonMeli"
+);
+
+boton.innerHTML="✅ Copiado";
+boton.style.background="#00A650";
+boton.style.color="#fff";
+
+document
+.getElementById("cuponMeli")
+.classList.add(
+"tarjetaMeliRevelada"
+);
+
+    }
 if(cupon.destacado || cupon.meli){
 return;
 }
