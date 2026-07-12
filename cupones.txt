@@ -1,6 +1,5 @@
 ESTADO=1
 
-DESTACADO
 🎟️ Cupón: AHORRASUPER
 Beneficio: -$75 | 10%
 Compra mínima: $600
@@ -32,6 +31,7 @@ Beneficio: -$400
 Compra mínima: $4000
 Enlace https://meli.la/2Tq8nED
 
+DESTACADO
 🎟️ Cupón: MELICOMPRA
 Beneficio: -$800
 Compra mínima: $8000
