@@ -1,5 +1,6 @@
 ESTADO=1
 
+DESTACADO
 🎟️ Cupón: SUPERAHORRO
 Beneficio: -$50
 Compra mínima: $500
@@ -15,7 +16,6 @@ Beneficio: -$200 | 10%
 Compra mínima: $1600
 Enlace https://meli.la/2TVZWG8
 
-DESTACADO
 🎟️ Cupón: FINAL10
 Beneficio: -$200 | 10%
 Compra mínima: $1800
