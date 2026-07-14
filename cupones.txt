@@ -1,29 +1,28 @@
 ESTADO=1
 
-DESTACADO
-🎟️ Cupón: HAZTUCOMPRA
-Beneficio: -$75 | 10%
-Compra mínima: $600
+🎟️ Cupón: GANADOR10
+Beneficio: -$88 | 10%
+Compra mínima: $700
 Enlace https://meli.la/2V8qcNf
 
-🎟️ Cupón: SUPERMELI10
-Beneficio: -$275 | 10%
-Compra mínima: $2200
+🎟️ Cupón: GOOL10
+Beneficio: -$150
+Compra mínima: $1500
+Enlace https://meli.la/2Tq8nED
+
+🎟️ Cupón: QUIENGANAHOY
+Beneficio: -$350
+Compra mínima: $3500
 Enlace https://meli.la/2TVZWG8
 
-MELI
-🎟️ Cupón: MELIMAS7OLA
-Beneficio: -$500 | 10%
-Compra mínima: $4000
-Enlace https://meli.la/1sYBexs
-
-🎟️ Cupón: COMPRASSUPER
-Beneficio: -$500
-Compra mínima: $5000
+🎟️ Cupón: PARTIDO10
+Beneficio: -$812 | 10%
+Compra mínima: $6500
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: MELISUPER
-Beneficio: -$1000
-Compra mínima: $10000
+DESTACADO
+🎟️ Cupón: CAMISETA10
+Beneficio: -$9000 | 10%
+Compra mínima: $9000
 Enlace https://meli.la/2AyhQpq
 
