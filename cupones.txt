@@ -1,10 +1,15 @@
 ESTADO=1
 
-DESTACADO
 🎟️ Cupón: BALON10
 Beneficio: -$50
 Compra mínima: $500
 Enlace https://meli.la/2V8qcNf
+
+DESTACADO
+🎟️ Cupón: SEMISHOY
+Beneficio: -$250 | 10%
+Compra mínima: $1500
+Enlace https://meli.la/2TVZWG8
 
 🎟️ Cupón: SEMIFINAL10
 Beneficio: -$200 | 10%
