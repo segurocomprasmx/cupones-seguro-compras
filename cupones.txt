@@ -1,28 +1,34 @@
-ESTADO=0
-
-🎟️ Cupón: GANADOR10
-Beneficio: -$88 | 10%
-Compra mínima: $700
-Enlace https://meli.la/2V8qcNf
-
-🎟️ Cupón: GOOL10
-Beneficio: -$150
-Compra mínima: $1500
-Enlace https://meli.la/2Tq8nED
+ESTADO=1
 
 DESTACADO
-🎟️ Cupón: QUIENGANAHOY
-Beneficio: -$350
-Compra mínima: $3500
-Enlace https://meli.la/2TVZWG8
+🎟️ Cupón: BALON10
+Beneficio: -$50
+Compra mínima: $500
+Enlace https://meli.la/2V8qcNf
 
-🎟️ Cupón: PARTIDO10
-Beneficio: -$812 | 10%
-Compra mínima: $6500
+🎟️ Cupón: SEMIFINAL10
+Beneficio: -$200 | 10%
+Compra mínima: $1600
+Enlace https://meli.la/2Tq8nED
+
+MELI
+🎟️ Cupón: MELIMAS7OLA
+Beneficio: -$500 | 10%
+Compra mínima: $4000
+Enlace https://meli.la/1sYBexs
+
+🎟️ Cupón: MUNDIAL10
+Beneficio: -$500
+Compra mínima: $5000
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: CAMISETA10
-Beneficio: -$900
-Compra mínima: $9000
+🎟️ Cupón: AGANAR10
+Beneficio: -$750
+Compra mínima: $7500
+Enlace https://meli.la/12Zb4nV
+
+🎟️ Cupón: FUTBOL1000
+Beneficio: -$1000
+Compra mínima: $10000
 Enlace https://meli.la/2AyhQpq
 
