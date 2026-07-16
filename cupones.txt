@@ -1,44 +1,23 @@
 ESTADO=1
 
-🎟️ Cupón: BALON10
-Beneficio: -$50
-Compra mínima: $500
+🎟️ Cupón: MERCADO
+Beneficio: -$75 | 10%
+Compra mínima: $600
 Enlace https://meli.la/2V8qcNf
 
-DESTACADO
-🎟️ Cupón: SEMISHOY
-Beneficio: -$250 | 10%
-Compra mínima: $1500
-Enlace https://meli.la/2TVZWG8
-
-🎟️ Cupón: SEMIFINAL10
-Beneficio: -$200 | 10%
-Compra mínima: $1600
+🎟️ Cupón: OFERTA18
+Beneficio: -$200
+Compra mínima: $2000
 Enlace https://meli.la/2Tq8nED
 
-🎟️ Cupón: QUINCENA
-Beneficio: -$300
-Compra mínima: $3000
-Enlace https://meli.la/1FCDBnb
-
-MELI
-🎟️ Cupón: MELIMAS7OLA
-Beneficio: -$500 | 10%
+🎟️ Cupón: CANASTA
+Beneficio: -$400
 Compra mínima: $4000
 Enlace https://meli.la/1sYBexs
 
-🎟️ Cupón: MUNDIAL10
-Beneficio: -$500
-Compra mínima: $5000
+DESTACADO
+🎟️ Cupón: PROMO16
+Beneficio: -$750 | 10%
+Compra mínima: $6000
 Enlace https://meli.la/1nxvASZ
-
-🎟️ Cupón: AGANAR10
-Beneficio: -$750
-Compra mínima: $7500
-Enlace https://meli.la/12Zb4nV
-
-🎟️ Cupón: FUTBOL1000
-Beneficio: -$1000
-Compra mínima: $10000
-Enlace https://meli.la/2AyhQpq
 
