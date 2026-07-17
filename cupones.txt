@@ -1,27 +1,28 @@
-ESTADO=0
+ESTADO=1
 
-🎟️ Cupón: MERCADO
-Beneficio: -$75 | 10%
-Compra mínima: $600
+🎟️ Cupón: DESPENSA
+Beneficio: -$88 | 10%
+Compra mínima: $700
 Enlace https://meli.la/2V8qcNf
 
-🎟️ Cupón: OFERTA8
-Beneficio: -$200
-Compra mínima: $2000
+DESTACADO
+🎟️ Cupón: ALACENA
+Beneficio: -$175 | 10%
+Compra mínima: $1400
 Enlace https://meli.la/2Tq8nED
 
-🎟️ Cupón: CANASTA
-Beneficio: -$400
-Compra mínima: $4000
+🎟️ Cupón: PIDETUSUPER7
+Beneficio: -$300
+Compra mínima: $3000
 Enlace https://meli.la/1sYBexs
 
-DESTACADO
-🎟️ Cupón: PROMO16
-Beneficio: -$750 | 10%
-Compra mínima: $6000
+🎟️ Cupón: HAZEL17
+Beneficio: -$500
+Compra mínima: $5000
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: CARRITO
+🎟️ Cupón: SURTIDO
 Beneficio: -$1000
 Compra mínima: $10000
 Enlace https://meli.la/2AyhQpq
+
