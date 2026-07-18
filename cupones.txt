@@ -1,27 +1,27 @@
 ESTADO=1
 
-🎟️ Cupón: DESPENSA
-Beneficio: -$88 | 10%
-Compra mínima: $700
+DESTACADO
+🎟️ Cupón: MEDALLA
+Beneficio: -$63 | 10%
+Compra mínima: $500
 Enlace https://meli.la/2V8qcNf
 
-DESTACADO
-🎟️ Cupón: ALACENA
-Beneficio: -$175 | 10%
-Compra mínima: $1400
+🎟️ Cupón: PIDIO18
+Beneficio: -$150
+Compra mínima: $1500
 Enlace https://meli.la/2Tq8nED
 
-🎟️ Cupón: PIDETUSUPER7
-Beneficio: -$300
-Compra mínima: $3000
+🎟️ Cupón: BRONCE3
+Beneficio: -$400 | 10%
+Compra mínima: $3500
 Enlace https://meli.la/1sYBexs
 
-🎟️ Cupón: HAZEL17
-Beneficio: -$500
-Compra mínima: $5000
+🎟️ Cupón: TROFEO3
+Beneficio: -$750 | 10%
+Compra mínima: $6000
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: SURTIDO
+🎟️ Cupón: TERCERLUGAR
 Beneficio: -$1000
 Compra mínima: $10000
 Enlace https://meli.la/2AyhQpq
