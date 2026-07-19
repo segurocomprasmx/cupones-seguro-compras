@@ -1,10 +1,15 @@
 ESTADO=1
 
-DESTACADO
 🎟️ Cupón: EQUIPO4
 Beneficio: -$75 | 10%
 Compra mínima: $600
 Enlace https://meli.la/2V8qcNf
+
+DESTACADO
+🎟️ Cupón: CAMPEON
+Beneficio: -$190 | 12%
+Compra mínima: $1500
+Enlace https://meli.la/32V4U7e
 
 🎟️ Cupón: BALON19
 Beneficio: -$200
