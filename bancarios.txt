@@ -1,4 +1,5 @@
-HSBC|HSBC7OLA|-$710 15%|Compra mínima: $4500|https://meli.la/12Zb4nV
+AMERICAN EXPRESS|AMEX7OLA|-$710 15%|Compra mínima: $4500|https://meli.la/12Zb4nV
+HSBC|HSBC7OLA|-$710 15%|Compra mínima: $4500|https://meli.la/12Zb4nV|0
 MERCADO PAGO|TCMP7OLA|-$710 10%|Compra mínima: $4500|https://meli.la/12Zb4nV|0
 SANTANDER|SANT7OLA|-$710 15%|Compra mínima: $4500|https://meli.la/12Zb4nV|0
 
