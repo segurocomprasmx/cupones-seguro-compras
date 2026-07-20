@@ -1,6 +1,5 @@
 ESTADO=1
 
-DESTACADO
 🎟️ Cupón: BYECOPA
 Beneficio: -$125 | 10%
 Compra mínima: $1000
@@ -20,3 +19,9 @@ Enlace https://meli.la/1sYBexs
 Beneficio: -$600
 Compra mínima: $6000
 Enlace https://meli.la/1nxvASZ
+
+DESTACADO
+🎟️ Cupón: GOLAZO5
+Beneficio: -$900
+Compra mínima: $9000
+Enlace https://meli.la/2AyhQpq
