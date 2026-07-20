@@ -1,33 +1,17 @@
-ESTADO=0
-
-🎟️ Cupón: EQUIPO4
-Beneficio: -$75 | 10%
-Compra mínima: $600
-Enlace https://meli.la/2V8qcNf
+ESTADO=1
 
 DESTACADO
-🎟️ Cupón: CAMPEON
-Beneficio: -$190 | 12%
-Compra mínima: $1500
+🎟️ Cupón: BYECOPA
+Beneficio: -$125 | 10%
+Compra mínima: $100
 Enlace https://meli.la/32V4U7e
 
-🎟️ Cupón: BALON19
-Beneficio: -$200
-Compra mínima: $2000
+🎟️ Cupón: FINAL26
+Beneficio: -$180
+Compra mínima: $1800
 Enlace https://meli.la/2Tq8nED
 
-🎟️ Cupón: CANCHA4
-Beneficio: -$400
-Compra mínima: $4000
-Enlace https://meli.la/1sYBexs
-
-🎟️ Cupón: ESTADIO
-Beneficio: -$750 | 10%
+🎟️ Cupón: MELICAMPEON
+Beneficio: -$600
 Compra mínima: $6000
 Enlace https://meli.la/1nxvASZ
-
-🎟️ Cupón: CUARTO4
-Beneficio: -$1000
-Compra mínima: $10000
-Enlace https://meli.la/2AyhQpq
-
