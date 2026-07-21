@@ -1,27 +1,33 @@
-ESTADO=0
+ESTADO=1
 
-🎟️ Cupón: BYECOPA
-Beneficio: -$125 | 10%
-Compra mínima: $1000
+DESTACADO
+🎟️ Cupón: CUP80OFFFINDEMES1
+Beneficio: -$80 | 10%
+Compra mínima: $400
+Enlace https://meli.la/2V8qcNf
+
+🎟️ Cupón: PASILLO
+Beneficio: -$77 | 10%
+Compra mínima: $700
 Enlace https://meli.la/32V4U7e
 
-🎟️ Cupón: FINAL26
-Beneficio: -$180
+🎟️ Cupón: NEVERA21
+Beneficio: -$190 | 10%
 Compra mínima: $1800
 Enlace https://meli.la/2Tq8nED
 
-🎟️ Cupón: ELCAMPEON
-Beneficio: -$375 | 10%
-Compra mínima: $3000
+🎟️ Cupón: FERIA21
+Beneficio: -$350
+Compra mínima: $3500
 Enlace https://meli.la/1sYBexs
 
-🎟️ Cupón: MELICAMPEON
-Beneficio: -$600
-Compra mínima: $6000
+🎟️ Cupón: AHORRO21
+Beneficio: -$500
+Compra mínima: $5000
 Enlace https://meli.la/1nxvASZ
 
-DESTACADO
-🎟️ Cupón: GOLAZO5
-Beneficio: -$900
-Compra mínima: $9000
+🎟️ Cupón: MARKETCONMELI
+Beneficio: -$800
+Compra mínima: $8000
 Enlace https://meli.la/2AyhQpq
+
