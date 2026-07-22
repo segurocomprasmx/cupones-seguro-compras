@@ -1,4 +1,5 @@
-BANORTR|BNRT7OLA|-$710 15%|Compra mínima: $4500|https://meli.la/12Zb4nV
+MESES30|MERCADO PAGO MESES SIN TARJETA|-$120 30%|Compra mínima: $300|https://meli.la/12Zb4nV
+BANORTR|BNRT7OLA|-$710 15%|Compra mínima: $4500|https://meli.la/12Zb4nV|0
 BANAMEX|BNMX7OLA|-$710 15%|Compra mínima: $4500|https://meli.la/12Zb4nV|0
 AMERICAN EXPRESS|AMEX7OLA|-$710 15%|Compra mínima: $4500|https://meli.la/12Zb4nV|0
 HSBC|HSBC7OLA|-$710 15%|Compra mínima: $4500|https://meli.la/12Zb4nV|0
