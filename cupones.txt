@@ -1,33 +1,28 @@
-ESTADO=0
+ESTADO=1
 
 DESTACADO
-🎟️ Cupón: CUP80OFFFINDEMES1
-Beneficio: -$80 | 10%
-Compra mínima: $400
-Enlace https://meli.la/2V8qcNf
-
-🎟️ Cupón: PASILLO
-Beneficio: -$77 | 10%
-Compra mínima: $700
+🎟️ Cupón: BASKET2
+Beneficio: -$75 | 10%
+Compra mínima: $600
 Enlace https://meli.la/32V4U7e
 
-🎟️ Cupón: NEVERA21
-Beneficio: -$190 | 10%
-Compra mínima: $1800
+🎟️ Cupón: MARCA22
+Beneficio: -$200
+Compra mínima: $2000
 Enlace https://meli.la/2Tq8nED
 
-🎟️ Cupón: FERIA21
-Beneficio: -$350
-Compra mínima: $3500
+🎟️ Cupón: TIEND22
+Beneficio: -$400
+Compra mínima: $4000
 Enlace https://meli.la/1sYBexs
 
-🎟️ Cupón: AHORRO21
-Beneficio: -$500
-Compra mínima: $5000
+🎟️ Cupón: TUDESCUENTO
+Beneficio: -$750 | 10%
+Compra mínima: $6000
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: MARKETCONMELI
-Beneficio: -$800
-Compra mínima: $8000
+🎟️ Cupón: SUPER22
+Beneficio: -$1000
+Compra mínima: $10000
 Enlace https://meli.la/2AyhQpq
 
