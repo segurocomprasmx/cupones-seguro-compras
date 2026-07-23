@@ -1,28 +1,22 @@
 ESTADO=1
 
 DESTACADO
-🎟️ Cupón: BASKET2
+🎟️ Cupón: VITRINA
 Beneficio: -$75 | 10%
 Compra mínima: $600
 Enlace https://meli.la/32V4U7e
 
-🎟️ Cupón: MARCA22
-Beneficio: -$200
-Compra mínima: $2000
+🎟️ Cupón: FRESCO3
+Beneficio: -$160
+Compra mínima: $1600
 Enlace https://meli.la/2Tq8nED
 
-🎟️ Cupón: TIEND22
+🎟️ Cupón: REBAJA3
 Beneficio: -$400
 Compra mínima: $4000
 Enlace https://meli.la/1sYBexs
 
-🎟️ Cupón: TUDESCUENTO
-Beneficio: -$750 | 10%
-Compra mínima: $6000
+🎟️ Cupón: FAVORITOSCONMELI
+Beneficio: -$800
+Compra mínima: $8000
 Enlace https://meli.la/1nxvASZ
-
-🎟️ Cupón: SUPER22
-Beneficio: -$1000
-Compra mínima: $10000
-Enlace https://meli.la/2AyhQpq
-
