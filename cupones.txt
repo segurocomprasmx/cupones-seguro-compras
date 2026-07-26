@@ -1,20 +1,25 @@
 ESTADO=1
 
-🎟️ Cupón: SABADO5
-Beneficio: -$100 | 10%
-Compra mínima: $800
+DESTACADO
+🎟️ Cupón: VUELTAMAX
+Beneficio: -$75 | 10%
+Compra mínima: $600
 Enlace https://meli.la/2V8qcNf
 
-DESTACADO
-🎟️ Cupón: JULIOTEAMO
-Beneficio: -$3000 | 15%
+🎟️ Cupón: EXTRADOMINGOJULIO
+Beneficio: -$120 | 10%
 Compra mínima: $1000
 Enlace https://meli.la/1FCDBnb
 
-🎟️ Cupón: SEMANA5
-Beneficio: -$250 | 10%
+🎟️ Cupón: VOLVEMOS26
+Beneficio: -$210 | 10%
 Compra mínima: $2000
 Enlace https://meli.la/2Tq8nED
+
+🎟️ Cupón: ARRANCA26
+Beneficio: -$400
+Compra mínima: $4000
+Enlace https://meli.la/1sYBexs
 
 MELI
 🎟️ Cupón: MASVERANO
@@ -22,18 +27,13 @@ Beneficio: -$500 | 10%
 Compra mínima: $4500
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: HAZEL25
-Beneficio: -$500
-Compra mínima: $5000
-Enlace https://meli.la/1sYBexs
-
-🎟️ Cupón: CIERRE5
-Beneficio: -$750
-Compra mínima: $7500
+🎟️ Cupón: ESCUELA26
+Beneficio: -$600
+Compra mínima: $6000
 Enlace https://meli.la/2TVZWG8
 
-🎟️ Cupón: EXTRASABADOJUL
-Beneficio: -$900
-Compra mínima: $9000
+🎟️ Cupón: CLASES26
+Beneficio: -$1000
+Compra mínima: $10000
 Enlace https://meli.la/2AyhQpq
 
