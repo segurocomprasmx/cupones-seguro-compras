@@ -1,25 +1,15 @@
 ESTADO=1
 
 DESTACADO
-🎟️ Cupón: VUELTAMAX
-Beneficio: -$75 | 10%
-Compra mínima: $600
+🎟️ Cupón: BACK2SCHOOL
+Beneficio: -$87 | 10%
+Compra mínima: $700
 Enlace https://meli.la/2V8qcNf
 
-🎟️ Cupón: EXTRADOMINGOJUL
-Beneficio: -$120 | 10%
-Compra mínima: $1000
-Enlace https://meli.la/1FCDBnb
-
-🎟️ Cupón: VOLVEMOS26
-Beneficio: -$210 | 10%
+🎟️ Cupón: REGRESO26
+Beneficio: -$250 | 10%
 Compra mínima: $2000
 Enlace https://meli.la/2Tq8nED
-
-🎟️ Cupón: ARRANCA26
-Beneficio: -$400
-Compra mínima: $4000
-Enlace https://meli.la/1sYBexs
 
 MELI
 🎟️ Cupón: MASVERANO
@@ -27,12 +17,17 @@ Beneficio: -$500 | 10%
 Compra mínima: $4500
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: ESCUELA26
-Beneficio: -$700
-Compra mínima: $6000
+🎟️ Cupón: DIA1SCHOOL
+Beneficio: -$500
+Compra mínima: $5000
+Enlace https://meli.la/1sYBexs
+
+🎟️ Cupón: EXTRALUNESJUL
+Beneficio: -$850 | 10%
+Compra mínima: $8000
 Enlace https://meli.la/2TVZWG8
 
-🎟️ Cupón: CLASES26
+🎟️ Cupón: REINICIA26
 Beneficio: -$1000
 Compra mínima: $10000
 Enlace https://meli.la/2AyhQpq
