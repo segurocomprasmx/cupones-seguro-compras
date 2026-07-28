@@ -1,34 +1,38 @@
 ESTADO=1
 
-DESTACADO
-🎟️ Cupón: BACK2SCHOOL
-Beneficio: -$87 | 10%
+🎟️ Cupón: SALON28
+Beneficio: -$88 | 10%
 Compra mínima: $700
 Enlace https://meli.la/2V8qcNf
 
-🎟️ Cupón: REGRESO26
-Beneficio: -$250 | 10%
-Compra mínima: $2000
+DESTACADO
+🎟️ Cupón: JULIOTEAMO
+Beneficio: -$3000 | 15%
+Compra mínima: $1000
+Enlace https://meli.la/32V4U7e
+
+🎟️ Cupón: AGENDA26
+Beneficio: -$150
+Compra mínima: $1500
+Enlace https://meli.la/1FCDBnb
+
+🎟️ Cupón: COMPARTEDESC
+Beneficio: -$350
+Compra mínima: $3500
 Enlace https://meli.la/2Tq8nED
 
 MELI
 🎟️ Cupón: MASVERANO
-Beneficio: -$500 | 5%
+Beneficio: -$500 | 10%
 Compra mínima: $4500
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: DIA1SCHOOL
-Beneficio: -$500
-Compra mínima: $5000
+🎟️ Cupón: CASIAGOSTO
+Beneficio: -$812 | 10%
+Compra mínima: $6500
 Enlace https://meli.la/1sYBexs
 
-🎟️ Cupón: EXTRALUNESJUL
-Beneficio: -$850 | 10%
+🎟️ Cupón: EXTRAMARTESJUL
+Beneficio: -$840 | 10%
 Compra mínima: $8000
 Enlace https://meli.la/2TVZWG8
-
-🎟️ Cupón: REINICIA26
-Beneficio: -$1000
-Compra mínima: $10000
-Enlace https://meli.la/2AyhQpq
-
