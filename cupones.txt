@@ -1,8 +1,8 @@
-ESTADO=0
+ESTADO=1
 
-🎟️ Cupón: SALON28
-Beneficio: -$88 | 10%
-Compra mínima: $700
+🎟️ Cupón: PROMOFIN
+Beneficio: -$50
+Compra mínima: $500
 Enlace https://meli.la/2V8qcNf
 
 DESTACADO
@@ -11,14 +11,14 @@ Beneficio: -$3000 | 15%
 Compra mínima: $1000
 Enlace https://meli.la/32V4U7e
 
-🎟️ Cupón: AGENDA26
-Beneficio: -$150
-Compra mínima: $1500
+🎟️ Cupón: LASTCALL7
+Beneficio: -$200 | 10%
+Compra mínima: $1600
 Enlace https://meli.la/1FCDBnb
 
-🎟️ Cupón: COMPARTEDESC
-Beneficio: -$350
-Compra mínima: $3500
+🎟️ Cupón: ADIOSJULIO
+Beneficio: -$300
+Compra mínima: $3000
 Enlace https://meli.la/2Tq8nED
 
 MELI
@@ -27,12 +27,12 @@ Beneficio: -$500 | 10%
 Compra mínima: $4500
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: CASIAGOSTO
-Beneficio: -$812 | 10%
-Compra mínima: $6500
+🎟️ Cupón: SEACABAJULIO
+Beneficio: -$600
+Compra mínima: $6000
 Enlace https://meli.la/1sYBexs
 
-🎟️ Cupón: EXTRAMARTESJUL
-Beneficio: -$840 | 10%
+🎟️ Cupón: EXTRADESPEDIDAJUL1
+Beneficio: -$1000 | 10%
 Compra mínima: $8000
 Enlace https://meli.la/2TVZWG8
