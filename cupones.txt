@@ -1,38 +1,22 @@
 ESTADO=1
 
-🎟️ Cupón: PROMOFIN
-Beneficio: -$50
-Compra mínima: $500
+DESTACADO
+🎟️ Cupón: FINDEMES07
+Beneficio: -$75 | 10%
+Compra mínima: $600
 Enlace https://meli.la/2V8qcNf
 
-DESTACADO
-🎟️ Cupón: JULIOTEAMO
-Beneficio: -$3000 | 15%
-Compra mínima: $1000
-Enlace https://meli.la/32V4U7e
-
-🎟️ Cupón: LASTCALL7
-Beneficio: -$200 | 10%
-Compra mínima: $1600
+🎟️ Cupón: DESPEDIDA07
+Beneficio: -$180
+Compra mínima: $1800
 Enlace https://meli.la/1FCDBnb
 
-🎟️ Cupón: ADIOSJULIO
-Beneficio: -$300
-Compra mínima: $3000
+🎟️ Cupón: JULIOCIAO
+Beneficio: -$400
+Compra mínima: $4000
 Enlace https://meli.la/2Tq8nED
 
-MELI
-🎟️ Cupón: MASVERANO
-Beneficio: -$500 | 10%
-Compra mínima: $4500
-Enlace https://meli.la/1nxvASZ
-
-🎟️ Cupón: SEACABAJULIO
-Beneficio: -$600
-Compra mínima: $6000
-Enlace https://meli.la/1sYBexs
-
-🎟️ Cupón: EXTRADESPEDIDAJUL1
-Beneficio: -$1000 | 10%
+🎟️ Cupón: ULTIMATON
+Beneficio: -$800
 Compra mínima: $8000
 Enlace https://meli.la/2TVZWG8
