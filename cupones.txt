@@ -1,28 +1,29 @@
 ESTADO=1
 
 DESTACADO
-🎟️ Cupón: ESTAAQUI08
-Beneficio: -$75 | 10%
-Compra mínima: $600
+🎟️ Cupón: TODOAQUI08
+Beneficio: -$63 | 10%
+Compra mínima: $500
 Enlace https://meli.la/2V8qcNf
 
-🎟️ Cupón: LLEGOYA08
-Beneficio: -$138 | 10%
-Compra mínima: $1100
+🎟️ Cupón: APROVECHA08
+Beneficio: -$125 | 10%
+Compra mínima: $1000
 Enlace https://meli.la/32V4U7e
 
-🎟️ Cupón: MEGA08
-Beneficio: -$250 | 10%
-Compra mínima: $2000
+DESTACADO
+🎟️ Cupón: GRANDE08
+Beneficio: -$325 | 10%
+Compra mínima: $2600
 Enlace https://meli.la/1FCDBnb
 
-🎟️ Cupón: 08LLEGO
-Beneficio: -$500
-Compra mínima: $5000
+🎟️ Cupón: VIVE08
+Beneficio: -$600
+Compra mínima: $6000
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: HOYMISMO08
-Beneficio: -$800
-Compra mínima: $8000
+🎟️ Cupón: AGARRALO08
+Beneficio: -$900
+Compra mínima: $9000
 Enlace https://meli.la/2TVZWG8
 
