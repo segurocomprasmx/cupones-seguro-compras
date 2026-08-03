@@ -1,6 +1,5 @@
 ESTADO=1
 
-DESTACADO
 🎟️ Cupón: TODOAQUI08
 Beneficio: -$63 | 10%
 Compra mínima: $500
@@ -10,6 +9,12 @@ Enlace https://meli.la/2V8qcNf
 Beneficio: -$125 | 10%
 Compra mínima: $1000
 Enlace https://meli.la/32V4U7e
+
+DESTACADO
+🎟️ Cupón: FUTMELI
+Beneficio: -$160 | 10%
+Compra mínima: $1500
+Enlace https://meli.la/2Tq8nED
 
 DESTACADO
 🎟️ Cupón: GRANDE08
