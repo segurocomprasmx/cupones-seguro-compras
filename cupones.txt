@@ -1,36 +1,17 @@
 ESTADO=1
 
-🎟️ Cupón: COMPRAHOY08
-Beneficio: -$75 | 10%
-Compra mínima: $600
-Enlace https://meli.la/2V8qcNf
-
-🎟️ Cupón: HOYES08
-Beneficio: -$150 | 10%
-Compra mínima: $1200
+🎟️ Cupón: 08LLEGAYA
+Beneficio: -$113 | 10%
+Compra mínima: $900
 Enlace https://meli.la/32V4U7e
 
 DESTACADO
-🎟️ Cupón: AQUIESTA08
-Beneficio: -$275 | 10%
-Compra mínima: $2200
+🎟️ Cupón: COMPRALO08
+Beneficio: -$350
+Compra mínima: $3500
 Enlace https://meli.la/1FCDBnb
 
-🎟️ Cupón: YALLEGO08
-Beneficio: -$500
-Compra mínima: $5000
-Enlace https://meli.la/1nxvASZ
-
-🎟️ Cupón: LLEGAMOS08
-Beneficio: -$850
-Compra mínima: $8500
+🎟️ Cupón: FINAL08
+Beneficio: -$800
+Compra mínima: $8000
 Enlace https://meli.la/2TVZWG8
-
-DESTACADO
-🎟️ Cupón: REGRESABACK
-Beneficio: -$1200
-Compra mínima: $12000
-Enlace https://meli.la/1sYBexs
-
-
-
