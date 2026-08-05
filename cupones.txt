@@ -1,17 +1,28 @@
 ESTADO=1
 
-🎟️ Cupón: 08LLEGAYA
-Beneficio: -$113 | 10%
-Compra mínima: $900
+🎟️ Cupón: REGRESAYA
+Beneficio: -$75 | 10%
+Compra mínima: $600
+Enlace https://meli.la/2V8qcNf
+
+🎟️ Cupón: COMPRAYA08
+Beneficio: -$138 | 10%
+Compra mínima: $1100
 Enlace https://meli.la/32V4U7e
 
 DESTACADO
-🎟️ Cupón: COMPRALO08
-Beneficio: -$350
-Compra mínima: $3500
-Enlace https://meli.la/1FCDBnb
+🎟️ Cupón: VENGA08
+Beneficio: -$325 | 10%
+Compra mínima: $2600
+Enlace https://meli.la/2Tq8nED
 
-🎟️ Cupón: FINAL08
-Beneficio: -$800
-Compra mínima: $8000
-Enlace https://meli.la/2TVZWG8
+🎟️ Cupón: CORRE08
+Beneficio: -$550
+Compra mínima: $5500
+Enlace https://meli.la/1nxvASZ
+
+🎟️ Cupón: AHORRA08
+Beneficio: -$1000
+Compra mínima: $10000
+Enlace https://meli.la/1sYBexs
+
