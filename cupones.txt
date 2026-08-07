@@ -1,32 +1,39 @@
 ESTADO=1
 
-🎟️ Cupón: SALVALO08
+🎟️ Cupón: APROVECHAYA08
 Beneficio: -$88 | 10%
 Compra mínima: $700
 Enlace https://meli.la/2V8qcNf
 
 🎟️ Cupón: TFAGOSTO
 Beneficio: -$300 | 20%
-Compra mínima: $1200 Productos Seleccionados
+Compra mínima: $1200 Productos seleccionados
 Enlace https://meli.la/2LzzVAN
 
 DESTACADO
-🎟️ Cupón: NOCHEPREVIA08
+🎟️ Cupón: NOCHEDD08
 Beneficio: -$175 | 10%
 Compra mínima: $1400
 Enlace https://meli.la/32V4U7e
 
-🎟️ Cupón: ULTIMOAQUI08
-Beneficio: -$375 | 10%
-Compra mínima: $3000
-Enlace https://meli.la/1FCDBnb
+🎟️ Cupón: ANTESDD08
+Beneficio: -$313 | 10%
+Compra mínima: $2500
+Enlace https://meli.la/2Tq8nED
 
-🎟️ Cupón: VOLANDO08
-Beneficio: -$500
-Compra mínima: $5000
+🎟️ Cupón: YALISTO08
+Beneficio: -$520
+Compra mínima: $5200
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: AHORAES08
-Beneficio: -$850
-Compra mínima: $8500
+🎟️ Cupón: TOMALO08
+Beneficio: -$800
+Compra mínima: $8000
 Enlace https://meli.la/2TVZWG8
+
+🎟️ Cupón: SALTO08
+Beneficio: -$1200
+Compra mínima: $12000
+Enlace https://meli.la/2AyhQpq
+
+
