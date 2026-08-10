@@ -1,6 +1,5 @@
 ESTADO=1
 
-DESTACADO
 🎟️ Cupón: BACKSCHOOL
 Beneficio: -$75 | 10%
 Compra mínima: $600
@@ -15,6 +14,12 @@ Enlace https://meli.la/2LzzVAN
 Beneficio: -$175 | 10%
 Compra mínima: $1400
 Enlace https://meli.la/2Tq8nED
+
+DESTACADO
+🎟️ Cupón: LISTAESCUELA
+Beneficio: -$375 | 12%
+Compra mínima: $2500
+Enlace https://meli.la/2hVvGWC
 
 🎟️ Cupón: MOCHILALISTA
 Beneficio: -$500 | 10%
