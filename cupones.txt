@@ -1,32 +1,39 @@
 ESTADO=1
 
 DESTACADO
-🎟️ Cupón: ESCUELAYA
-Beneficio: -$75 | 10%
+🎟️ Cupón: MELIREGRESA
+Beneficio: -$105 | 14%
 Compra mínima: $600
 Enlace https://meli.la/2V8qcNf
+
+🎟️ Cupón: REGRESOACTIVA
+Beneficio: -$150 | 10%
+Compra mínima: $1200
+Enlace https://meli.la/2Tq8nED
+
+🎟️ Cupón: LIBROSLISTO
+Beneficio: -$360 | 12%
+Compra mínima: $2400
+Enlace https://meli.la/1t49XAp
+
+🎟️ Cupón: COMPRAUTILES
+Beneficio: -$500
+Compra mínima: $5000
+Enlace https://meli.la/1nxvASZ
+
+🎟️ Cupón: UNIFORMELISTO
+Beneficio: -$900 | 10%
+Compra mínima: $8000
+Enlace https://meli.la/2TVZWG8
+
+🎟️ Cupón: REGRESOFULL
+Beneficio: -$1200
+Compra mínima: $12000
+Enlace https://meli.la/2AyhQpq
 
 🎟️ Cupón: TFAGOSTO
 Beneficio: -$300 | 20%
 Compra mínima: $1200 Productos seleccionados
 Enlace https://meli.la/2LzzVAN
 
-🎟️ Cupón: TODOPARACLASE
-Beneficio: -$150 | 10%
-Compra mínima: $1200
-Enlace https://meli.la/2Tq8nED
 
-🎟️ Cupón: MEJORREGRESO
-Beneficio: -$300 | 10%
-Compra mínima: $2400
-Enlace https://meli.la/2hVvGWC
-
-🎟️ Cupón: REGRESOAHORRO
-Beneficio: -$500
-Compra mínima: $5000
-Enlace https://meli.la/1nxvASZ
-
-🎟️ Cupón: CUADERNOSMELI
-Beneficio: -$800
-Compra mínima: $8000
-Enlace https://meli.la/2TVZWG8
