@@ -1,39 +1,27 @@
 ESTADO=1
 
 DESTACADO
-🎟️ Cupón: MELIREGRESA
-Beneficio: -$105 | 14%
-Compra mínima: $600
+🎟️ Cupón: REGRESOGANGA
+Beneficio: -$70 | 14%
+Compra mínima: $400
 Enlace https://meli.la/2V8qcNf
 
-🎟️ Cupón: REGRESOACTIVA
+🎟️ Cupón: LISTALAMOCHILA
 Beneficio: -$150 | 10%
 Compra mínima: $1200
 Enlace https://meli.la/2Tq8nED
 
-🎟️ Cupón: LIBROSLISTO
+🎟️ Cupón: UTILESGANGA
 Beneficio: -$360 | 12%
 Compra mínima: $2400
 Enlace https://meli.la/1t49XAp
 
-🎟️ Cupón: COMPRAUTILES
+🎟️ Cupón: CLASEFULL
 Beneficio: -$500
 Compra mínima: $5000
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: UNIFORMELISTO
-Beneficio: -$900 | 10%
-Compra mínima: $8000
-Enlace https://meli.la/2TVZWG8
-
-🎟️ Cupón: REGRESOFULL
-Beneficio: -$1200
-Compra mínima: $12000
-Enlace https://meli.la/2AyhQpq
-
-🎟️ Cupón: TFAGOSTO
-Beneficio: -$300 | 20%
-Compra mínima: $1200 Productos seleccionados
-Enlace https://meli.la/2LzzVAN
-
-
+🎟️ Cupón: CASIQUINCENA
+Beneficio: -$1000
+Compra mínima: $10000
+Enlace https://meli.la/1sYBexs
