@@ -1,12 +1,1 @@
 MESES30|MERCADO PAGO MESES SIN TARJETA|-$120 30%|Compra mínima: $300|https://meli.la/12Zb4nV
-AFRM88|AFIRME|-$1000 10%|Compra mínima: $2,500|https://meli.la/274cUTv
-OPBA88|OPENBANK|-$500 15%|Compra mínima: $2,500|https://meli.la/1fXzjoi
-INBR88|INBURSA|-$500 10%|Compra mínima: $2,500|https://meli.la/2yL7Jvx
-BBVA88|BBVA|-$500 10%|Compra mínima: $4,000|https://meli.la/2poqXAV
-HSBC88|HSBC|-$500 10%|Compra mínima: $3,500|https://meli.la/1QFVkxP
-BNMX88|BANAMEX|-$500 10%|Compra mínima: $3,500|https://meli.la/2Fa2RS2
-INVE88|INVEX|-$500 10%|Compra mínima: $2,500|https://meli.la/13ypTrY
-SANT88|SANTANDER|-$500 15%|Compra mínima: $2,500|https://meli.la/2zeEeuo
-MIFE88|MIFEL|-$750 15%|Compra mínima: $3,000|https://meli.la/13zbMkJ
-TCMP88|MERCADO PAGO|-$500 10%|Compra mínima: $3,500|https://meli.la/2EtP9dz
-MESES88|MESES SIN TARJETA|-$550 10%|Compra mínima: $2,500|https://meli.la/216HkUo
