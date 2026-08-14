@@ -1,27 +1,32 @@
 ESTADO=1
 
 DESTACADO
-🎟️ Cupón: REGRESOGANGA
-Beneficio: -$70 | 14%
-Compra mínima: $400
+🎟️ Cupón: YALISTOS
+Beneficio: -$88 | 10%
+Compra mínima: $700
 Enlace https://meli.la/2V8qcNf
 
-🎟️ Cupón: LISTALAMOCHILA
-Beneficio: -$150 | 10%
-Compra mínima: $1200
+🎟️ Cupón: COMIENZA12
+Beneficio: -$225 | 12%
+Compra mínima: $1500
 Enlace https://meli.la/2Tq8nED
 
-🎟️ Cupón: UTILESGANGA
-Beneficio: -$360 | 12%
-Compra mínima: $2400
+🎟️ Cupón: QUINCENA
+Beneficio: -$394 | 15%
+Compra mínima: $2500
 Enlace https://meli.la/1t49XAp
 
-🎟️ Cupón: CLASEFULL
-Beneficio: -$500
-Compra mínima: $5000
+🎟️ Cupón: PREPARATE10
+Beneficio: -$438 | 10%
+Compra mínima: $3500
+Enlace https://meli.la/1FCDBnb
+
+🎟️ Cupón: BACKSCHOOLYA
+Beneficio: -$720 | 10%
+Compra mínima: $6000
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: CASIQUINCENA
-Beneficio: -$1000
+🎟️ Cupón: BIENVENIDOCLASE
+Beneficio: -$1300 | 10%
 Compra mínima: $10000
 Enlace https://meli.la/1sYBexs
