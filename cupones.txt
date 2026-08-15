@@ -1,32 +1,33 @@
 ESTADO=1
 
-DESTACADO
-🎟️ Cupón: YALISTOS
-Beneficio: -$88 | 10%
-Compra mínima: $700
+🎟️ Cupón: QUINCENAOFF
+Beneficio: -$75 | 10%
+Compra mínima: $600
 Enlace https://meli.la/2V8qcNf
 
-🎟️ Cupón: COMIENZA12
-Beneficio: -$225 | 12%
-Compra mínima: $1500
+🎟️ Cupón: QUINCENAZO8
+Beneficio: -$163 | 10%
+Compra mínima: $1300
 Enlace https://meli.la/2Tq8nED
 
-🎟️ Cupón: QUINCENA
-Beneficio: -$394 | 15%
+DESTACADO
+🎟️ Cupón: LLEGOYA15
+Beneficio: -$469 | 15%
 Compra mínima: $2500
 Enlace https://meli.la/1t49XAp
 
-🎟️ Cupón: PREPARATE10
-Beneficio: -$438 | 10%
-Compra mínima: $3500
-Enlace https://meli.la/1FCDBnb
-
-🎟️ Cupón: BACKSCHOOLYA
-Beneficio: -$720 | 10%
-Compra mínima: $6000
+🎟️ Cupón: AHORRAAGOSTO
+Beneficio: -$500
+Compra mínima: $5000
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: BIENVENIDOCLASE
-Beneficio: -$1300 | 10%
-Compra mínima: $10000
-Enlace https://meli.la/1sYBexs
+🎟️ Cupón: QUINCENAFELIZ
+Beneficio: -$1000 | 10%
+Compra mínima: $8000
+Enlace https://meli.la/2TVZWG8
+
+🎟️ Cupón: SUPERQUINCENA
+Beneficio: -$2250 | 10%
+Compra mínima: $15000
+Enlace https://meli.la/2AyhQpq
+
