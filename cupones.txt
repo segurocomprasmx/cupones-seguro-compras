@@ -1,32 +1,27 @@
 ESTADO=1
 
-🎟️ Cupón: SIGUEELAHORRO
-Beneficio: -$75 | 10%
-Compra mínima: $600
+🎟️ Cupón: VALEHOY18
+Beneficio: -$100 | 10%
+Compra mínima: $800
 Enlace https://meli.la/2V8qcNf
 
-🎟️ Cupón: AHORROFLASH
-Beneficio: -$225 | 12%
-Compra mínima: $1500
-Enlace https://meli.la/2Tq8nED
+🎟️ Cupón: TURBO18
+Beneficio: -$150 | 10%
+Compra mínima: $1200
+Enlace https://mercadolibre.com/sec/2AtiybX
 
 DESTACADO
-🎟️ Cupón: QUINCENAPLUS
-Beneficio: -$525 | 15%
-Compra mínima: $2800
-Enlace https://meli.la/1t49XAp
+🎟️ Cupón: DAILYDEAL18
+Beneficio: -$525 | 12%
+Compra mínima: $3500
+Enlace https://meli.la/1FCDBnb
 
-🎟️ Cupón: QUINCENACONTINUA
-Beneficio: -$500
-Compra mínima: $5000
-Enlace https://meli.la/1nxvASZ
-
-🎟️ Cupón: TOPDEALS16
+🎟️ Cupón: TODAVIA18
 Beneficio: -$800
 Compra mínima: $8000
 Enlace https://meli.la/2TVZWG8
 
-🎟️ Cupón: QUINCENATOP8
-Beneficio: -$1800 | 12%
-Compra mínima: $12000
-Enlace https://meli.la/2AyhQpq
+🎟️ Cupón: GOAGOSTO18
+Beneficio: -$1000
+Compra mínima: $10000
+Enlace https://meli.la/1sYBexs
