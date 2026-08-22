@@ -1,17 +1,17 @@
 ESTADO=1
 
-🎟️ Cupón: VIERNESVIP
-Beneficio: -$120 | 12%
-Compra mínima: $800
+🎟️ Cupón: EXCLUSIVA22
+Beneficio: -$90 | 12%
+Compra mínima: $600
 Enlace https://meli.la/2V8qcNf
 
-🎟️ Cupón: FINDESHOP
-Beneficio: -$252 | 10%
-Compra mínima: $1800
-Enlace https://meli.la/2Tq8nED
-
 DESTACADO
-🎟️ Cupón: ENCUENTRAAQUI
-Beneficio: -$720 | 10%
-Compra mínima: $6000
-Enlace https://meli.la/1nxvASZ
+🎟️ Cupón: BENEFICIOTOP
+Beneficio: -$250 | 10%
+Compra mínima: $2000
+Enlace https://meli.la/1t49XAp
+
+🎟️ Cupón: ESPECIAL22
+Beneficio: -$1120 | 10%
+Compra mínima: $8000
+Enlace https://meli.la/2TVZWG8
