@@ -1,17 +1,17 @@
 ESTADO=1
 
-🎟️ Cupón: ULTIMOSDIAS
+🎟️ Cupón: CIERREDEMES
 Beneficio: -$75 | 10%
 Compra mínima: $600
 Enlace https://meli.la/2V8qcNf
 
-DESTACADO
-🎟️ Cupón: DESPIDEAGOSTO
-Beneficio: -$165 | 12%
-Compra mínima: $1100
+🎟️ Cupón: PROMOFINDEMES
+Beneficio: -$100 | 10%
+Compra mínima: $800
 Enlace https://mercadolibre.com/sec/2AtiybX
 
-🎟️ Cupón: RECTAFINAL
+DESTACADO
+🎟️ Cupón: OFERTAFINDEMES
 Beneficio: -$250 | 10%
 Compra mínima: $2000
 Enlace https://meli.la/1t49XAp
