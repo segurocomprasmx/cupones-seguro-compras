@@ -1,17 +1,22 @@
 ESTADO=1
 
-🎟️ Cupón: CIERREDEMES
+🎟️ Cupón: MEGAFINDEMES
 Beneficio: -$75 | 10%
 Compra mínima: $600
 Enlace https://meli.la/2V8qcNf
 
-🎟️ Cupón: PROMOFINDEMES
+🎟️ Cupón: FINDEMES30
 Beneficio: -$100 | 10%
 Compra mínima: $800
 Enlace https://mercadolibre.com/sec/2AtiybX
 
-DESTACADO
-🎟️ Cupón: OFERTAFINDEMES
+🎟️ Cupón: CIERRE30
 Beneficio: -$250 | 10%
 Compra mínima: $2000
 Enlace https://meli.la/1t49XAp
+
+DESTACADO
+🎟️ Cupón: ULTIMA30
+Beneficio: -$500
+Compra mínima: $5000
+Enlace https://meli.la/1nxvASZ
