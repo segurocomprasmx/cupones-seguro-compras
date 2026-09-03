@@ -1,22 +1,22 @@
 ESTADO=1
 
-🎟️ Cupón: MESDEAHORRO
-Beneficio: -$75 | 10%
-Compra mínima: $600
+🎟️ Cupón: SUPERDEAL
+Beneficio: -$60 | 12%
+Compra mínima: $400
 Enlace https://meli.la/2V8qcNf
 
-🎟️ Cupón: PRECIOINCREIBLE
-Beneficio: -$160
-Compra mínima: $1600
-Enlace https://meli.la/2Tq8nED
+🎟️ Cupón: TODOCONDESCUENTO
+Beneficio: -$125 | 10%
+Compra mínima: $1000
+Enlace https://mercadolibre.com/sec/2AtiybX
 
 DESTACADO
-🎟️ Cupón: APROVECHAMAS
-Beneficio: -$400
-Compra mínima: $4000
-Enlace https://meli.la/1FCDBnb
+🎟️ Cupón: VIVASEPTIEMBRE
+Beneficio: -$308 | 10%
+Compra mínima: $2200
+Enlace https://meli.la/1t49XAp
 
-🎟️ Cupón: OFERTASYA
-Beneficio: -$800
-Compra mínima: $8000
-Enlace https://meli.la/2TVZWG8
+🎟️ Cupón: PROMOFLASH
+Beneficio: -$720 | 10%
+Compra mínima: $6000
+Enlace https://meli.la/1nxvASZ
