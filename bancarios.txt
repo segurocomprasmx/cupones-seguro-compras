@@ -1,1 +1,9 @@
-MESES30|MERCADO PAGO MESES SIN TARJETA|-$120 30%|Compra mínima: $300|https://meli.la/12Zb4nV
+MESES99|MESES SIN TARJETA|-$500 10%|Compra mínima: $2,500|https://meli.la/216HkUo
+OPBA99|OPENBANK|-$500 15%|Compra mínima: $2,500|https://meli.la/1fXzjoi
+AFRM99|AFIRME|-$1,000 10%|Compra mínima: $2,500|https://meli.la/274cUTv
+MIFE99|MIFEL|-$500 10%|Compra mínima: $2,500|https://meli.la/13zbMkJ
+BNMX99|BANAMEX|-$500 10%|Compra mínima: $3,500|https://meli.la/2Fa2RS2
+HSBC99|HSBC|-$500 10%|Compra mínima: $3,500|https://meli.la/1QFVkxP
+TCMP99|MERCADO PAGO|-$500 10%|Compra mínima: $4,000|https://meli.la/2EtP9dz
+BBVA99|BBVA|-$500 10%|Compra mínima: $4,000|https://meli.la/2poqXAV
+AMEX99|AMERICAN EXPRESS|-$500 10%|Compra mínima: $4,500|https://meli.la/13ypTrY
