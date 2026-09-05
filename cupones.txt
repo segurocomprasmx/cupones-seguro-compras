@@ -1,23 +1,22 @@
-ESTADO=0
+ESTADO=1
 
-DESTACADO
-🎟️ Cupón: MEJORCOMPRA
-Beneficio: -$63 | 10%
-Compra mínima: $500
+🎟️ Cupón: DEALSSEPTIEMBRE
+Beneficio: -$75 | 10%
+Compra mínima: $600
 Enlace https://meli.la/2V8qcNf
 
 DESTACADO
-🎟️ Cupón: TOTALAHORRO
-Beneficio: -$150 | 12%
-Compra mínima: $1000
-Enlace https://mercadolibre.com/sec/2AtiybX
+🎟️ Cupón: CONVIENEHOY
+Beneficio: -$225 | 10%
+Compra mínima: $1500
+Enlace https://meli.la/1zP3EbP
 
-🎟️ Cupón: 9DEOFERTON
-Beneficio: -$180
-Compra mínima: $1800
-Enlace https://meli.la/2Tq8nED
+🎟️ Cupón: PRECIOWOW9
+Beneficio: -$500
+Compra mínima: $5000
+Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: DESCUENTAZO9
-Beneficio: -$400
-Compra mínima: $4000
-Enlace https://meli.la/1FCDBnb
+🎟️ Cupón: PROMODELMES9
+Beneficio: -$800
+Compra mínima: $8000
+Enlace https://meli.la/2TVZWG8
