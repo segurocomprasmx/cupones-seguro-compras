@@ -1,49 +1,33 @@
 ESTADO=1
 
 DESTACADO
-🎟️ Cupón: AFILIADODD99
-Beneficio: -$100 | 15%
-Compra mínima: $500
+🎟️ Cupón: PROMODEHOY
+Beneficio: -$75 | 10%
+Compra mínima: $600
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: LLEGOEL99
+🎟️ Cupón: TODOAMENOS
 Beneficio: -$175 | 10%
-Compra mínima: $1500
+Compra mínima: $1400
 Enlace https://meli.la/1zP3EbP
 
-🎟️ Cupón: HOYES99
-Beneficio: -$199
-Compra mínima: $1990
-Enlace https://meli.la/32V4U7e
-
-🎟️ Cupón: ESHOY99
-Beneficio: -$199
-Compra mínima: $1990
-Enlace https://meli.la/1k3tjYq
-
 DESTACADO
-🎟️ Cupón: APROVECHA99
-Beneficio: -$300 | 12%
-Compra mínima: $2000
+🎟️ Cupón: COMPRAYGANA
+Beneficio: -$375 | 12%
+Compra mínima: $2500
 Enlace https://meli.la/1t49XAp
 
-🎟️ Cupón: DOBLEVENTAJA
-Beneficio: -$375 | 10%
-Compra mínima: $3000
+🎟️ Cupón: SEACABADD
+Beneficio: -$480 | 10%
+Compra mínima: $4000
 Enlace https://meli.la/1FCDBnb
 
-🎟️ Cupón: GRANFECHA9
-Beneficio: -$500
-Compra mínima: $5000
+🎟️ Cupón: OFERTAMAX
+Beneficio: -$750 | 10%
+Compra mínima: $6000
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: DOBLEAHORRO
-Beneficio: -$800
+🎟️ Cupón: LASTDAY99
+Beneficio: -$960 | 10%
 Compra mínima: $8000
 Enlace https://meli.la/2TVZWG8
-
-🎟️ Cupón: SUPER99
-Beneficio: -$1200 | 12%
-Compra mínima: $12000
-Enlace https://meli.la/2AyhQpq
-
