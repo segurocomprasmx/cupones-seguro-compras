@@ -1,22 +1,22 @@
-ESTADO=0
+ESTADO=1
 
-🎟️ Cupón: DEALINCREIBLE
-Beneficio: -$88 | 10%
-Compra mínima: $700
+🎟️ Cupón: SEPTIEMBREFEST
+Beneficio: -$75 | 10%
+Compra mínima: $600
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: AHORRAGRANDE
-Beneficio: -$225 | 12%
-Compra mínima: $1500
+🎟️ Cupón: COMPRAAHORA
+Beneficio: -$175 | 10%
+Compra mínima: $1400
 Enlace https://meli.la/1zP3EbP
 
 DESTACADO
-🎟️ Cupón: GRANOPORTUNIDAD
-Beneficio: -$438 | 10%
-Compra mínima: $3500
-Enlace https://meli.la/1FCDBnb
+🎟️ Cupón: DEALDELMES
+Beneficio: -$300 | 10%
+Compra mínima: $2500
+Enlace https://meli.la/1t49XAp
 
-🎟️ Cupón: PRECIOIMBATIBLE
-Beneficio: -$720 | 10%
+🎟️ Cupón: FIESTAPATRIA
+Beneficio: -$600
 Compra mínima: $6000
 Enlace https://meli.la/1nxvASZ
