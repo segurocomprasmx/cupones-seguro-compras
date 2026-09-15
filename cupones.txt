@@ -1,22 +1,27 @@
 ESTADO=1
 
-🎟️ Cupón: PREVIA15
-Beneficio: -$63 | 10%
-Compra mínima: $500
+🎟️ Cupón: QUINCENAZO
+Beneficio: -$88 | 10%
+Compra mínima: $700
 Enlace https://meli.la/2ohB97c
 
-DESTACADO
-🎟️ Cupón: CALIENTAMOTORES
-Beneficio: -$150 | 10%
-Compra mínima: $1200
-Enlace https://mercadolibre.com/sec/2AtiybX
+🎟️ Cupón: LLEGOEL15
+Beneficio: -$188 | 10%
+Compra mínima: $1500
+Enlace https://meli.la/1zP3EbP
 
-🎟️ Cupón: PREQUINCENA
+DESTACADO
+🎟️ Cupón: COMPRAYAHORRA
+Beneficio: -$450 | 10%
+Compra mínima: $3000
+Enlace https://meli.la/1FCDBnb
+
+🎟️ Cupón: HOYSECOMPRA
 Beneficio: -$500
 Compra mínima: $5000
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: ADELANTACOMPRAS
+🎟️ Cupón: CIERREGANADOR
 Beneficio: -$1000 | 10%
-Compra mínima: $8000
+Compra mínima: $9000
 Enlace https://meli.la/2TVZWG8
