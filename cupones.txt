@@ -1,27 +1,22 @@
 ESTADO=1
 
-🎟️ Cupón: QUINCENAZO
-Beneficio: -$88 | 10%
-Compra mínima: $700
+DESTACADO
+🎟️ Cupón: PRECIOSBAJOS
+Beneficio: -$63 | 10%
+Compra mínima: $500
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: LLEGOEL15
-Beneficio: -$188 | 10%
-Compra mínima: $1500
-Enlace https://meli.la/1zP3EbP
+🎟️ Cupón: PROMOPATRIA
+Beneficio: -$150 | 10%
+Compra mínima: $1200
+Enlace https://mercadolibre.com/sec/2AtiybX
 
-DESTACADO
-🎟️ Cupón: COBRAYAHORRA
-Beneficio: -$450 | 10%
-Compra mínima: $3000
-Enlace https://meli.la/1FCDBnb
-
-🎟️ Cupón: HOYSECOMPRA
+🎟️ Cupón: AHORRAMUCHO
 Beneficio: -$500
 Compra mínima: $5000
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: CIERREGANADOR
-Beneficio: -$1000 | 10%
-Compra mínima: $9000
-Enlace https://meli.la/2TVZWG8
+🎟️ Cupón: OFERTAFAVORITA
+Beneficio: -$1000
+Compra mínima: $10000
+Enlace https://meli.la/1sYBexs
