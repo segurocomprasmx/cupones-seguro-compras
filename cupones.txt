@@ -1,22 +1,22 @@
 ESTADO=1
 
-DESTACADO
-🎟️ Cupón: PRECIOGANADOR
-Beneficio: -$75 | 10%
-Compra mínima: $600
+🎟️ Cupón: PROMOPOWER
+Beneficio: -$60 | 12%
+Compra mínima: $400
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: COMPRAIMPERDIBLE
-Beneficio: -$160
-Compra mínima: $1600
-Enlace https://meli.la/1zP3EbP
+🎟️ Cupón: OFERTALIMITADA
+Beneficio: -$125 | 10%
+Compra mínima: $1000
+Enlace https://mercadolibre.com/sec/2AtiybX
 
-🎟️ Cupón: MESDEDEALS
-Beneficio: -$400
-Compra mínima: $4000
-Enlace https://meli.la/1FCDBnb
+DESTACADO
+🎟️ Cupón: AHORRAYA
+Beneficio: -$308 | 10%
+Compra mínima: $2200
+Enlace https://meli.la/1t49XAp
 
-🎟️ Cupón: SEPTIEMBREON
-Beneficio: -$800
-Compra mínima: $8000
-Enlace https://meli.la/2TVZWG8
+🎟️ Cupón: PRECIOJUSTO
+Beneficio: -$720 | 10%
+Compra mínima: $6000
+Enlace https://meli.la/1nxvASZ
