@@ -1,22 +1,22 @@
 ESTADO=1
 
-🎟️ Cupón: PROMOPOWER
-Beneficio: -$60 | 12%
-Compra mínima: $400
+🎟️ Cupón: FIESTADEOFERTAS
+Beneficio: -$63 | 12%
+Compra mínima: $500
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: OFERTALIMITADA
-Beneficio: -$125 | 10%
+DESTACADO
+🎟️ Cupón: COMPRAEN9
+Beneficio: -$150 | 12%
 Compra mínima: $1000
 Enlace https://mercadolibre.com/sec/2AtiybX
 
-DESTACADO
-🎟️ Cupón: AHORRAYA
-Beneficio: -$308 | 10%
-Compra mínima: $2200
-Enlace https://meli.la/1t49XAp
+🎟️ Cupón: PROMOFIESTA
+Beneficio: -$180
+Compra mínima: $1800
+Enlace https://meli.la/2Tq8nED
 
-🎟️ Cupón: PRECIOJUSTO
-Beneficio: -$720 | 10%
-Compra mínima: $6000
-Enlace https://meli.la/1nxvASZ
+🎟️ Cupón: GRANOFERTA
+Beneficio: -$400
+Compra mínima: $4000
+Enlace https://meli.la/1FCDBnb
