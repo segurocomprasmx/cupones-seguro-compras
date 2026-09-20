@@ -1,22 +1,22 @@
 ESTADO=1
 
-🎟️ Cupón: FIESTADEOFERTAS
-Beneficio: -$63 | 12%
-Compra mínima: $500
+🎟️ Cupón: PRECIOFELIZ
+Beneficio: -$75 | 10%
+Compra mínima: $600
 Enlace https://meli.la/2ohB97c
 
 DESTACADO
-🎟️ Cupón: COMPRAEN9
-Beneficio: -$150 | 12%
-Compra mínima: $1000
-Enlace https://mercadolibre.com/sec/2AtiybX
+🎟️ Cupón: PRECIOSDELOCURA
+Beneficio: -$225 | 12%
+Compra mínima: $1500
+Enlace https://meli.la/1zP3EbP
 
-🎟️ Cupón: PROMOFIESTA
-Beneficio: -$180
-Compra mínima: $1800
-Enlace https://meli.la/2Tq8nED
-
-🎟️ Cupón: GRANOFERTA
-Beneficio: -$400
-Compra mínima: $4000
+🎟️ Cupón: AHORRACONTODO
+Beneficio: -$500
+Compra mínima: $5000
 Enlace https://meli.la/1FCDBnb
+
+🎟️ Cupón: PROMOIMPERDIBLE
+Beneficio: -$800
+Compra mínima: $8000
+Enlace https://meli.la/2TVZWG8
