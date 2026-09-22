@@ -1,22 +1,22 @@
-ESTADO=0
+ESTADO=1
 
-🎟️ Cupón: PRECIOFELIZ
-Beneficio: -$75 | 10%
-Compra mínima: $600
+🎟️ Cupón: PROMOSPARATI
+Beneficio: -$63 | 10%
+Compra mínima: $500
 Enlace https://meli.la/2ohB97c
 
 DESTACADO
-🎟️ Cupón: PRECIOSDELOCURA
-Beneficio: -$225 | 12%
-Compra mínima: $1500
-Enlace https://meli.la/1zP3EbP
+🎟️ Cupón: COMPRAENGRANDE
+Beneficio: -$150 | 10%
+Compra mínima: $1200
+Enlace https://mercadolibre.com/sec/2AtiybX
 
-🎟️ Cupón: AHORRACONTODO
+🎟️ Cupón: DEALFLASH
 Beneficio: -$500
 Compra mínima: $5000
 Enlace https://meli.la/1FCDBnb
 
-🎟️ Cupón: PROMOIMPERDIBLE
-Beneficio: -$800
-Compra mínima: $8000
-Enlace https://meli.la/2TVZWG8
+🎟️ Cupón: AHORROFELIZ
+Beneficio: -$1000
+Compra mínima: $10000
+Enlace https://meli.la/1sYBexs
