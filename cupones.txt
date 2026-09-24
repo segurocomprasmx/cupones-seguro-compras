@@ -1,23 +1,23 @@
 ESTADO=1
 
-🎟️ Cupón: PRECIOESTRELLA
+DESTACADO
+🎟️ Cupón: OFERTASENCENDIDAS
 Beneficio: -$75 | 10%
 Compra mínima: $600
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: AHORROESPECIAL
+🎟️ Cupón: COMPRASINCREIBLES
 Beneficio: -$175 | 10%
 Compra mínima: $1400
 Enlace https://meli.la/1zP3EbP
 
 DESTACADO
-🎟️ Cupón: PROMODELBUENO
-Beneficio: -$350 | 10%
-Compra mínima: $2800
+🎟️ Cupón: DEALFAVORITO
+Beneficio: -$375 | 12%
+Compra mínima: $2500
 Enlace https://meli.la/1t49XAp
 
-DESTACADO
-🎟️ Cupón: PRECIOREDONDO
-Beneficio: -$500
-Compra mínima: $5000
-Enlace https://meli.la/1FCDBnb
+🎟️ Cupón: AHORROREAL
+Beneficio: -$750 | 10%
+Compra mínima: $6000
+Enlace https://meli.la/1nxvASZ
