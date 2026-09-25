@@ -1,23 +1,22 @@
 ESTADO=1
 
 DESTACADO
-🎟️ Cupón: OFERTASENCENDIDAS
-Beneficio: -$75 | 10%
-Compra mínima: $600
+🎟️ Cupón: PROMOSDELOCURA
+Beneficio: -$75 | 12%
+Compra mínima: $500
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: COMPRASINCREIBLES
-Beneficio: -$175 | 10%
-Compra mínima: $1400
-Enlace https://meli.la/1zP3EbP
+🎟️ Cupón: PRECIOIMPERDIBLE
+Beneficio: -$150 | 10%
+Compra mínima: $1200
+Enlace https://mercadolibre.com/sec/2AtiybX
 
-DESTACADO
-🎟️ Cupón: DEALFAVORITO
-Beneficio: -$375 | 12%
-Compra mínima: $2500
+🎟️ Cupón: COMPRAALMEJORPRECIO
+Beneficio: -$288
+Compra mínima: $2400
 Enlace https://meli.la/1t49XAp
 
-🎟️ Cupón: AHORROREAL
-Beneficio: -$750 | 10%
-Compra mínima: $6000
-Enlace https://meli.la/1nxvASZ
+🎟️ Cupón: OFERTASGANADORAS
+Beneficio: -$500
+Compra mínima: $5000
+Enlace https://meli.la/1FCDBnb
