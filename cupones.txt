@@ -1,22 +1,22 @@
 ESTADO=1
 
-🎟️ Cupón: AHORROQUESESIENTE
-Beneficio: -$88 | 10%
-Compra mínima: $700
+🎟️ Cupón: COMPRASYAHORRO
+Beneficio: -$75 | 10%
+Compra mínima: $600
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: DEALCONTODO
-Beneficio: -$225 | 12%
-Compra mínima: $1500
+🎟️ Cupón: OFERTASALMAXIMO
+Beneficio: -$175 | 10%
+Compra mínima: $1400
 Enlace https://meli.la/1zP3EbP
 
 DESTACADO
-🎟️ Cupón: PROMOQUECONVIENE
-Beneficio: -$438 | 10%
-Compra mínima: $3500
-Enlace https://meli.la/2Xz3eDR
+🎟️ Cupón: AHORROPARATODOS
+Beneficio: -$300 | 10%
+Compra mínima: $2500
+Enlace https://meli.la/1t49XAp
 
-🎟️ Cupón: PRECIOQUECONVIENE
-Beneficio: -$720 | 10%
+🎟️ Cupón: PROMOENORME
+Beneficio: -$600
 Compra mínima: $6000
 Enlace https://meli.la/1nxvASZ
