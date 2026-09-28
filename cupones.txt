@@ -1,22 +1,22 @@
 ESTADO=1
 
-🎟️ Cupón: COMPRASYAHORRO
-Beneficio: -$75 | 10%
-Compra mínima: $600
+🎟️ Cupón: SEVIENEELCIERRE
+Beneficio: -$63 | 10%
+Compra mínima: $500
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: OFERTASALMAXIMO
-Beneficio: -$175 | 10%
-Compra mínima: $1400
-Enlace https://meli.la/1zP3EbP
+🎟️ Cupón: PREVIAFINDEMES
+Beneficio: -$150 | 10%
+Compra mínima: $1200
+Enlace https://mercadolibre.com/sec/2AtiybX
+
+🎟️ Cupón: RUMBOALCIERRE
+Beneficio: -$500
+Compra mínima: $5000
+Enlace https://meli.la/1FCDBnb
 
 DESTACADO
-🎟️ Cupón: AHORROPARATODOS
-Beneficio: -$300 | 10%
-Compra mínima: $2500
-Enlace https://meli.la/1t49XAp
-
-🎟️ Cupón: PROMOENORME
-Beneficio: -$600
-Compra mínima: $6000
-Enlace https://meli.la/1nxvASZ
+🎟️ Cupón: YACASIFINDEMES
+Beneficio: -$1000
+Compra mínima: $8000
+Enlace https://meli.la/2TVZWG8
