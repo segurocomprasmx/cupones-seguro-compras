@@ -1,22 +1,17 @@
 ESTADO=1
 
-🎟️ Cupón: SEVIENEELCIERRE
-Beneficio: -$63 | 10%
-Compra mínima: $500
+DESTACADO
+🎟️ Cupón: PREVIAFINAL
+Beneficio: -$88 | 10%
+Compra mínima: $700
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: PREVIAFINDEMES
-Beneficio: -$150 | 10%
-Compra mínima: $1200
-Enlace https://mercadolibre.com/sec/2AtiybX
+🎟️ Cupón: SEACERCAELFIN
+Beneficio: -$420 | 10%
+Compra mínima: $3500
+Enlace https://meli.la/2Xz3eDR
 
-🎟️ Cupón: RUMBOALCIERRE
-Beneficio: -$500
-Compra mínima: $5000
-Enlace https://meli.la/1FCDBnb
-
-DESTACADO
-🎟️ Cupón: YACASIFINDEMES
-Beneficio: -$1000
-Compra mínima: $8000
-Enlace https://meli.la/2TVZWG8
+🎟️ Cupón: PREPARAELCIERRE
+Beneficio: -$840 | 10%
+Compra mínima: $7000
+Enlace https://meli.la/1nxvASZ
