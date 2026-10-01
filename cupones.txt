@@ -1,17 +1,22 @@
 ESTADO=1
 
 DESTACADO
-🎟️ Cupón: PREVIAFINAL
+🎟️ Cupón: YTDEALS
 Beneficio: -$88 | 10%
 Compra mínima: $700
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: SEACERCAELFIN
-Beneficio: -$420 | 10%
+🎟️ Cupón: PREAHORRO
+Beneficio: -$225 | 12%
+Compra mínima: $1500
+Enlace https://meli.la/1zP3EbP
+
+🎟️ Cupón: PREOFERTAS
+Beneficio: -$438 | 10%
 Compra mínima: $3500
 Enlace https://meli.la/2Xz3eDR
 
-🎟️ Cupón: PREPARAELCIERRE
-Beneficio: -$840 | 10%
-Compra mínima: $7000
+🎟️ Cupón: PREPROMO
+Beneficio: -$720 | 10%
+Compra mínima: $6000
 Enlace https://meli.la/1nxvASZ
