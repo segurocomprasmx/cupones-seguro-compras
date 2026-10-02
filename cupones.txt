@@ -1,22 +1,23 @@
 ESTADO=1
 
 DESTACADO
-🎟️ Cupón: YTDEALS
-Beneficio: -$88 | 10%
-Compra mínima: $700
+🎟️ Cupón: PREDEALS
+Beneficio: -$63 | 10%
+Compra mínima: $500
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: PREAHORRO
-Beneficio: -$225 | 12%
-Compra mínima: $1500
-Enlace https://meli.la/1zP3EbP
+🎟️ Cupón: ANTICIPATE
+Beneficio: -$150 | 10%
+Compra mínima: $1000
+Enlace https://mercadolibre.com/sec/2AtiybX
 
-🎟️ Cupón: PREOFERTAS
-Beneficio: -$438 | 10%
-Compra mínima: $3500
+🎟️ Cupón: COMPRAANTES
+Beneficio: -$180
+Compra mínima: $1800
+Enlace https://meli.la/2Tq8nED
+
+🎟️ Cupón: AHORRAANTES
+Beneficio: -$400
+Compra mínima: $4000
 Enlace https://meli.la/2Xz3eDR
 
-🎟️ Cupón: PREPROMO
-Beneficio: -$720 | 10%
-Compra mínima: $6000
-Enlace https://meli.la/1nxvASZ
