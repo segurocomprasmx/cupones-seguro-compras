@@ -1,23 +1,23 @@
 ESTADO=1
 
-DESTACADO
-🎟️ Cupón: PREDEALS
-Beneficio: -$63 | 10%
-Compra mínima: $500
+🎟️ Cupón: PRECIOSYA
+Beneficio: -$75 | 10%
+Compra mínima: $600
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: ANTICIPATE
-Beneficio: -$150 | 10%
-Compra mínima: $1000
-Enlace https://mercadolibre.com/sec/2AtiybX
+DESTACADO
+🎟️ Cupón: PREVIADEALS
+Beneficio: -$225 | 12%
+Compra mínima: $1500
+Enlace https://meli.la/1zP3EbP
 
-🎟️ Cupón: COMPRAANTES
-Beneficio: -$180
-Compra mínima: $1800
-Enlace https://meli.la/2Tq8nED
+🎟️ Cupón: OFERTASANTES
+Beneficio: -$500
+Compra mínima: $5000
+Enlace https://meli.la/1FCDBnb
 
-🎟️ Cupón: AHORRAANTES
-Beneficio: -$400
-Compra mínima: $4000
-Enlace https://meli.la/2Xz3eDR
+🎟️ Cupón: PROMOANTES
+Beneficio: -$800
+Compra mínima: $8000
+Enlace https://meli.la/2TVZWG8
 
