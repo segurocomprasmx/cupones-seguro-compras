@@ -1,23 +1,23 @@
 ESTADO=1
 
-🎟️ Cupón: PRECIOSYA
+🎟️ Cupón: PREVIAWOW
 Beneficio: -$75 | 10%
 Compra mínima: $600
 Enlace https://meli.la/2ohB97c
 
-DESTACADO
-🎟️ Cupón: PREVIADEALS
-Beneficio: -$225 | 12%
-Compra mínima: $1500
+🎟️ Cupón: AHORROPREVIO
+Beneficio: -$175 | 10%
+Compra mínima: $1400
 Enlace https://meli.la/1zP3EbP
 
-🎟️ Cupón: OFERTASANTES
-Beneficio: -$500
-Compra mínima: $5000
-Enlace https://meli.la/1FCDBnb
+DESTACADO
+🎟️ Cupón: PROMOPREVIA
+Beneficio: -$300 | 10%
+Compra mínima: $2500
+Enlace https://meli.la/1t49XAp
 
-🎟️ Cupón: PROMOANTES
-Beneficio: -$800
-Compra mínima: $8000
-Enlace https://meli.la/2TVZWG8
+🎟️ Cupón: PREVIAOFERTA
+Beneficio: -$600
+Compra mínima: $6000
+Enlace https://meli.la/1nxvASZ
 
