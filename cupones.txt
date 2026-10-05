@@ -1,23 +1,23 @@
 ESTADO=1
 
-🎟️ Cupón: PREVIAWOW
-Beneficio: -$75 | 10%
-Compra mínima: $600
+DESTACADO
+🎟️ Cupón: COMPRAHOY
+Beneficio: -$63 | 10%
+Compra mínima: $500
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: AHORROPREVIO
-Beneficio: -$175 | 10%
-Compra mínima: $1400
-Enlace https://meli.la/1zP3EbP
+🎟️ Cupón: AHORRAHOY
+Beneficio: -$150 | 10%
+Compra mínima: $1200
+Enlace https://mercadolibre.com/sec/2AtiybX
 
-DESTACADO
-🎟️ Cupón: PROMOPREVIA
-Beneficio: -$300 | 10%
-Compra mínima: $2500
-Enlace https://meli.la/1t49XAp
+🎟️ Cupón: DESCUENTOSYA
+Beneficio: -$500
+Compra mínima: $5000
+Enlace https://meli.la/1FCDBnb
 
-🎟️ Cupón: PREVIAOFERTA
-Beneficio: -$600
-Compra mínima: $6000
-Enlace https://meli.la/1nxvASZ
+🎟️ Cupón: OFERTAYA
+Beneficio: -$1000
+Compra mínima: $10000
+Enlace https://meli.la/1sYBexs
 
