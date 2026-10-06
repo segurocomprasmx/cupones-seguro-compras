@@ -1,5 +1,5 @@
 MESES1010|MP MESES SIN TARJETA|-$500 10%|Compra mínima: $2,500|https://meli.la/216HkUo
-AFRM1010|AFIRME|-$1000 15%|Compra mínima: $2,500|https://meli.la/274cUTv
+AFIRME|AFRM1010|-$1000 15%|Compra mínima: $2,500|https://meli.la/274cUTv
 INBR1010|INBURSA|-$500 10%|Compra mínima: $2,500|https://meli.la/2yL7Jvx
 INVE1010|INVEX|-$500 10%|Compra mínima: $2,500|https://meli.la/2wFwVmx
 DIDI1010|DIDI|-$500 10%|Compra mínima: $2,500|https://meli.la/2kKbUN7
