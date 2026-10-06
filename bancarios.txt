@@ -1,1 +1,10 @@
+MESES1010|MP MESES SIN TARJETA|-$500 10%|Compra mínima: $2,500|https://meli.la/216HkUo
+AFRM1010|AFIRME|-$1000 15%|Compra mínima: $2,500|https://meli.la/274cUTv
+INBR1010|INBURSA|-$500 10%|Compra mínima: $2,500|https://meli.la/2yL7Jvx
+INVE1010|INVEX|-$500 10%|Compra mínima: $2,500|https://meli.la/2wFwVmx
+DIDI1010|DIDI|-$500 10%|Compra mínima: $2,500|https://meli.la/2kKbUN7
+HSBC1010|HSBC|-$1000 10%|Compra mínima: $3,000|https://meli.la/1QFVkxP
+BBVA1010|BBVA|-$500 10%|Compra mínima: $4,500|https://meli.la/2poqXAV
+TCMP1010|MERCADO PAGO|-$500 10%|Compra mínima: $4,500|https://meli.la/2EtP9dz
+AMEX1010|AMERICAN EXPRESS|-$500 10%|Compra mínima: $4,500|https://meli.la/13ypTrY
 
