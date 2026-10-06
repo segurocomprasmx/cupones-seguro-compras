@@ -1,23 +1,13 @@
 ESTADO=1
 
 DESTACADO
-🎟️ Cupón: COMPRAHOY
+🎟️ Cupón: PREDOBLE
 Beneficio: -$63 | 10%
 Compra mínima: $500
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: AHORRAHOY
-Beneficio: -$150 | 10%
-Compra mínima: $1200
-Enlace https://mercadolibre.com/sec/2AtiybX
-
-🎟️ Cupón: DESCUENTOSYA
-Beneficio: -$500
-Compra mínima: $5000
-Enlace https://meli.la/1FCDBnb
-
-🎟️ Cupón: OFERTAYA
-Beneficio: -$1000
-Compra mínima: $10000
-Enlace https://meli.la/1sYBexs
+🎟️ Cupón: PREOFERTA
+Beneficio: -$180
+Compra mínima: $1800
+Enlace https://meli.la/2Tq8nED
 
