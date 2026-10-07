@@ -1,32 +1,13 @@
 ESTADO=1
 
-🎟️ Cupón: PREDOBLE
-Beneficio: -$63 | 10%
-Compra mínima: $500
+🎟️ Cupón: DEALSPRE
+Beneficio: -$150 | 10%
+Compra mínima: $600
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: AHORRO
-Beneficio: -$150 | 12%
-Compra mínima: $1000
-Enlace https://mercadolibre.com/sec/2AtiybX
-
-🎟️ Cupón: PREOFERTA
-Beneficio: -$180
-Compra mínima: $1800
-Enlace https://meli.la/2Tq8nED
-
-🎟️ Cupón: PROMO4
-Beneficio: -$400
+DESTACADO
+🎟️ Cupón: PREEXTRA
+Beneficio: -$480 | 10%
 Compra mínima: $4000
 Enlace https://meli.la/2Xz3eDR
 
-🎟️ Cupón: TECHSALE
-Beneficio: -$1500  | 13%
-Compra mínima: $2000
-Enlace https://meli.la/2GdLMVu
-
-DESTACADO
-🎟️ Cupón: MELICONNECT
-Beneficio: -$1800 | 10%
-Compra mínima: $800
-Enlace https://meli.la/2ohB97c
