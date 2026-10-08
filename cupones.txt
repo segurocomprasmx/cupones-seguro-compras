@@ -1,12 +1,22 @@
 ESTADO=1
 
-🎟️ Cupón: DEALSPRE
-Beneficio: -$150 | 10%
+DESTACADO
+🎟️ Cupón: PRECOMPRA
+Beneficio: -$300 | 10%
 Compra mínima: $600
 Enlace https://meli.la/2ohB97c
 
-DESTACADO
-🎟️ Cupón: PREEXTRA
+🎟️ Cupón: PREPRECIO
+Beneficio: -$500 | 12%
+Compra mínima: $1500
+Enlace https://meli.la/1zP3EbP
+
+🎟️ Cupón: PREIMPERDIBLE
+Beneficio: -$336 | 10%
+Compra mínima: $2800
+Enlace https://meli.la/1t49XAp
+
+🎟️ Cupón: PREBENEFICIO
 Beneficio: -$480 | 10%
 Compra mínima: $4000
 Enlace https://meli.la/2Xz3eDR
