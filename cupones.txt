@@ -1,29 +1,29 @@
 ESTADO=1
 
 DESTACADO
-🎟️ Cupón: PRECOMPRA
-Beneficio: -$300 | 10%
+🎟️ Cupón: PREESPECIAL
+Beneficio: -$75 | 10%
 Compra mínima: $600
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: PREPRECIO
-Beneficio: -$500 | 12%
+🎟️ Cupón: PREOPORTUNIDAD
+Beneficio: -$206 | 11%
 Compra mínima: $1500
 Enlace https://meli.la/1zP3EbP
 
-🎟️ Cupón: PREIMPERDIBLE
-Beneficio: -$336 | 10%
-Compra mínima: $2800
+🎟️ Cupón: PREAHORRAMAS
+Beneficio: -$360 | 10%
+Compra mínima: $3000
 Enlace https://meli.la/1t49XAp
 
-🎟️ Cupón: PREBENEFICIO
-Beneficio: -$480 | 10%
-Compra mínima: $4000
+🎟️ Cupón: PRECOMPRAMAS
+Beneficio: -$540 | 10%
+Compra mínima: $4500
 Enlace https://meli.la/2Xz3eDR
 
-🎟️Cupón: TECHMANIA
+🎟️Cupón: TECHPRECIO
 Beneficio: -$2000 | 13%
-Compra minima: $6000
+Compra minima: $6500
 Enlace https://meli.la/2CsRWvv
 
 🎟️Cupón: MELICONNECT
