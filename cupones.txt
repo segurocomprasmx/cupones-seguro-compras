@@ -1,15 +1,40 @@
 ESTADO=1
 
-DESTACADO
-🎟️ Cupón: HOYES10
-Beneficio: -$221 | 10%
-Compra mínima: $2100
-Enlace https://meli.la/2KrmUMH
+🎟️ Cupón: DOBLEDAY
+Beneficio: -$100 | 14%
+Compra mínima: $500
+Enlace https://meli.la/2ohB97c
+
+🎟️ Cupón: DOBLEAHORRO
+Beneficio: -$175 | 12%
+Compra mínima: $1000
+Enlace https://mercadolibre.com/sec/2AtiybX
 
 🎟️ Cupón: DIEZ10
 Beneficio: -$221 | 10%
 Compra mínima: $2100
 Enlace https://meli.la/1k3tjYq
+
+🎟️ Cupón: HOYES10
+Beneficio: -$221 | 10%
+Compra mínima: $2100
+Enlace https://meli.la/2KrmUMH
+
+🎟️ Cupón: DOBLEPROMO
+Beneficio: -$300
+Compra mínima: $3000
+Enlace https://meli.la/1t49XAp
+
+DESTACADO
+🎟️ Cupón: DOBLEDEAL
+Beneficio: -$540 | 10%
+Compra mínima: $4500
+Enlace https://meli.la/2Xz3eDR
+
+🎟️ Cupón: DOBLEDEAL10
+Beneficio: -$1200
+Compra mínima: $12000
+Enlace https://meli.la/2AyhQpq
 
 🎟️Cupón: MELICONNECT
 Beneficio: -$1800 | 10%
