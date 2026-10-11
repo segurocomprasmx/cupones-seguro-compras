@@ -1,38 +1,23 @@
 ESTADO=1
 
-🎟️ Cupón: DOBLEDAY
-Beneficio: -$100 | 14%
-Compra mínima: $500
+DESTACADO
+🎟️ Cupón: SAMEAHORRO
+Beneficio: -$75 | 10%
+Compra mínima: $600
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: DOBLEAHORRO
-Beneficio: -$175 | 12%
-Compra mínima: $1000
+🎟️ Cupón: SAMEOFERTA
+Beneficio: -$180 | 12%
+Compra mínima: $1200
 Enlace https://mercadolibre.com/sec/2AtiybX
 
-🎟️ Cupón: DIEZ10
-Beneficio: -$221 | 10%
-Compra mínima: $2100
-Enlace https://meli.la/1k3tjYq
-
-DESTACADO
-🎟️ Cupón: HOYES10
-Beneficio: -$221 | 10%
-Compra mínima: $2100
+🎟️ Cupón: SAMEPROMO
+Beneficio: -$250
+Compra mínima: $2500
 Enlace https://meli.la/2KrmUMH
 
-🎟️ Cupón: DOBLEPROMO
-Beneficio: -$300
-Compra mínima: $3000
-Enlace https://meli.la/1t49XAp
-
-🎟️ Cupón: TECHFLASH
-Beneficio: -$2000 | 13%
-Compra minima: $8000
-Enlace https://meli.la/2Qr4Q1u
-
-🎟️ Cupón: DOBLEDEAL
-Beneficio: -$540 | 10%
+🎟️ Cupón: SAMEDEALS
+Beneficio: -$480 | 10%
 Compra mínima: $4500
 Enlace https://meli.la/2Xz3eDR
 
@@ -46,9 +31,3 @@ MELI
 Beneficio: -$500 | 5%
 Compra mínima: $4000
 Enlace https://mercadolibre.com/sec/2MvAiFh
-
-🎟️ Cupón: DOBLEDEAL10
-Beneficio: -$1200
-Compra mínima: $12000
-Enlace https://meli.la/2AyhQpq
-
