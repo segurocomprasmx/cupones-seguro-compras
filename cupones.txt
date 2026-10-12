@@ -1,26 +1,5 @@
 ESTADO=1
 
-DESTACADO
-🎟️ Cupón: SAMEAHORRO
-Beneficio: -$75 | 10%
-Compra mínima: $600
-Enlace https://meli.la/2ohB97c
-
-🎟️ Cupón: SAMEOFERTA
-Beneficio: -$180 | 12%
-Compra mínima: $1200
-Enlace https://mercadolibre.com/sec/2AtiybX
-
-🎟️ Cupón: SAMEPROMO
-Beneficio: -$250
-Compra mínima: $2500
-Enlace https://meli.la/2KrmUMH
-
-🎟️ Cupón: SAMEDEALS
-Beneficio: -$480 | 10%
-Compra mínima: $4500
-Enlace https://meli.la/2Xz3eDR
-
 🎟️ Cupón: MELICONNECT
 Beneficio: -$1800 | 10%
 Compra minima: $800
