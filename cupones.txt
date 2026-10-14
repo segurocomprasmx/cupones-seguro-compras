@@ -1,22 +1,28 @@
 ESTADO=1
 
-DESTACADO
-🎟️ Cupón: SAMECOMPRA
-Beneficio: -$88 | 10%
-Compra mínima: $700
+🎟️ Cupón: QUINCENAWOW
+Beneficio: -$75 | 10%
+Compra mínima: $600
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: SAMEBENEFICIO
-Beneficio: -$210 | 12%
-Compra mínima: $1400
-Enlace https://meli.la/1zP3EbP
+🎟️ Cupón: QUINCENAEXTRA
+Beneficio: -$165 | 11%
+Compra mínima: $1200
+Enlace https://mercadolibre.com/sec/2AtiybX
 
-🎟️ Cupón: SAMEIMPERDIBLE
-Beneficio: -$280
+DESTACADO
+🎟️ Cupón: QUINCENADEAL
+Beneficio: -$500 | 12%
 Compra mínima: $2800
 Enlace https://meli.la/2KrmUMH
 
-🎟️ Cupón: SAMEOPORTUNIDAD
-Beneficio: -$450
-Compra mínima: $4500
+🎟️ Cupón: QUINCENAPROMO
+Beneficio: -$400
+Compra mínima: $4000
 Enlace https://meli.la/2Xz3eDR
+
+🎟️ Cupón: MAXQUINCENA
+Beneficio: -$800
+Compra mínima: $8000
+Enlace https://meli.la/2TVZWG8
+
