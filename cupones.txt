@@ -1,28 +1,22 @@
 ESTADO=1
 
-🎟️ Cupón: QUINCENAWOW
+DESTACADO
+🎟️ Cupón: QUINCENAAHORRO
 Beneficio: -$75 | 10%
 Compra mínima: $600
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: QUINCENAEXTRA
-Beneficio: -$165 | 11%
-Compra mínima: $1200
-Enlace https://mercadolibre.com/sec/2AtiybX
+🎟️ Cupón: QUINCENAMELI
+Beneficio: -$1000
+Compra mínima: $10000
+Enlace https://meli.la/1sYBexs
 
-DESTACADO
-🎟️ Cupón: QUINCENADEAL
-Beneficio: -$500 | 12%
-Compra mínima: $2800
-Enlace https://meli.la/2KrmUMH
-
-🎟️ Cupón: QUINCENAPROMO
-Beneficio: -$400
-Compra mínima: $4000
-Enlace https://meli.la/2Xz3eDR
-
-🎟️ Cupón: MAXQUINCENA
-Beneficio: -$800
+🎟️ Cupón: TECHDESCUENTO
+Beneficio: -$1800 | 13%
 Compra mínima: $8000
-Enlace https://meli.la/2TVZWG8
+Enlace https://meli.la/28E6o1R
 
+🎟️ Cupón: MELICONNECT
+Beneficio: -$1800 | 10%
+Compra mínima: $800
+Enlace https://meli.la/2n4hqkG
