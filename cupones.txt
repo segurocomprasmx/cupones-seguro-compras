@@ -1,30 +1,25 @@
 ESTADO=1
 
-🎟️ Cupón: QUINCENAMAX
-Beneficio: -$75 | 10%
-Compra mínima: $600
+DESTACADO
+🎟️ Cupón: HOYESMEJOR
+Beneficio: -$88 | 10%
+Compra mínima: $700
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: AHORROQUINCENA
-Beneficio: -$175 | 10%
-Compra mínima: $1400
+🎟️ Cupón: AHORROHOY
+Beneficio: -$225 | 12%
+Compra mínima: $1500
 Enlace https://meli.la/1zP3EbP
 
-🎟️ Cupón: BENEFICIOQNA
-Beneficio: -$300
-Compra mínima: $2500
+🎟️ Cupón: OFERTADELDIA
+Beneficio: -$350 | 12%
+Compra mínima: $2800
 Enlace https://meli.la/2KrmUMH
 
-DESTACADO
-🎟️ Cupón: OFERTAQUINCENA
-Beneficio: -$540 | 10%
-Compra mínima: $4500
-Enlace https://meli.la/2Xz3eDR
-
-🎟️ Cupón: QUINCENAFEST
-Beneficio: -$800
-Compra mínima: $8000
-Enlace https://meli.la/2TVZWG8
+🎟️ Cupón: BENEFICIOHOY
+Beneficio: -$720 | 10%
+Compra mínima: $6000
+Enlace https://meli.la/1nxvASZ
 
 MELI
 🎟️ Cupón: MELICONNECT
