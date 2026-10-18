@@ -1,25 +1,30 @@
 ESTADO=1
 
-DESTACADO
-🎟️ Cupón: HOYESMEJOR
-Beneficio: -$88 | 10%
-Compra mínima: $700
+🎟️ Cupón: COMPRAHOY
+Beneficio: -$75 | 12%
+Compra mínima: $500
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: AHORROHOY
-Beneficio: -$225 | 12%
-Compra mínima: $1500
-Enlace https://meli.la/1zP3EbP
+🎟️ Cupón: DESCUENTODIA
+Beneficio: -$150 | 10%
+Compra mínima: $1200
+Enlace https://mercadolibre.com/sec/2AtiybX
 
-🎟️ Cupón: OFERTADELDIA
-Beneficio: -$350 | 12%
-Compra mínima: $2800
-Enlace https://meli.la/2KrmUMH
+🎟️ Cupón: IMPERDIBLEHOY
+Beneficio: -$288 | 10%
+Compra mínima: $2400
+Enlace https://meli.la/1k3tjYq
 
-🎟️ Cupón: BENEFICIOHOY
-Beneficio: -$720 | 10%
-Compra mínima: $6000
-Enlace https://meli.la/1nxvASZ
+DESTACADO
+🎟️ Cupón: PRECIOESPECIAL
+Beneficio: -$600 | 10%
+Compra mínima: $5000
+Enlace https://meli.la/1FCDBnb
+
+🎟️ Cupón: RAPIDOFERTA
+Beneficio: -$900
+Compra mínima: $9000
+Enlace https://meli.la/2TVZWG8
 
 MELI
 🎟️ Cupón: MELICONNECT
