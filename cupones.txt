@@ -1,27 +1,27 @@
 ESTADO=1
 
-DESTACADO
-🎟️ Cupón: OFERTAFLASH
-Beneficio: -$100 | 10%
-Compra mínima: $600
+🎟️ Cupón: PROMODELDIA
+Beneficio: -$70 | 10%
+Compra mínima: $500
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: BENEFICIOYA
-Beneficio: -$250 | 12%
-Compra mínima: $1400
+🎟️ Cupón: AHORROTOTAL
+Beneficio: -$150 | 12%
+Compra mínima: $1000
 Enlace https://mercadolibre.com/sec/2AtiybX
 
-🎟️ Cupón: DESCUENTOHOY
-Beneficio: -$500 | 10%
-Compra mínima: $2800
-Enlace https://meli.la/2KrmUMH
+DESTACADO
+🎟️ Cupón: OFERTATOP
+Beneficio: -$216 | 10%
+Compra mínima: $1800
+Enlace https://meli.la/2Tq8nED
 
-🎟️ Cupón: OPORTUNIDADYA
+🎟️ Cupón: BENEFICIOPLUS
 Beneficio: -$480 | 10%
 Compra mínima: $4000
 Enlace https://meli.la/2Xz3eDR
 
-🎟️ Cupón: SAMEAHORROS
+🎟️ Cupón: FLASHBENEFICIO
 Beneficio: -$800
 Compra mínima: $8000
 Enlace https://meli.la/2TVZWG8
