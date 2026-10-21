@@ -1,25 +1,10 @@
 ESTADO=1
 
-🎟️ Cupón: PROMODELDIA
-Beneficio: -$70 | 10%
-Compra mínima: $500
-Enlace https://meli.la/2ohB97c
-
-🎟️ Cupón: AHORROTOTAL
-Beneficio: -$150 | 12%
-Compra mínima: $1000
-Enlace https://mercadolibre.com/sec/2AtiybX
-
 DESTACADO
-🎟️ Cupón: OFERTATOP
-Beneficio: -$216 | 10%
-Compra mínima: $1800
-Enlace https://meli.la/2Tq8nED
-
-🎟️ Cupón: BENEFICIOPLUS
-Beneficio: -$480 | 10%
-Compra mínima: $4000
-Enlace https://meli.la/2Xz3eDR
+🎟️ Cupón: MELIGOL
+Beneficio: -$160 | 10%
+Compra mínima: $1500
+Enlace https://meli.la/1zP3EbP
 
 🎟️ Cupón: FLASHBENEFICIO
 Beneficio: -$800
