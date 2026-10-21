@@ -1,15 +1,35 @@
 ESTADO=1
 
-DESTACADO
+🎟️ Cupón: COMPRAEXPRESS
+Beneficio: -$75 | 10%
+Compra mínima: $600
+Enlace https://meli.la/2ohB97c
+
+🎟️ Cupón: PRECIOWOW
+Beneficio: -$175 | 10%
+Compra mínima: $1400
+Enlace https://mercadolibre.com/sec/2AtiybX
+
 🎟️ Cupón: MELIGOL
 Beneficio: -$160 | 10%
 Compra mínima: $1500
 Enlace https://meli.la/1zP3EbP
 
-🎟️ Cupón: FLASHBENEFICIO
-Beneficio: -$800
-Compra mínima: $8000
-Enlace https://meli.la/2TVZWG8
+🎟️ Cupón: DESCUENTOMAX
+Beneficio: -$275 | 10%
+Compra mínima: $2500
+Enlace https://meli.la/1k3tjYq
+
+DESTACADO
+🎟️ Cupón: PROMOEXPRESS
+Beneficio: -$500 | 10%
+Compra mínima: $4500
+Enlace https://meli.la/2Xz3eDR
+
+🎟️ Cupón: AHORROEXPRESS
+Beneficio: -$750
+Compra mínima: $7500
+Enlace https://meli.la/1YQtZ4h
 
 MELI
 🎟️ Cupón: MELICONNECT
