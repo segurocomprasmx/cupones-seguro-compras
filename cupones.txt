@@ -1,12 +1,27 @@
 ESTADO=1
 
-DESTACADO
-🎟️ Cupón: GOLMELI
-Beneficio: -$160 | 10%
-Compra mínima: $1500
-Enlace https://meli.la/1zP3EbP
+🎟️ Cupón: AHORROPLUS
+Beneficio: -$63 | 10%
+Compra mínima: $500
+Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: AHORROEXPRESS
-Beneficio: -$750
-Compra mínima: $7500
-Enlace https://meli.la/1YQtZ4h
+🎟️ Cupón: OFERTAUNICA
+Beneficio: -$225 | 10%
+Compra mínima: $1500
+Enlace https://mercadolibre.com/sec/2AtiybX
+
+🎟️ Cupón: BENEFICIOEXTRA
+Beneficio: -$350 | 10%
+Compra mínima: $2800
+Enlace https://meli.la/2KrmUMH
+
+DESTACADO
+🎟️ Cupón: COMPRAFLASH
+Beneficio: -$550 | 10%
+Compra mínima: $5000
+Enlace https://meli.la/1FCDBnb
+
+🎟️ Cupón: DEALINSTANTE
+Beneficio: -$900
+Compra mínima: $9000
+Enlace https://meli.la/2TVZWG8
