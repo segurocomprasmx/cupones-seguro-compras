@@ -1,27 +1,23 @@
 ESTADO=1
 
-🎟️ Cupón: AHORROPLUS
+🎟️ Cupón: PRECIODEHOY
 Beneficio: -$63 | 10%
 Compra mínima: $500
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: OFERTAUNICA
-Beneficio: -$225 | 10%
-Compra mínima: $1500
+🎟️ Cupón: DESCUENTOEXTRA
+Beneficio: -$150 | 10%
+Compra mínima: $1200
 Enlace https://mercadolibre.com/sec/2AtiybX
 
-🎟️ Cupón: BENEFICIOEXTRA
-Beneficio: -$350 | 10%
-Compra mínima: $2800
-Enlace https://meli.la/2KrmUMH
-
 DESTACADO
-🎟️ Cupón: COMPRAFLASH
-Beneficio: -$550 | 10%
-Compra mínima: $5000
-Enlace https://meli.la/1FCDBnb
+🎟️ Cupón: PROMOTOP
+Beneficio: -$375 | 12%
+Compra mínima: $2500
+Enlace https://meli.la/1k3tjYq
 
-🎟️ Cupón: DEALINSTANTE
-Beneficio: -$900
-Compra mínima: $9000
-Enlace https://meli.la/2TVZWG8
+🎟️ Cupón: AHORROMAX
+Beneficio: -$480
+Compra mínima: $4800
+Enlace https://meli.la/2Xz3eDR
+
