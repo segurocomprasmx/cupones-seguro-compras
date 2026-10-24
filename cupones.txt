@@ -1,30 +1,55 @@
 ESTADO=1
 
+DESTACADO
 🎟️ Cupón: PRECIODEHOY
 Beneficio: -$63 | 10%
 Compra mínima: $500
 Enlace https://meli.la/2ohB97c
+
+🎟️ Cupón: OFERTAPLUS
+Beneficio: -$75 | 10%
+Compra mínima: $600
+Enlace https://meli.la/1ieF2Zi
 
 🎟️ Cupón: DESCUENTOEXTRA
 Beneficio: -$150 | 10%
 Compra mínima: $1200
 Enlace https://mercadolibre.com/sec/2AtiybX
 
+🎟️ Cupón: BENEFICIOMAX
+Beneficio: -$175 | 10%
+Compra mínima: $1400
+Enlace https://meli.la/1zP3EbP
+
 🎟️ Cupón: PROMOTOP
 Beneficio: -$375 | 12%
 Compra mínima: $2500
 Enlace https://meli.la/1k3tjYq
+
+🎟️ Cupón: COMPRAALDIA
+Beneficio: -$250
+Compra mínima: $2500
+Enlace https://meli.la/2KrmUMH
+
+🎟️ Cupón: PRECIOFLASH
+Beneficio: -$450
+Compra mínima: $4500
+Enlace https://meli.la/2mHsAQc
 
 🎟️ Cupón: AHORROMAX
 Beneficio: -$480
 Compra mínima: $4800
 Enlace https://meli.la/2Xz3eDR
 
-DESTACADO
 🎟️ Cupón: OCTUBREFLASH
 Beneficio: -$800
 Compra mínima: $8000
 Enlace https://meli.la/2TVZWG8
+
+🎟️ Cupón: EXPRESSPROMO
+Beneficio: -$800
+Compra mínima: $8000
+Enlace https://meli.la/22LySxw
 
 🎟️ Cupón: OFERTABRUTAL
 Beneficio: -$1200
