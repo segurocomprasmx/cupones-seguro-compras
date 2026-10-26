@@ -1,27 +1,23 @@
 ESTADO=1
 
+🎟️ Cupón: COMPRAFACIL
+Beneficio: -$75 | 10%
+Compra mínima: $600
+Enlace https://meli.la/1ieF2Zi
+
+🎟️ Cupón: PRECIOPLUS
+Beneficio: -$210 | 10%
+Compra mínima: $1400
+Enlace https://meli.la/1zP3EbP
+
 DESTACADO
-🎟️ Cupón: DESCUENTOPLUS
-Beneficio: -$150 | 10%
-Compra mínima: $500
-Enlace https://meli.la/2ohB97c
-
-🎟️ Cupón: PROMOAHORA
-Beneficio: -$200 | 10%
-Compra mínima: $1200
-Enlace https://mercadolibre.com/sec/2AtiybX
-
-🎟️ Cupón: AHORROYA
-Beneficio: -$250
-Compra mínima: $2500
+🎟️ Cupón: DESCUENTOWOW
+Beneficio: -$350 | 10%
+Compra mínima: $2800
 Enlace https://meli.la/2KrmUMH
 
-🎟️ Cupón: OFERTAMAX
+🎟️ Cupón: PROMOIMPERDIBLE
 Beneficio: -$450
 Compra mínima: $4500
 Enlace https://meli.la/2mHsAQc
 
-🎟️ Cupón: OCTUBREBRUTAL
-Beneficio: -$850
-Compra mínima: $8500
-Enlace https://meli.la/22LySxw
