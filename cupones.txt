@@ -1,27 +1,22 @@
 ESTADO=1
 
-🎟️ Cupón: COMPRAFACIL
-Beneficio: -$75 | 10%
-Compra mínima: $600
+DESTACADO
+🎟️ Cupón: AHORROESPECIAL
+Beneficio: -$88 | 10%
+Compra mínima: $700
 Enlace https://meli.la/1ieF2Zi
 
-🎟️ Cupón: PRECIOPLUS
-Beneficio: -$210 | 10%
-Compra mínima: $1400
+🎟️ Cupón: OFERTAFAVORITA
+Beneficio: -$225 | 10%
+Compra mínima: $1500
 Enlace https://meli.la/1zP3EbP
 
-DESTACADO
-🎟️ Cupón: DESCUENTOWOW
-Beneficio: -$350 | 10%
-Compra mínima: $2800
-Enlace https://meli.la/2KrmUMH
+🎟️ Cupón: BENEFICIOUNICO
+Beneficio: -$325 | 10%
+Compra mínima: $2600
+Enlace https://meli.la/1k3tjYq
 
-🎟️ Cupón: PROMOIMPERDIBLE
-Beneficio: -$450
-Compra mínima: $4500
+🎟️ Cupón: COMPRAWOW
+Beneficio: -$400
+Compra mínima: $4000
 Enlace https://meli.la/2mHsAQc
-
-🎟️ Cupón: IMPERDIBLE11
-Beneficio: -$650
-Compra mínima: $6500
-Enlace https://meli.la/1nxvASZ
