@@ -1,6 +1,5 @@
 ESTADO=1
 
-DESTACADO
 🎟️ Cupón: AHORROESPECIAL
 Beneficio: -$88 | 10%
 Compra mínima: $700
@@ -20,3 +19,14 @@ Enlace https://meli.la/1k3tjYq
 Beneficio: -$400
 Compra mínima: $4000
 Enlace https://meli.la/2mHsAQc
+
+🎟️ Cupón: OFERTASUPER
+Beneficio: -$650
+Compra mínima: $6500
+Enlace https://meli.la/1nxvASZ
+
+DESTACADO
+🎟️ Cupón: OFERTADMAXIMA
+Beneficio: -$1200 | 12%
+Compra mínima: $8000
+Enlace https://meli.la/22LySxw
