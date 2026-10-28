@@ -1,32 +1,32 @@
 ESTADO=1
 
-🎟️ Cupón: AHORROESPECIAL
-Beneficio: -$88 | 10%
-Compra mínima: $700
-Enlace https://meli.la/1ieF2Zi
+DESTACADO
+🎟️ Cupón: PRECIOINCREIBLE
+Beneficio: -$75 | 10%
+Compra mínima: $600
+Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: OFERTAFAVORITA
-Beneficio: -$225 | 10%
-Compra mínima: $1500
+🎟️ Cupón: DESCUENTOFULL
+Beneficio: -$175 | 10%
+Compra mínima: $1400
 Enlace https://meli.la/1zP3EbP
 
-🎟️ Cupón: BENEFICIOUNICO
-Beneficio: -$325 | 10%
-Compra mínima: $2600
+🎟️ Cupón: PROMOBENEFICIO
+Beneficio: -$250
+Compra mínima: $2500
 Enlace https://meli.la/1k3tjYq
 
-🎟️ Cupón: COMPRAWOW
-Beneficio: -$400
-Compra mínima: $4000
-Enlace https://meli.la/2mHsAQc
+🎟️ Cupón: AHORROALDIA
+Beneficio: -$450
+Compra mínima: $4500
+Enlace https://meli.la/2Xz3eDR
 
-🎟️ Cupón: OFERTASUPER
-Beneficio: -$650
-Compra mínima: $6500
-Enlace https://meli.la/1nxvASZ
-
-DESTACADO
-🎟️ Cupón: OFERTADMAXIMA
-Beneficio: -$1200 | 12%
+🎟️ Cupón: DESCUENTOFEST
+Beneficio: -$800
 Compra mínima: $8000
 Enlace https://meli.la/22LySxw
+
+🎟️ Cupón: AHORROBRILLANTE
+Beneficio: -$1650 | 12%
+Compra mínima: $11000
+Enlace https://meli.la/1sYBexs
