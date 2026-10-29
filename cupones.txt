@@ -1,32 +1,37 @@
 ESTADO=1
 
 DESTACADO
-🎟️ Cupón: PRECIOINCREIBLE
+🎟️ Cupón: QUINCENAPLUS
 Beneficio: -$75 | 10%
-Compra mínima: $600
+Compra mínima: $500
 Enlace https://meli.la/2ohB97c
 
-🎟️ Cupón: DESCUENTOFULL
-Beneficio: -$175 | 10%
-Compra mínima: $1400
-Enlace https://meli.la/1zP3EbP
+🎟️ Cupón: AHORROQNA
+Beneficio: -$125 | 10%
+Compra mínima: $1000
+Enlace https://mercadolibre.com/sec/2AtiybX
 
-🎟️ Cupón: PROMOBENEFICIO
-Beneficio: -$250
-Compra mínima: $2500
+🎟️ Cupón: STANLEY
+Beneficio: -$4000 | 20%
+Compra mínima: $2000
+Enlace https://meli.la/2nJ7gfC
+
+🎟️ Cupón: PROMOQUINCENA
+Beneficio: -$220
+Compra mínima: $2200
 Enlace https://meli.la/1k3tjYq
 
-🎟️ Cupón: AHORROALDIA
+🎟️ Cupón: BENEFICIO15
 Beneficio: -$450
 Compra mínima: $4500
 Enlace https://meli.la/2Xz3eDR
 
-🎟️ Cupón: DESCUENTOFEST
+🎟️ Cupón: AHORROINFINITO
 Beneficio: -$800
 Compra mínima: $8000
-Enlace https://meli.la/22LySxw
+Enlace https://meli.la/2TVZWG8
 
-🎟️ Cupón: AHORROBRILLANTE
-Beneficio: -$1650 | 12%
-Compra mínima: $11000
-Enlace https://meli.la/1sYBexs
+🎟️ Cupón: PRECIODESTACADO
+Beneficio: -$1440 | 10%
+Compra mínima: $12000
+Enlace https://meli.la/2AyhQpq
