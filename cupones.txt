@@ -1,49 +1,32 @@
 ESTADO=1
 
-🎟️ Cupón: QNANOV
-Beneficio: -$50 | 10%
-Compra mínima: $350
-Enlace https://meli.la/2ohB97c
-
-🎟️ Cupón: QNAEXTRA
-Beneficio: -$75 | 10%
-Compra mínima: $600
+🎟️ Cupón: TOPQUINCENA
+Beneficio: -$100 | 10%
+Compra mínima: $800
 Enlace https://meli.la/1ieF2Zi
 
-🎟️ Cupón: DESCUENTOQNA
-Beneficio: -$188 | 10%
-Compra mínima: $1500
-Enlace https://meli.la/1zP3EbP
-
-🎟️ Cupón: QUINCENA
-Beneficio: -$190 | 10%
+🎟️ Cupón: PROMO15
+Beneficio: -$270 | 10%
 Compra mínima: $1800
 Enlace https://meli.la/2Tq8nED
 
-🎟️ Cupón: STANLEY
-Beneficio: -$4000 | 20%
-Compra mínima: $2000 SOLO HERRAMIENTAS
-Enlace https://meli.la/2nJ7gfC
-
 DESTACADO
-🎟️ Cupón: OFERTA15
-Beneficio: -$375 | 10%
+🎟️ Cupón: BENEFICIOQUINCENA
+Beneficio: -$450 | 10%
 Compra mínima: $3000
 Enlace https://meli.la/1t49XAp
 
-🎟️ Cupón: AHORRO15
+🎟️ Cupón: WOWQUINCENA
 Beneficio: -$600
 Compra mínima: $6000
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: QUINCENAINCRE
+🎟️ Cupón: OFERTASORPRESA
 Beneficio: -$1000 | 10%
 Compra mínima: $8000
 Enlace https://meli.la/2TVZWG8
 
-DESTACADO
-🎟️ Cupón: OFERTASINIGUAL
-Beneficio: -$1440 | 10%
-Compra mínima: $12000
-Enlace https://meli.la/2AyhQpq
-
+🎟️ Cupón: DESCUENTOGIGANTE
+Beneficio: -$1200 | 10%
+Compra mínima: $10000
+Enlace https://meli.la/22LySxw
