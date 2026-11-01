@@ -1,32 +1,27 @@
 ESTADO=1
 
-🎟️ Cupón: TOPQUINCENA
-Beneficio: -$100 | 10%
-Compra mínima: $800
-Enlace https://meli.la/1ieF2Zi
-
-🎟️ Cupón: PROMO15
-Beneficio: -$270 | 10%
-Compra mínima: $1800
-Enlace https://meli.la/2Tq8nED
+🎟️ Cupón: PREDDTOP
+Beneficio: -$70 | 10%
+Compra mínima: $500
+Enlace https://meli.la/2ohB97c
 
 DESTACADO
-🎟️ Cupón: BENEFICIOQUINCENA
-Beneficio: -$450 | 10%
+🎟️ Cupón: DOBLEDEAL
+Beneficio: -$200 | 12%
+Compra mínima: $1200
+Enlace https://mercadolibre.com/sec/2AtiybX
+
+🎟️ Cupón: PEEDDMAX
+Beneficio: -$300
 Compra mínima: $3000
 Enlace https://meli.la/1t49XAp
 
-🎟️ Cupón: WOWQUINCENA
+🎟️ Cupón: DOBLEPLUS
 Beneficio: -$600
 Compra mínima: $6000
 Enlace https://meli.la/1nxvASZ
 
-🎟️ Cupón: OFERTASORPRESA
+🎟️ Cupón: PREDDYA
 Beneficio: -$1000 | 10%
-Compra mínima: $8000
-Enlace https://meli.la/2TVZWG8
-
-🎟️ Cupón: DESCUENTOGIGANTE
-Beneficio: -$1200 | 10%
-Compra mínima: $10000
+Compra mínima: $9000
 Enlace https://meli.la/22LySxw
