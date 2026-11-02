@@ -1,5 +1,11 @@
 ESTADO=1
 
+DESTACADO
+🎟️ Cupón: DOBLESALE
+Beneficio: -$80 | 10%
+Compra mínima: $600
+Enlace https://meli.la/2ohB97c
+
 🎟️ Cupón: MELICONECTA
 Beneficio: -$80 | 10%
 Compra mínima: $600
@@ -9,3 +15,23 @@ Enlace https://meli.la/1zN1cCQ
 Beneficio: -$175 | 10%
 Compra mínima: $1500
 Enlace https://meli.la/1zP3EbP
+
+🎟️ Cupón: PREDDGO
+Beneficio: -$190 | 10%
+Compra mínima: $1500
+Enlace https://meli.la/2Tq8nED
+
+🎟️ Cupón: DOBLEFEST
+Beneficio: -$500 | 10%
+Compra mínima: $4000
+Enlace https://meli.la/2mHsAQc
+
+🎟️ Cupón: PREDDVIP
+Beneficio: -$700
+Compra mínima: $7000
+Enlace https://meli.la/1YQtZ4h
+
+🎟️ Cupón: DOBLESHOP
+Beneficio: -$1050
+Compra mínima: $10500
+Enlace https://meli.la/1sYBexs
