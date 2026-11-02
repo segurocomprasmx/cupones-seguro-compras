@@ -1,27 +1,11 @@
 ESTADO=1
 
-🎟️ Cupón: PREDDTOP
-Beneficio: -$70 | 10%
-Compra mínima: $500
-Enlace https://meli.la/2ohB97c
+🎟️ Cupón: MELICONECTA
+Beneficio: -$80 | 10%
+Compra mínima: $600
+Enlace https://meli.la/1zN1cCQ
 
-DESTACADO
-🎟️ Cupón: DOBLEDEAL
-Beneficio: -$200 | 12%
-Compra mínima: $1200
-Enlace https://mercadolibre.com/sec/2AtiybX
-
-🎟️ Cupón: PEEDDMAX
-Beneficio: -$300
-Compra mínima: $3000
-Enlace https://meli.la/1t49XAp
-
-🎟️ Cupón: DOBLEPLUS
-Beneficio: -$600
-Compra mínima: $6000
-Enlace https://meli.la/1nxvASZ
-
-🎟️ Cupón: PREDDYA
-Beneficio: -$1000 | 10%
-Compra mínima: $9000
-Enlace https://meli.la/22LySxw
+🎟️ Cupón: CHECOFAN
+Beneficio: -$175 | 10%
+Compra mínima: $1500
+Enlace https://meli.la/1zP3EbP
