@@ -1,32 +1,7 @@
 ESTADO=1
 
 DESTACADO
-🎟️ Cupón: PREDDSTAR
-Beneficio: -$80 | 10%
-Compra mínima: $600
-Enlace https://meli.la/2ohB97c
-
-🎟️ Cupón: MELICONECTA
-Beneficio: -$80 | 10%
-Compra mínima: $600
-Enlace https://meli.la/1zN1cCQ
-
-🎟️ Cupón: DOBLEFUROR
-Beneficio: -$190 | 10%
-Compra mínima: $1500
-Enlace https://mercadolibre.com/sec/2AtiybX
-
-🎟️ Cupón: PREDDGANA
-Beneficio: -$500 | 10%
-Compra mínima: $4000
-Enlace https://meli.la/2mHsAQc
-
-🎟️ Cupón: DOBLEPOWER
-Beneficio: -$700
-Compra mínima: $7000
-Enlace https://meli.la/1YQtZ4h
-
-🎟️ Cupón: PREDDTOTAL
-Beneficio: -$1050
-Compra mínima: $10500
-Enlace https://meli.la/1sYBexs
+🎟️ Cupón: VENTA13
+Beneficio: -$500 | 13%
+Compra mínima: $1000
+Enlace https://meli.la/1zP3EbP
