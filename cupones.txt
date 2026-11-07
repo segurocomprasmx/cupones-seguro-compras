@@ -1,11 +1,16 @@
 ESTADO=1
 
+DESTACADO
+🎟️ Cupón: GRANJA13
+Beneficio: -$80 | 13%
+Compra mínima: $500
+Enlace https://meli.la/1ieF2Zi
+
 🎟️ Cupón: MELICONECTA
 Beneficio: -$80 | 10%
 Compra mínima: $600 PRODUCTOS SELECCIONADOS
 Enlace https://meli.la/1zN1cCQ
 
-DESTACADO
 🎟️ Cupón: DOBLEHIT
 Beneficio: -$90 | 10%
 Compra mínima: $700
