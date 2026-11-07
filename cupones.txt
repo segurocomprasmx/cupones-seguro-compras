@@ -1,42 +1,38 @@
 ESTADO=1
 
-DESTACADO
-🎟️ Cupón: GRANJA13
-Beneficio: -$80 | 13%
-Compra mínima: $500
-Enlace https://meli.la/1ieF2Zi
-
 🎟️ Cupón: MELICONECTA
 Beneficio: -$80 | 10%
 Compra mínima: $600 PRODUCTOS SELECCIONADOS
 Enlace https://meli.la/1zN1cCQ
 
-🎟️ Cupón: DOBLEHIT
-Beneficio: -$90 | 10%
-Compra mínima: $700
-Enlace https://meli.la/2ohB97c
+🎟️ Cupón: PREDDGOLD
+Beneficio: -$80 | 10%
+Compra mínima: $600
+Enlace https://meli.la/1ieF2Zi
 
-🎟️ Cupón: PREDDPRIME
-Beneficio: -$230 | 10%
-Compra mínima: $1800
-Enlace https://meli.la/2Tq8nED
+🎟️ Cupón: MELICONECTA
+Beneficio: -$80 | 10%
+Compra mínima: $600
+Enlace https://meli.la/1zN1cCQ
 
-🎟️ Cupón: DOBLEBOOM
-Beneficio: -$500
-Compra mínima: $5000
-Enlace https://meli.la/1FCDBnb
+🎟️ Cupón: DOBLEAHORRA
+Beneficio: -$190 | 10%
+Compra mínima: $1500
+Enlace https://mercadolibre.com/sec/2AtiybX
 
-🎟️ Cupón: PREDDSUPER
-Beneficio: -$800
-Compra mínima: $8000
-Enlace https://meli.la/2TVZWG8
+DESTACADO
+🎟️ Cupón: PREDDOFERTA
+Beneficio: -$500 | 10%
+Compra mínima: $4000
+Enlace https://meli.la/2mHsAQc
 
-🎟️ Cupón: DOBLEMAGIA
-Beneficio: -$1200
-Compra mínima: $12000
-Enlace https://meli.la/2AyhQpq
+🎟️ Cupón: DOBLEPREMIO
+Beneficio: -$700
+Compra mínima: $7000
+Enlace https://meli.la/1YQtZ4h
 
-🎟️ Cupón: VENTA13
-Beneficio: -$500 | 13%
-Compra mínima: $1000
-Enlace https://meli.la/1zP3EbP
+🎟️ Cupón: PREDDLUJO
+Beneficio: -$1050
+Compra mínima: $10500
+Enlace https://meli.la/1sYBexs
+
