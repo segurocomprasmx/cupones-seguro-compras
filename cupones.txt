@@ -1,22 +1,12 @@
 ESTADO=1
 
 DESTACADO
-🎟️ Cupón: BFLOCURA
-Beneficio: -$130 | 10%
-Compra mínima: $750
-Enlace https://meli.la/2ohB97c
+🎟️ Cupón: BUENFINHIT
+Beneficio: -$310 | 10%
+Compra mínima: $1850
+Enlace https://meli.la/32V4U7e
 
-🎟️ Cupón: BUENFINSTAR
-Beneficio: -$230 | 10%
-Compra mínima: $1650
-Enlace https://meli.la/2Tq8nED
-
-🎟️ Cupón: BFMAGICO
-Beneficio: -$500 | 10%
-Compra mínima: $3000
-Enlace https://meli.la/1t49XAp
-
-🎟️ Cupón: BUENFINJOY
-Beneficio: -$600
-Compra mínima: $6000
-Enlace https://meli.la/1nxvASZ
+🎟️ Cupón: BUENFINMIX
+Beneficio: -$840 | 10%
+Compra mínima: $7000
+Enlace https://meli.la/1YQtZ4h
