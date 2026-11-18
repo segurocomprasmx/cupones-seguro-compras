@@ -1,12 +1,7 @@
-ESTADO=0
+ESTADO=1
 
 DESTACADO
-🎟️ Cupón: BUENFINHIT
-Beneficio: -$310 | 10%
-Compra mínima: $1850
-Enlace https://meli.la/32V4U7e
-
-🎟️ Cupón: BUENFINMIX
-Beneficio: -$840 | 10%
-Compra mínima: $7000
-Enlace https://meli.la/1YQtZ4h
+🎟️ Cupón: PLAYER1
+Beneficio: -$110 | 10%
+Compra mínima: $1000
+Enlace https://meli.la/1zP3EbP
