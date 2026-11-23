@@ -1,1 +1,6 @@
+MELI+|MELIMASPBFY|-$500 5%|Compra mínima: $3,000|https://meli.la/216HkUo
+AFIRME|AFRMPBFY|-$1000 10%|Compra mínima: $3,000|https://meli.la/274cUTv
+MERCADO PAGO|TCMPPBFY|-$750 10%|Compra mínima: $3,000|https://meli.la/2EtP9dz
+BBVA|BBVAPBFY|-$1000 10%|Compra mínima: $3,000|https://meli.la/2poqXAV
+SANTANDER|SANTPBFY|-$1000 10%|Compra mínima: $3,000|https://meli.la/2zeEeuo
 
