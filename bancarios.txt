@@ -1,6 +1,12 @@
-MELI+|MELIMASPBFY|-$500 5%|Compra mínima: $3,000|https://meli.la/216HkUo
-AFIRME|AFRMPBFY|-$1000 10%|Compra mínima: $3,000|https://meli.la/274cUTv
-MERCADO PAGO|TCMPPBFY|-$750 10%|Compra mínima: $3,000|https://meli.la/2EtP9dz
-BBVA|BBVAPBFY|-$1000 10%|Compra mínima: $3,000|https://meli.la/2poqXAV
-SANTANDER|SANTPBFY|-$1000 10%|Compra mínima: $3,000|https://meli.la/2zeEeuo
-
+FALABELLA|CASHBACK ACTIVANDO EN WHATSAPP|-$1000 15%|Compra mínima: $1,000|5550894262
+MERCADO PAGO CRÉDITO SIN TARJETA|CREDITOBFY|-$500 10%|Compra mínima: $3,000|https://meli.la/1FCDBnb
+DIDI|DIDIBFY|-$500 15%|Compra mínima: $3,000|https://meli.la/2kKbUN7
+AFIRME|AFRMBFY|-$1000 15%|Compra mínima: $3,000|https://meli.la/274cUTv
+SANTANDER|SANTBFY|-$500 10%|Compra mínima: $3,000|https://meli.la/2zeEeuo
+BANORTE|BNRTBFY|-$500 10%|Compra mínima: $3,500|https://meli.la/2yL7Jvx
+HSBC|HSBCBFY|-$500 10%|Compra mínima: $3,500|https://meli.la/1QFVkxP
+MIFEL|MIFEBFY|-$1000 15%|Compra mínima: $3,500|https://meli.la/13zbMkJ
+BANAMEX|BNMXBFY|-$500 10%|Compra mínima: $4,000|https://meli.la/2Fa2RS2
+MERCADO PAGO CON TARJETA|TCMPBFY|-$500 10%|Compra mínima: $4,000|https://meli.la/2EtP9dz
+BBVA|BBVABFY|-$500 10%|Compra mínima: $4,500|https://meli.la/2poqXAV
+AMERICAN EXPRESS|AMEXBFY|-$600 10%|Compra mínima: $5,000|https://meli.la/13ypTrY
