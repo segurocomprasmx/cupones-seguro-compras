@@ -1,7 +1,8 @@
-ESTADO=0
+ESTADO=1
 
 DESTACADO
-🎟️ Cupón: PLAYER1
-Beneficio: -$110 | 10%
-Compra mínima: $1000
-Enlace https://meli.la/1zP3EbP
+🎟️ Cupón: CUARTOS1
+Beneficio: -$200
+Compra mínima: $2000
+Enlace https://meli.la/2KrmUMH
+
