@@ -1,14 +1,7 @@
-ESTADO=0
+ESTADO=1
 
 DESTACADO
-🎟️ Cupón: CUARTOS1
-Beneficio: -$200
-Compra mínima: $2000
-Enlace https://meli.la/2KrmUMH
-
-🎟️ Cupón: CUARTOS2
-Beneficio: -$20 | 10%
+🎟️ Cupón: BLACK12
+Beneficio: -$260 | 12%
 Compra mínima: $2000
 Enlace https://meli.la/2gzHLvz
-
-
